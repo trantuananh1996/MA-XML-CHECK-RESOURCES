@@ -1046,4 +1046,38 @@
 	<item folder="all" application="Backup.apk" file="strings.xml" name="unit_byte"/>
 	<item folder="all" application="BugReport.apk" file="arrays.xml" name="customer_service"/>
 	<item folder="all" application="BugReport.apk" file="arrays.xml" name="passport_alphabet_table"/>
+	<item folder="all" application="AuthManager.apk" file="strings.xml" name="HIPS_Perm_process_nfc"/>
+	<item folder="all" application="AuthManager.apk" file="strings.xml" name="ok"/>
+	<item folder="all" application="Backup.apk" file="strings.xml" name="button_got_it"/>
+	<item folder="all" application="Backup.apk" file="strings.xml" name="button_ok"/>
+	<item folder="all" application="Backup.apk" file="strings.xml" name="comma_seperator"/>
+	<item folder="all" application="Backup.apk" file="strings.xml" name="feature_title_mms"/>
+	<item folder="all" application="Backup.apk" file="strings.xml" name="trans_one_key_migrate"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="google"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_data_preload_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_fling_on_border_gesture_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_homepage_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_images_preload_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_link_prefetch_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_nav_mode_summary_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_navscreen_layoutstate_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_text_zoom_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_ua_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_video_preload_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="search_bar_search_engines_default"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="search_engines_default"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="suggestion_weather_condition_code"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_fling_gesture_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_restore_tabs_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="aqi_title"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="aqi_title_append"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="aqi_title_prefix"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="bookmarks_es_telcel"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="bookmarks_es_vodafone"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="only_google"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="search_bar_search_engines_only_google"/>
+	<item folder="all" application="SecurityCoreAdd.apk" file="strings.xml" name="search_input_txt_na"/>
+
+	
+	
 </resources>
