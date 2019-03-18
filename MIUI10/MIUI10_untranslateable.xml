@@ -1044,4 +1044,6 @@
 	<item folder="all" application="Backup.apk" file="strings.xml" name="size_mega_byte"/>
 	<item folder="all" application="Backup.apk" file="strings.xml" name="total_size"/>
 	<item folder="all" application="Backup.apk" file="strings.xml" name="unit_byte"/>
+	<item folder="all" application="BugReport.apk" file="arrays.xml" name="customer_service"/>
+	<item folder="all" application="BugReport.apk" file="arrays.xml" name="passport_alphabet_table"/>
 </resources>
