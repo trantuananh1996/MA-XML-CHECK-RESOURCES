@@ -1036,4 +1036,12 @@
 	<item folder="all" application="Email.apk" file="arrays.xml" name="special_text_colon_array"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="special_text_sender_array"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="special_text_wroted_array"/>
+	<item folder="all" application="Backup.apk" file="strings.xml" name="dir_date_format"/>
+	<item folder="all" application="Backup.apk" file="strings.xml" name="import_tip_message"/>
+	<item folder="all" application="Backup.apk" file="strings.xml" name="size_byte"/>
+	<item folder="all" application="Backup.apk" file="strings.xml" name="size_giga_byte"/>
+	<item folder="all" application="Backup.apk" file="strings.xml" name="size_kilo_byte"/>
+	<item folder="all" application="Backup.apk" file="strings.xml" name="size_mega_byte"/>
+	<item folder="all" application="Backup.apk" file="strings.xml" name="total_size"/>
+	<item folder="all" application="Backup.apk" file="strings.xml" name="unit_byte"/>
 </resources>
