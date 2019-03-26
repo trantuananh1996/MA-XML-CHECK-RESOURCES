@@ -2345,7 +2345,9 @@
 	<item application="TeleService.apk" file="arrays.xml" folder="all" name="plmn_prefer_network_type_choices"/>
 	<item application="TeleService.apk" file="arrays.xml" folder="all" name="gsm_umts_network_preferences_choices"/>	
 	
-	
+	<item application="Settings.apk" file="strings.xml" folder="all" name="music_dirac_mode_half_in_ear"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="aod_dual_togother"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="aod_dual_togother_12"/>
 	
 	
 	
