@@ -2154,7 +2154,205 @@
 	<item application="PackageInstaller.apk" file="strings.xml" folder="all" name="wifi_aggressive_handover"/>
 	<item application="PackageInstaller.apk" file="strings.xml" folder="all" name="wifi_aggressive_handover_summary"/>
 
+<item application="Contacts.apk" file="strings.xml" folder="all" name="call_feature_volte"/>
+	<item application="Contacts.apk" file="strings.xml" folder="all" name="call_feature_vowifi"/>
+	<item application="MiuiBiometric.apk" file="strings.xml" folder="all" name="my_app_name"/>
+	<item application="MiuiExtraPhoto.apk" file="strings.xml" folder="all" name="extra_photo_common_permission_name"/>
 
-
+	<item application="Calendar.apk" file="arrays.xml" folder="all" name="bundesliga"/>
+	<item application="Calendar.apk" file="arrays.xml" folder="all" name="la_liga"/>
+	<item application="Calendar.apk" file="arrays.xml" folder="all" name="ligue_1"/>
+	<item application="Calendar.apk" file="arrays.xml" folder="all" name="serie_a"/>
+	<item application="Calendar.apk" file="arrays.xml" folder="all" name="timezone_values"/>
+	<item application="Calendar.apk" file="arrays.xml" folder="all" name="preferences_skip_reminders_values"/>
+	<item application="Calendar.apk" file="arrays.xml" folder="all" name="recurrence_freq"/>
+	<item application="Calendar.apk" file="arrays.xml" folder="all" name="timezone_rename_ids"/>
+	<item application="Calendar.apk" file="arrays.xml" folder="all" name="timezone_rename_labels"/>
+	<item application="Calendar.apk" file="arrays.xml" folder="all" name="backup_country_codes"/>
+	<item application="Calendar.apk" file="arrays.xml" folder="all" name="backup_country_names"/>
+	<item application="Calendar.apk" file="arrays.xml" folder="all" name="global_criket_match"/>
+	<item application="framework-res.apk" file="arrays.xml" folder="all" name="config_miuiNonBlockableNotificationPackages"/>
+<item application="mediatek-res.apk" file="arrays.xml" folder="all" name="new_search_engines"/>
+	<item application="mediatek-res.apk" file="arrays.xml" folder="all" name="signature_app_list"/>
+	<item application="mediatek-res.apk" file="arrays.xml" folder="all" name="new_search_engines"/>	
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="cell_layout_size_entries"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="cell_layout_size_values"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="dgoogle"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="dyandex"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="filter_prefix"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="islam"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="islam_lowkeymidrop"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="lowkeymidrop"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="mipicks"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="no_pay_google"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="yandex"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="yansearch"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="filter_prefix"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="islam_lowkeymidrop"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="islam_lowkeymidrop_mipicks"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="dgoogle"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="dyandex"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="filter_prefix"/>
+	<item application="MiuiScanner.apk" file="arrays.xml" folder="all" name="ArrayLangCodes"/>
+	<item application="MiuiScreenRecorder.apk" file="arrays.xml" folder="all" name="screenrecorder_settings_resolution_c9_full_values"/>
+	<item application="MiuiScreenRecorder.apk" file="arrays.xml" folder="all" name="screenrecorder_settings_resolution_full_values"/>
+	<item application="MiuiScreenRecorder.apk" file="arrays.xml" folder="all" name="screenrecorder_utils_support_high_frames_cpu"/>
+	<item application="MiuiScreenRecorder.apk" file="arrays.xml" folder="all" name="screenrecorder_settings_resolution_f9_full_values"/>
+	<item application="MiuiScreenRecorder.apk" file="arrays.xml" folder="all" name="screenrecorder_utils_support_high_frames_cpu"/>	
+	<item application="miuisystem.apk" file="arrays.xml" folder="all" name="mobile_operator_display_names"/>
+	<item application="miuisystem.apk" file="arrays.xml" folder="all" name="mobile_operator_numeric_equivalencies"/>
+	<item application="miuisystem.apk" file="arrays.xml" folder="all" name="mobile_operator_numeric_values"/>	
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="origin_carrier_names"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="locale_carrier_names"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="nav_bar_button_values"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="nav_bar_layouts_values"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="lockscreen_num_pad_klondike"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="region_support_mihome"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="carrier_name"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="carrier_simple_name"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="hdcp_checking_values"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="select_logd_system_levels"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="overlay_display_devices_values"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="enable_opengl_traces_values"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="show_non_rect_clip_values"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="track_frame_time_values"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="debug_hw_overdraw_values"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="usb_configuration_values"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="tts_demo_strings"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="bluetooth_avrcp_version_values"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="debug_hw_renderer_values"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="select_logpersist_values"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="bluetooth_avrcp_version_values"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="config_allowFloatPackages"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="config_allowKeyguardPackages"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="config_canShowBadgePackages"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="config_prioritizedPackages"/>	
+	<item application="MiuiVideoLeo.apk" file="arrays.xml" folder="all" name="server_list_entries_value"/>
+	<item application="Mms.apk" file="arrays.xml" folder="all" name="rf_value"/>
+	<item application="Music.apk" file="arrays.xml" folder="all" name="aritst_gender_filter_api"/>
+	<item application="Notes.apk" file="arrays.xml" folder="all" name="first_guide_images"/>
+	<item application="Notes.apk" file="arrays.xml" folder="all" name="second_guide_images"/>	
+	<item application="PackageInstaller.apk" file="arrays.xml" folder="all" name="hdcp_checking_values"/>
+	<item application="PackageInstaller.apk" file="arrays.xml" folder="all" name="enable_opengl_traces_values"/>
+	<item application="PackageInstaller.apk" file="arrays.xml" folder="all" name="show_non_rect_clip_values"/>
+	<item application="PackageInstaller.apk" file="arrays.xml" folder="all" name="track_frame_time_values"/>
+	<item application="PackageInstaller.apk" file="arrays.xml" folder="all" name="debug_hw_overdraw_values"/>
+	<item application="PackageInstaller.apk" file="arrays.xml" folder="all" name="usb_configuration_values"/>
+	<item application="PackageInstaller.apk" file="arrays.xml" folder="all" name="tts_demo_strings"/>
+	<item application="PackageInstaller.apk" file="arrays.xml" folder="all" name="tts_demo_string_langs"/>
+	<item application="PackageInstaller.apk" file="arrays.xml" folder="all" name="bluetooth_avrcp_version_values"/>
+	<item application="PackageInstaller.apk" file="arrays.xml" folder="all" name="debug_hw_renderer_values"/>
+	<item application="PackageInstaller.apk" file="arrays.xml" folder="all" name="select_logpersist_values"/>	
+	<item application="PowerKeeper.apk" file="arrays.xml" folder="all" name="sleep_white_list"/>
+	<item application="PrintSpooler.apk" file="arrays.xml" folder="all" name="mediasize_to_standard_map"/>
+	<item application="PrintSpooler.apk" file="arrays.xml" folder="all" name="pdf_printer_media_sizes"/>
+	<item application="PrintSpooler.apk" file="arrays.xml" folder="all" name="pdf_printer_media_sizes"/>	
+	<item application="QuickSearchBox.apk" file="arrays.xml" folder="all" name="default_corpora"/>
+<item application="Settings.apk" file="arrays.xml" folder="all" name="hdcp_checking_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="enable_opengl_traces_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="show_non_rect_clip_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="track_frame_time_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="debug_hw_overdraw_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="usb_configuration_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="tts_demo_strings"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="tts_demo_string_langs"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="wifi_security_no_eap"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="wifi_eap_method"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="eap_method_without_sim_auth"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="wifi_eap_entries"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="apn_protocol_entries"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="apn_protocol_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="mvno_type_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="app_install_location_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="captioning_typeface_selector_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="vpn_types"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="led_color_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="mi1_led_color_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="wifi_security_only_wapi_cert_entries"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="mi2_wifi_security"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="wifi_eap_method_add_sim"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="wifi_eap_method_add_sim_for_cmcc"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="screen_key_press_action_value"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="screen_key_long_press_action_value"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="long_press_volume_down_action_value"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="agps_si_mode_entries"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="agps_apn_entries"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="miui_entryvalues_font_size"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="common_password_business_keys"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="common_password_business_clickable_default"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="city_timezone"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="privacy_password_function_specfication_keys"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="bluetooth_avrcp_version_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="debug_hw_renderer_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="screen_resolution_text"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="select_logpersist_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="screen_resolution_text"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="status_bar_settings_notification_style_entries"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="entryvalues_font_size"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="mvno_type_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="city_timezone"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="mi_stat_success_survey_key"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="led_color_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="mi1_led_color_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="dark_ui_mode_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="bluetooth_avrcp_version_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="when_to_start_screensaver_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="wifi_hidden_entries"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="notification_style_entries"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="search_keywords_title_com_miui_securitycenter"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="time_format_entries"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="time_format_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="high_configuration_version"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="enjoy_version"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="standard_configuration_version"/>	
+	<item application="SmsExtra.apk" file="arrays.xml" folder="all" name="rf_value"/>
+	<item application="SoundRecorder.apk" file="arrays.xml" folder="all" name="record_type_values"/>
+	<item application="SoundRecorder.apk" file="arrays.xml" folder="all" name="record_format_entries"/>
+	<item application="Telecom.apk" file="arrays.xml" folder="all" name="hdcp_checking_values"/>
+	<item application="Telecom.apk" file="arrays.xml" folder="all" name="overlay_display_devices_values"/>
+	<item application="Telecom.apk" file="arrays.xml" folder="all" name="enable_opengl_traces_values"/>
+	<item application="Telecom.apk" file="arrays.xml" folder="all" name="show_non_rect_clip_values"/>
+	<item application="Telecom.apk" file="arrays.xml" folder="all" name="track_frame_time_values"/>
+	<item application="Telecom.apk" file="arrays.xml" folder="all" name="debug_hw_overdraw_values"/>
+	<item application="Telecom.apk" file="arrays.xml" folder="all" name="usb_configuration_values"/>
+	<item application="Telecom.apk" file="arrays.xml" folder="all" name="tts_demo_strings"/>
+	<item application="Telecom.apk" file="arrays.xml" folder="all" name="tts_demo_string_langs"/>
+	<item application="Telecom.apk" file="arrays.xml" folder="all" name="bluetooth_avrcp_version_values"/>
+	<item application="Telecom.apk" file="arrays.xml" folder="all" name="select_logpersist_values"/>
+	<item application="Telecom.apk" file="arrays.xml" folder="all" name="debug_hw_renderer_values"/>
+	<item application="Telecom.apk" file="arrays.xml" folder="all" name="bluetooth_avrcp_version_values"/>	
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="hdcp_checking_values"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="overlay_display_devices_values"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="enable_opengl_traces_values"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="show_non_rect_clip_values"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="track_frame_time_values"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="debug_hw_overdraw_values"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="usb_configuration_values"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="tts_demo_strings"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="tts_demo_string_langs"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="transport_types"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="clir_values"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="voicemail_notification_vibrate_when_values"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="uplmn_prefer_network_mode_td_choices"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="uplmn_prefer_network_mode_w_choices"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="ivr_type_settings_values"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="region_support_volte"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="bluetooth_avrcp_version_values"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="select_logpersist_values"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="debug_hw_renderer_values"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="bluetooth_avrcp_version_values"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="region_not_support_volte"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="plmn_prefer_network_type_choices"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="gsm_umts_network_preferences_choices"/>	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 </resources>
