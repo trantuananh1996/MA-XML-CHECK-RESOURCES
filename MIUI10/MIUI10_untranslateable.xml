@@ -2349,9 +2349,16 @@
 	<item application="Settings.apk" file="strings.xml" folder="all" name="aod_dual_togother"/>
 	<item application="Settings.apk" file="strings.xml" folder="all" name="aod_dual_togother_12"/>
 	
-	
-	
-	
+	<item application="MiuiVideoLeo.apk" file="strings.xml" folder="all" name="font_family"/>
+	<item application="MiuiVideoLeo.apk" file="strings.xml" folder="all" name="percent_status"/>
+	<item application="MiuiSystemUI.apk" file="strings.xml" folder="all" name="data_connection_5g"/>
+	<item application="MiuiSystemUI.apk" file="strings.xml" folder="all" name="data_connection_5g_basic"/>
+	<item application="MiuiSystemUI.apk" file="strings.xml" folder="all" name="data_connection_5g_sa"/>
+	<item application="MiuiSystemUI.apk" file="strings.xml" folder="all" name="data_connection_5g_uwb"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="portrait_india_effect_entry_retro"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="contact_web"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_camera_ae_bracket_hdr_title"/>
+	<item application="MiuiBiometric.apk" file="strings.xml" folder="all" name="my_app_name"/>
 	
 	
 	
