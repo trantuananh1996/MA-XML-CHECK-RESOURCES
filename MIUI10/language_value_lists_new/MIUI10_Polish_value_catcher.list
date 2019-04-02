@@ -17,18 +17,6 @@ folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_press_viewfinder_entryvalues"
----------------------------------------------------------------------------------------
- <string-array name="pref_camera_long_press_viewfinder_entryvalues"> <item>Obiektyw Google</item> <item>Zablokuj AE i AF</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_press_viewfinder_entryvalues"
----------------------------------------------------------------------------------------
- <string-array name="pref_camera_long_press_viewfinder_entryvalues"> <item>Obiektyw Google</item> <item>Zablokuj AE i AF</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_snap_value_off">Wył.</string>
@@ -74,5 +62,23 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Własny</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
+---------------------------------------------------------------------------------------
+ <string name="err_msg_pending_value">Szacowanie kosztów…</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_service_type_value"
+---------------------------------------------------------------------------------------
+ <string name="online_recognize_order_service_type_value">Przepisywanie dźwiękowe online</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
+---------------------------------------------------------------------------------------
+ <string name="online_recognize_order_unit_price_value">%s CNY/gdz</string>
 
 
