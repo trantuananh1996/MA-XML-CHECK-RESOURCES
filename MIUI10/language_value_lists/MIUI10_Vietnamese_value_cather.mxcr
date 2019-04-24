@@ -10,6 +10,7 @@ all Browser.apk strings.xml pref_video_preload_value_always
 all Browser.apk strings.xml pref_video_preload_value_never
 all Browser.apk strings.xml pref_video_preload_value_wifi_only
 all CABLService.apk arrays.xml cabl_level_values
+all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml entryvalues_settings_debug
 all Calendar.apk arrays.xml entryvalues_settings_debug
 all CallFeaturesSetting.apk arrays.xml call_barring_outgoing_display_values
@@ -18,10 +19,16 @@ all Cit.apk strings.xml battery_value
 all DeskClock.apk strings.xml snooze_duration_value
 all Email.apk strings.xml recognize_hotel_room_type_value
 all Email.apk strings.xml recognize_hotel_user_names_value
+all MiuiCamera.apk strings.xml pref_hdr_indicator_entryvalue_default
+all MiuiCamera.apk strings.xml pref_hdr_indicator_entryvalue_off
+all MiuiCamera.apk strings.xml pref_hdr_indicator_entryvalue_on
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
 all MiuiCamera.apk strings.xml pref_camera_snap_value_off
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_movie
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_picture
+all MiuiCamera.apk strings.xml pref_hdr_indicator_entryvalue_default
+all MiuiCamera.apk strings.xml pref_hdr_indicator_entryvalue_off
+all MiuiCamera.apk strings.xml pref_hdr_indicator_entryvalue_on
 all MiuiHome.apk arrays.xml wallpaper_scroll_values
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
 all PaymentService.apk strings.xml mibi_recharge_value_money

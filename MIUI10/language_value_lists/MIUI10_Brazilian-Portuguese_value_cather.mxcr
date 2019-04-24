@@ -1,3 +1,4 @@
+all Calendar.apk arrays.xml default_reminder_later_time_labels
 all DeskClock.apk arrays.xml snooze_duration_values
 all DeskClock.apk arrays.xml volume_button_setting_values
 all DeskClock.apk strings.xml repeat_count_value_five
@@ -48,7 +49,6 @@ all Settings.apk arrays.xml vip_mode_value
 all Settings.apk arrays.xml whetstone_level_values
 all Settings.apk arrays.xml wifi_calling_mode_values
 all Settings.apk arrays.xml wifi_calling_mode_values_without_wifi_only
-all Settings.apk arrays.xml wifi_tether_security_values
 all Settings.apk strings.xml tether_limit_value_custom
 all SoundRecorder.apk arrays.xml record_format_values
 all SoundRecorder.apk arrays.xml record_quality_values

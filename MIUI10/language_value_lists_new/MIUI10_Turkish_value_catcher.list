@@ -71,15 +71,21 @@ folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_wif
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
+folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
- <string-array name="prefValues_alerts_vibrateWhen"> <item>her zaman</item> <item>sessiz</item> <item>asla</item> </string-array> 
+ <string-array name="default_reminder_later_time_labels"> <item>5 dakika</item> <item>10 dakika</item> <item>15 dakika</item> <item>30 dakika</item> </string-array> 
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
 ---------------------------------------------------------------------------------------
- <string-array name="prefValues_alerts_vibrateWhen"> <item>her zaman</item> <item>sessiz</item> <item>asla</item> </string-array> 
+ <string-array name="prefValues_alerts_vibrateWhen"> <item>her zaman</item> <item>sessiz</item> <item>asla</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_alerts_vibrateWhen"> <item>her zaman</item> <item>sessiz</item> <item>asla</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -119,15 +125,9 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_ta
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
----------------------------------------------------------------------------------------
- <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="wallpaper_scroll_values"
 ---------------------------------------------------------------------------------------
- <string-array name="wallpaper_scroll_values"> <item>tema</item> <item>merkez</item> <item>sol</item> <item>sağ</item> </string-array>
+ <string-array name="wallpaper_scroll_values"> <item>Temaya göre</item> <item>merkez</item> <item>sol</item> <item>sağ</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
