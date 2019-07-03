@@ -2360,7 +2360,56 @@
 	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_camera_ae_bracket_hdr_title"/>
 	<item application="MiuiBiometric.apk" file="strings.xml" folder="all" name="my_app_name"/>
 	
-	
+	<item application="Calendar.apk" file="strings.xml" folder="all" name="miuishare_wechat_title"/>
+	<item application="Calendar.apk" file="strings.xml" folder="all" name="reminder_later_notification_time_format"/>
+	<item application="CertInstaller.apk" file="strings.xml" folder="all" name="wifi_sim_config_text"/>
+	<item application="CloudBackup.apk" file="strings.xml" folder="all" name="provision_restore_item_backup_name_with_size"/>
+	<item application="CloudBackup.apk" file="strings.xml" folder="all" name="restore_app_order_search_input_high_light"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="sim_lock_now_ais_title"/>
+	<item application="MiGalleryLockscreen.apk" file="strings.xml" folder="all" name="llks_tools_nfc_data"/>
+	<item application="MiGalleryLockscreen.apk" file="strings.xml" folder="all" name="llks_tools_nfc_name"/>
+	<item application="MiGalleryLockscreen.apk" file="strings.xml" folder="all" name="llks_tools_smart_devices_name"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="menu_label"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="check_in_complete_text"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="check_in_text"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="copyright_song_ten_thousand"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="durationformatshort"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="durationformatshort_padding_with_0"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="filter_by_size_max"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="filter_by_size_min"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="filter_size_unit"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="fm_browser_label"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="font_family"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="mi_fm"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="second_symbol"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="tab_fm"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="tab_video_list"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="text_separator"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="title_album_list"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="title_fm_list"/>
+	<item application="MiSound.apk" file="strings.xml" folder="all" name="music_dirac_mode_in_ear2"/>
+	<item application="MiuiAod.apk" file="strings.xml" folder="all" name="aod_dual_togother"/>
+	<item application="MiuiAod.apk" file="strings.xml" folder="all" name="aod_dual_togother_12"/>
+	<item application="MiuiBiometric.apk" file="strings.xml" folder="all" name="my_app_name"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="mimoji_delete"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="mimoji_fragment_tab_name"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="CAST_ID"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="app_type"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="default_cmsdk_sender_id"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="id_namespace"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="include_sensitive_extra"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="lc_id"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="logging_verbose"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="ping_property"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="signup_type_user_default"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="xiaomi_update_sdk_bytes_unit"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="xiaomi_update_sdk_kilobytes_unit"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="xiaomi_update_sdk_megabytes_unit"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="passport_captcha_title"/>
+	<item application="Music.apk" file="strings.xml" folder="all" name="count_million_format"/>
+	<item application="PersonalAssistant.apk" file="strings.xml" folder="all" name="display_temperature_default"/>
+	<item application="Provision.apk" file="strings.xml" folder="all" name="terms_of_use_lable_vsimcore"/>
+
 	
 	
 	
