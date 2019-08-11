@@ -79,13 +79,13 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="entryvalues_settings_debug"
 ---------------------------------------------------------------------------------------
- <string-array name="entryvalues_settings_debug"> <item>Không</item> <item>Xuất và gửi nhật ký</item> <item>Tạo nhật ký và lưu vào tập tin</item> <item>Xem ID thiết bị thống kê</item> </string-array>
+ <string-array name="entryvalues_settings_debug"> <item>Không</item> <item>Xuất và gửi nhật ký</item> <item>Tạo nhật ký và lưu vào tập tin</item> <item>Xem ID thiết bị thống kê</item> <item>Cập nhật cấu hình máy chủ tức thì</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="entryvalues_settings_debug"
 ---------------------------------------------------------------------------------------
- <string-array name="entryvalues_settings_debug"> <item>Không</item> <item>Xuất và gửi nhật ký</item> <item>Tạo nhật ký và lưu vào tập tin</item> <item>Xem ID thiết bị thống kê</item> </string-array>
+ <string-array name="entryvalues_settings_debug"> <item>Không</item> <item>Xuất và gửi nhật ký</item> <item>Tạo nhật ký và lưu vào tập tin</item> <item>Xem ID thiết bị thống kê</item> <item>Cập nhật cấu hình máy chủ tức thì</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -128,6 +128,12 @@ folder="all" application="Email.apk" xml="" name="recognize_hotel_room_type_valu
 folder="all" application="Email.apk" xml="" name="recognize_hotel_user_names_value"
 ---------------------------------------------------------------------------------------
  <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15 phút</item> <item>30 phút</item> <item>45 phút</item> <item>1 giờ</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
