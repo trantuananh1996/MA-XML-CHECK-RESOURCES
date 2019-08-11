@@ -409,6 +409,7 @@
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_exposure"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_shutter"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_timer"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_volume"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_zoom"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_watermark_default"/>
@@ -436,6 +437,7 @@
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_front_mirror_entryvalue_auto"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_front_mirror_entryvalue_off"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_front_mirror_entryvalue_on"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_live_volumekey_function_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_mi_front_video_quality_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_mtk_camera_contrast_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_mtk_camera_saturation_default"/>
@@ -459,6 +461,7 @@
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_speed_value_normal"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_speed_value_slow"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_time_lapse_frame_interval_default"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_volumekey_function_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="setting_off_value"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="setting_on_value"/>
 	<item folder="all" application="MiuiGallery.apk" file="arrays.xml" name="baby_sexy_value"/>
@@ -673,6 +676,7 @@
 	<item folder="all" application="Notes.apk" file="strings.xml" name="micloud_state_total_count"/>
 	<item folder="all" application="Notes.apk" file="strings.xml" name="notelist_string_info"/>
 	<item folder="all" application="Notes.apk" file="strings.xml" name="xiaomi_account_type"/>
+	<item folder="all" application="NotificationCenter.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="certinstaller_package"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="lb_time_separator"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="power_charging"/>
@@ -717,6 +721,7 @@
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="personalAssistant_path"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="pie_chart_label_format"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="pie_chart_label_special"/>
+	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="stock_change_rate_format"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="tag_view_nav"/>
 	<item folder="all" application="PersonalAssistantPlugin.apk" file="arrays.xml" name="express_status_detail_flag"/>
