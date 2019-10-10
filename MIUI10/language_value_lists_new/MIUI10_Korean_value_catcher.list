@@ -221,6 +221,12 @@ folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_opening_attchemnt_mode"
+---------------------------------------------------------------------------------------
+ <string name="default_opening_attchemnt_mode">기본 앱을 사용하여 첨부 파일 열기</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="EngineerMode.apk" xml="" name="cfu_default"
 ---------------------------------------------------------------------------------------
  <string name="cfu_default">기본값</string>
@@ -383,6 +389,12 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="biometric_dialog_default_title"
+---------------------------------------------------------------------------------------
+ <string name="biometric_dialog_default_title">본인 확인</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="gsm_alphabet_default_charset"
 ---------------------------------------------------------------------------------------
  <string name="gsm_alphabet_default_charset">euc-kr</string>
@@ -461,6 +473,12 @@ folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
+---------------------------------------------------------------------------------------
+ <string name="signature_default_content">"항상 무언가를 믿는다 근사한 일이 일어날 것입니다"</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 ---------------------------------------------------------------------------------------
  <string name="default_text_view">TextView</string>
@@ -530,6 +548,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_de
 folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_default"
 ---------------------------------------------------------------------------------------
  <string name="video_editor_text_default">기본값</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">알 수 없는 장치</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -875,6 +899,24 @@ folder="all" application="MiuiVideoLeo.apk" xml="" name="notification_default_ti
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_default_sending_method"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_default_sending_method">기본 전송 방법</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_picture_message_default_quality"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_picture_message_default_quality">사진 압축 옵션</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_quality"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_video_message_default_quality">비디오 압축 옵션</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Music2.apk" xml="" name="default_album_radio_description"
 ---------------------------------------------------------------------------------------
  <string name="default_album_radio_description">%1$s에서 방송되는 음악과 유사한 음악 듣기</string>
@@ -1007,27 +1049,45 @@ folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_remai
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="display_temperature_default"
+---------------------------------------------------------------------------------------
+ <string name="display_temperature_default">--℃</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
+---------------------------------------------------------------------------------------
+ <string name="display_weather_default">날씨 정보를 얻으시려면 탭하세요</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="flybird_default_channel"
+---------------------------------------------------------------------------------------
+ <string name="flybird_default_channel">기본 결제 방법</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="flybird_default_channel_main"
+---------------------------------------------------------------------------------------
+ <string name="flybird_default_channel_main">기본 결제 방법</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="flybird_setting_use_default"
+---------------------------------------------------------------------------------------
+ <string name="flybird_setting_use_default">기본 사용</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="mini_error_title_default"
 ---------------------------------------------------------------------------------------
  <string name="mini_error_title_default">힌트</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="setting_didi_default_way"
----------------------------------------------------------------------------------------
- <string name="setting_didi_default_way">기본 택시 경로</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="navigation_search_default_hint">장소 검색</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_default"
----------------------------------------------------------------------------------------
- <string name="upgrade_log_default">"1. 성능 향상.2. 버그 수정."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1043,9 +1103,21 @@ folder="all" application="PersonalAssistant.apk" xml="" name="notification_chann
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
+folder="all" application="PersonalAssistant.apk" xml="" name="setting_didi_default_way"
 ---------------------------------------------------------------------------------------
- <string name="display_weather_default">날씨 정보를 얻으시려면 탭하세요</string>
+ <string name="setting_didi_default_way">기본 택시 경로</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_default"
+---------------------------------------------------------------------------------------
+ <string name="upgrade_log_default">1. 성능 향상.2. 버그 수정.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="flybird_nopwd_value_label"
+---------------------------------------------------------------------------------------
+ <string name="flybird_nopwd_value_label">기밀 금액</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1133,39 +1205,15 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
+folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
 ---------------------------------------------------------------------------------------
- <string name="tc_diagnostic_fragment_default">"진단에 대해서 1. 기기가 통신사 네트워크 연결을 위해 무료 메시지를 전송하고 응답을 기다립니다. 5분 정도 소요될 것입니다. 2. 이 진단 과정은 백그라운드에서 실행되기 때문에 이 페이지를 나가셔도 됩니다."</string>
+ <string name="ad_btn_default_text">더 알아보기</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_restrict_default"
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_cleared"
 ---------------------------------------------------------------------------------------
- <string name="cpu_usage_app_bg_restrict_default">자동 (권장됨)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_restrict_default_short"
----------------------------------------------------------------------------------------
- <string name="cpu_usage_app_bg_restrict_default_short">자동</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="menu_text_power_percent_title_default"
----------------------------------------------------------------------------------------
- <string name="menu_text_power_percent_title_default">배터리</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open"
----------------------------------------------------------------------------------------
- <string name="app_manager_default_open">기본 실행</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_title"
----------------------------------------------------------------------------------------
- <string name="app_manager_default_open_title">기본 작업 제거</string>
+ <string name="app_manager_default_cleared">삭제됨</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1181,45 +1229,9 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_o
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_title"
 ---------------------------------------------------------------------------------------
- <string name="ad_btn_default_text">더 알아보기</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="power_center_auto_shutdown_summary_default"
----------------------------------------------------------------------------------------
- <string name="power_center_auto_shutdown_summary_default">예약된 시간에 기기 전원 켜짐 또는 꺼짐</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="power_center_custom_summary_default"
----------------------------------------------------------------------------------------
- <string name="power_center_custom_summary_default">사용자 프로필로 배터리 수명 개선</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="power_center_low_battery_summary_default"
----------------------------------------------------------------------------------------
- <string name="power_center_low_battery_summary_default">배터리 부족 시 프로필 전환</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="power_center_on_time_summary_default"
----------------------------------------------------------------------------------------
- <string name="power_center_on_time_summary_default">예약된 시간에 배터리 프로필 전환</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="power_dialog_delete_dialog_cannot_delete_default"
----------------------------------------------------------------------------------------
- <string name="power_dialog_delete_dialog_cannot_delete_default">현재 이 프로필을 사용 중입니다.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_cleared"
----------------------------------------------------------------------------------------
- <string name="app_manager_default_cleared">삭제됨</string>
+ <string name="app_manager_default_open_title">기본 작업 제거</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1232,6 +1244,14 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_
 folder="all" application="SecurityCenter.apk" xml="" name="lucky_alarm_count_down_default"
 ---------------------------------------------------------------------------------------
  <string name="lucky_alarm_count_down_default">0:00:00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
+---------------------------------------------------------------------------------------
+ <string name="tc_diagnostic_fragment_default">진단에 대해서
+1. 기기가 통신사 네트워크 연결을 위해 무료 메시지를 전송하고 응답을 기다립니다. 5분 정도 소요될 것입니다.
+2. 이 진단 과정은 백그라운드에서 실행되기 때문에 이 페이지를 나가셔도 됩니다.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1385,12 +1405,6 @@ folder="all" application="Settings.apk" xml="" name="default_map_app_title"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
----------------------------------------------------------------------------------------
- <string name="default_notification_assistant">알림 어시스턴트</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_rule_name"
 ---------------------------------------------------------------------------------------
  <string name="default_rule_name">예약 규칙 1</string>
@@ -1445,12 +1459,6 @@ folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
----------------------------------------------------------------------------------------
- <string name="notification_channel_summary_default">높은 중요도</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_importance_default_title"
 ---------------------------------------------------------------------------------------
  <string name="notification_importance_default_title">높음</string>
@@ -1490,6 +1498,90 @@ folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_
 folder="all" application="Settings.apk" xml="" name="wifi_badging_thresholds_default"
 ---------------------------------------------------------------------------------------
  <string name="wifi_badging_thresholds_default">10:3000,20:5000,30:25000</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
+---------------------------------------------------------------------------------------
+ <string name="modify_default_browser_message">타사 앱을 기본 브라우저로 설정하면 인터넷 사용 기록 및 기타 데이터 수집이 시작될 수 있습니다. 어쨌든 설정 하시겠습니까?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_timeout_default">기본</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls">통화용 기본 SIM</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls_and_sms">통화 및 SMS용 기본 SIM</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
+---------------------------------------------------------------------------------------
+ <string name="default_for_mobile_data">모바일 데이터용 기본 SIM</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_sms">SMS용 기본 카드</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_assistant">적응형 알림</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="game_driver_app_preference_default">기본값</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_app_default"
+---------------------------------------------------------------------------------------
+ <string name="keywords_app_default">연결 앱</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_summary_default">소리나 진동으로 알립니다.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_option_device_default"
+---------------------------------------------------------------------------------------
+ <string name="overlay_option_device_default">기기 기본값</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
+---------------------------------------------------------------------------------------
+ <string name="reset_default_apn_failed">기본 APN 재설정 실패</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
+---------------------------------------------------------------------------------------
+ <string name="theme_customization_device_default">기기 기본값</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_custom_behavior_summary_default">기본 설정 사용</string>
 
 
 ---------------------------------------------------------------------------------------

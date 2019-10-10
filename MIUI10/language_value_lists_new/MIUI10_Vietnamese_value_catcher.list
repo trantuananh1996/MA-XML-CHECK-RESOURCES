@@ -1115,6 +1115,18 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_poster_reset_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_poster_reset_default">Khôi phục ảnh bìa mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_sort_type_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_sort_type_default">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoLeo.apk" xml="" name="defaults"
 ---------------------------------------------------------------------------------------
  <string name="defaults">Mặc định</string>
@@ -1202,6 +1214,24 @@ folder="all" application="MiuiVideoPlayer.apk" xml="" name="cast_notification_de
 folder="all" application="MiVideo.apk" xml="" name="subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="subtitle_padding_default_hint">Đang điều chỉnh phụ đề…</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_picture_message_default_quality"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_picture_message_default_quality">Tùy chọn nén ảnh</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_quality"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_video_message_default_quality">Tùy chọn nén video</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_default_sending_method"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_default_sending_method">Phương thức gửi mặc định</string>
 
 
 ---------------------------------------------------------------------------------------

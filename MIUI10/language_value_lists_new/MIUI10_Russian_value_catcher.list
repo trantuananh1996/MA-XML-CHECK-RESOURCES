@@ -331,7 +331,7 @@ folder="all" application="MiRadio.apk" xml="" name="default_songtab_name"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="empty_view_default_text"
 ---------------------------------------------------------------------------------------
- <string name="empty_view_default_text">No content</string>
+ <string name="empty_view_default_text">Нет содержимого</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -617,15 +617,39 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_notification_default_channel_name"
+---------------------------------------------------------------------------------------
+ <string name="cast_notification_default_channel_name">Трансляция</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_tracks_chooser_dialog_default_track_name"
+---------------------------------------------------------------------------------------
+ <string name="cast_tracks_chooser_dialog_default_track_name">Трек %1$d</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="subtitle_padding_default_hint">Настройка субтитров…</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
+folder="all" application="Mms.apk" xml="" name="rcs_pref_default_sending_method"
 ---------------------------------------------------------------------------------------
- <string-array name="switch_sdk_value"> <item>0</item> <item>1</item> </string-array>
+ <string name="rcs_pref_default_sending_method">Способ отправки по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_picture_message_default_quality"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_picture_message_default_quality">Качество изображения</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_quality"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_video_message_default_quality">Качество видео</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1129,7 +1153,7 @@ folder="all" application="Settings.apk" xml="" name="importance_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 ---------------------------------------------------------------------------------------
- <string name="notifi_importance_default">Звук и вибрация отключены</string>
+ <string name="notifi_importance_default">Звук и вибрация разрешены</string>
 
 
 ---------------------------------------------------------------------------------------
