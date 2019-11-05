@@ -113,6 +113,18 @@ folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
+---------------------------------------------------------------------------------------
+ <string name="bt_sm_2_1_default">Na SD kartici nema dovoljno prostora za spremanje datoteke koju šalje \"%1$s\"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
+---------------------------------------------------------------------------------------
+ <string name="status_no_sd_card_default">Nema SD kartice. Umetnite SD karticu kako biste spremili prenesene datoteke.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_default_txt"
 ---------------------------------------------------------------------------------------
  <string name="download_dialog_file_length_default_txt">Samo trenutak…</string>
@@ -390,6 +402,12 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
+---------------------------------------------------------------------------------------
+ <string-array name="default_phrases"> <item>Zaglavlje računa: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adresa: Ulica, Stan, Grad, Država/Regija, Pokrajina, Poštanski broj</item> <item>Molim vas, ostavite paket pred vratima. Hvala!</item> <item>"Pričekajte minutu, odmah se vraćam."</item> <item>"Na sastanku sam. Pošaljite SMS poruku."</item> <item>"Ne mogu sada razgovarati. Nazvat ću te što prije."</item> <item>Hvala!</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
 ---------------------------------------------------------------------------------------
  <string name="improve_your_health_default_tips">Vježbajte i dovoljno spavajte da biste ostali zdravi.</string>
@@ -435,6 +453,12 @@ folder="all" application="Health.apk" xml="" name="user_invalid_value"
 folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 ---------------------------------------------------------------------------------------
  <string name="default_error_msg">Nešto je pošlo po zlu!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiShare.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Nepoznati uređaj</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1202,7 +1226,7 @@ folder="all" application="Settings.apk" xml="" name="preference_summary_default_
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
 ---------------------------------------------------------------------------------------
- <string name="reset_default_apn_failed">Failed to reset default apn</string>
+ <string name="reset_default_apn_failed">Poništavanje zadanih APN-a nije uspjelo</string>
 
 
 ---------------------------------------------------------------------------------------

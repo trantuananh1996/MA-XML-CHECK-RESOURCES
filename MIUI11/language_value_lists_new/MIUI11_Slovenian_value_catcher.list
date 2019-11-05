@@ -113,6 +113,18 @@ folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
+---------------------------------------------------------------------------------------
+ <string name="bt_sm_2_1_default">Na kartici SD ni dovolj prostora za shranjevanje datoteke pošiljatelja »%1$s«</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
+---------------------------------------------------------------------------------------
+ <string name="status_no_sd_card_default">Ni kartice SD. Če želite shraniti prenesene datoteke, vstavite kartico SD.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_default_txt"
 ---------------------------------------------------------------------------------------
  <string name="download_dialog_file_length_default_txt">Samo trenutek…</string>
@@ -389,6 +401,12 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
+---------------------------------------------------------------------------------------
+ <string-array name="default_phrases"> <item>Glava računa: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Naslov: Ulica, Stanovanje, Mesto, Država/Regija, Pokrajina, Poštna številka</item> <item>Prosim da pustite paket pred vrati. Hvala!</item> <item>"Počakajte minuto, takoj pridem."</item> <item>"Sem na sestanku. Pošljite SMS."</item> <item>"Zdaj ne morem govoriti. Pokličem nazaj."</item> <item>Hvala!</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
 ---------------------------------------------------------------------------------------
  <string name="improve_your_health_default_tips">Vadite in dovolj spite da boste ostali zdravi.</string>
@@ -434,6 +452,12 @@ folder="all" application="Health.apk" xml="" name="user_invalid_value"
 folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 ---------------------------------------------------------------------------------------
  <string name="default_error_msg">Nekaj je bilo narobe!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiShare.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Neznana naprava</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -779,6 +803,12 @@ folder="all" application="PackageInstaller.apk" xml="" name="launch_defaults_som
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
+---------------------------------------------------------------------------------------
+ <string name="display_weather_default">Tapnite za vremenske informacije</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="navigation_search_default_hint">Poiščite elemente tukaj</string>
@@ -1075,7 +1105,7 @@ folder="all" application="Settings.apk" xml="" name="default_map_app_title"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
 ---------------------------------------------------------------------------------------
- <string name="default_notification_assistant">Pomočnik za obvestila</string>
+ <string name="default_notification_assistant">Prilagodljiva obvestila</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1129,7 +1159,7 @@ folder="all" application="Settings.apk" xml="" name="importance_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="keywords_app_default"
 ---------------------------------------------------------------------------------------
- <string name="keywords_app_default">Odpri v aplikaciji</string>
+ <string name="keywords_app_default">Za odpiranje uporabi</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1171,7 +1201,7 @@ folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="notification_channel_summary_default">Visoka pomembnost</string>
+ <string name="notification_channel_summary_default">Pritegne vašo pozornost z zvokom ali vibriranjem</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1201,7 +1231,7 @@ folder="all" application="Settings.apk" xml="" name="preference_summary_default_
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
 ---------------------------------------------------------------------------------------
- <string name="reset_default_apn_failed">Ponastavitev privzete apn ni uspela</string>
+ <string name="reset_default_apn_failed">Ponastavitev privzete APN ni uspela</string>
 
 
 ---------------------------------------------------------------------------------------

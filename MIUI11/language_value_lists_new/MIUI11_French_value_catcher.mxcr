@@ -4,12 +4,6 @@ all Browser.apk strings.xml download_dialog_file_length_default_txt
 all Browser.apk strings.xml mw_js_dialog_title_default
 all Browser.apk strings.xml topic_content_default
 all Browser.apk strings.xml mw_color_picker_value
-all Browser.apk strings.xml pref_data_preload_value_always
-all Browser.apk strings.xml pref_data_preload_value_never
-all Browser.apk strings.xml pref_data_preload_value_wifi_only
-all Browser.apk strings.xml pref_link_prefetch_value_always
-all Browser.apk strings.xml pref_link_prefetch_value_never
-all Browser.apk strings.xml pref_link_prefetch_value_wifi_only
 all Browser.apk strings.xml pref_video_preload_value_always
 all Browser.apk strings.xml pref_video_preload_value_never
 all Browser.apk strings.xml pref_video_preload_value_wifi_only
@@ -71,6 +65,7 @@ all framework-res.apk strings.xml etws_primary_default_message_test
 all framework-res.apk strings.xml etws_primary_default_message_tsunami
 all framework-res.apk strings.xml popup_window_default_title
 all framework-res.apk strings.xml zen_mode_default_every_night_name
+all FrequentPhrase.apk arrays.xml default_phrases
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk strings.xml default_songtab_name
 all MiRadio.apk strings.xml empty_view_default_text
@@ -85,6 +80,7 @@ all MiuiGallery.apk strings.xml mark_myself_default_name
 all MiuiGallery.apk strings.xml photo_editor_font_default
 all MiuiGallery.apk strings.xml text_edit_dialog_font_default
 all MiuiGallery.apk strings.xml video_editor_text_default
+all MiuiHome.apk arrays.xml fast_scroller_style_values
 all MiuiHome.apk strings.xml announce_for_choose_default_screen
 all MiuiHome.apk strings.xml announce_for_close_default_preview
 all MiuiHome.apk strings.xml announce_for_open_default_preview
@@ -115,9 +111,15 @@ all MiuiVideoGlobal.apk strings.xml alert_dialog_download_default_title
 all MiuiVideoGlobal.apk strings.xml cast_notification_default_channel_name
 all MiuiVideoGlobal.apk strings.xml cast_tracks_chooser_dialog_default_track_name
 all MiuiVideoGlobal.apk strings.xml com_facebook_tooltip_default
+all MiuiVideoGlobal.apk strings.xml gallery_video_default_music_text
+all MiuiVideoGlobal.apk strings.xml gallery_video_item3_default_text
+all MiuiVideoGlobal.apk strings.xml gallery_video_item4_default_text
+all MiuiVideoGlobal.apk strings.xml gallery_video_item5_default_text
+all MiuiVideoGlobal.apk strings.xml gallery_video_item6_default_text
 all MiuiVideoGlobal.apk strings.xml ovp_default_plugin_name
 all MiuiVideoGlobal.apk strings.xml plus_poster_reset_default
 all MiuiVideoGlobal.apk strings.xml plus_sort_type_default
+all MiuiVideoGlobal.apk strings.xml subtitle_padding_default_hint
 all MiuiVideoGlobal.apk strings.xml t_lv_subtitle_padding_default_hint
 all Mms.apk strings.xml rcs_pref_default_sending_method
 all Mms.apk strings.xml rcs_pref_picture_message_default_quality
@@ -190,6 +192,7 @@ all Settings.apk strings.xml default_vol_stream_title
 all Settings.apk strings.xml enterprise_privacy_enterprise_set_default_apps
 all Settings.apk strings.xml firewall_set_bg_firewall_default_dialog_summary
 all Settings.apk strings.xml firewall_set_bg_firewall_default_dialog_title
+all Settings.apk strings.xml game_driver_app_preference_default
 all Settings.apk strings.xml importance_default
 all Settings.apk strings.xml keywords_default_browser
 all Settings.apk strings.xml keywords_default_links
@@ -200,6 +203,7 @@ all Settings.apk strings.xml notification_channel_summary_default
 all Settings.apk strings.xml notification_importance_default_title
 all Settings.apk strings.xml notification_sound_default
 all Settings.apk strings.xml slider_vocie_online_default
+all Settings.apk strings.xml theme_customization_device_default
 all Settings.apk strings.xml usb_default_info
 all Settings.apk strings.xml usb_default_label
 all Settings.apk strings.xml wallpaper_settings_summary_default

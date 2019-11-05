@@ -257,33 +257,33 @@ folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
+folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
 ---------------------------------------------------------------------------------------
- <string name="work_day_default_banner_title">Hãy có một ngày làm việc hiệu quả!</string>
+ <string name="default_reminder_later_time">Thời gian mặc định cho \"Nhắc nhở sau\"</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_title"
 ---------------------------------------------------------------------------------------
- <string name="free_day_default_banner_title">Tận hưởng kỳ nghỉ của bạn!</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
----------------------------------------------------------------------------------------
- <string name="default_reminder_later_time">Khoảng thời gian mặc định cho \"Nhắc sau\"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="preferences_alarm_default_event_title"
----------------------------------------------------------------------------------------
- <string name="preferences_alarm_default_event_title">Đặt lời nhắc báo thức</string>
+ <string name="free_day_default_banner_title">Chúc bạn có kỳ nghỉ vui vẻ!</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
 ---------------------------------------------------------------------------------------
  <string name="preferences_alarms_default_event">Chọn sự kiện</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
+---------------------------------------------------------------------------------------
+ <string name="work_day_default_banner_title">Chúc bạn có một ngày làm việc hiệu quả!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_alarm_default_event_title"
+---------------------------------------------------------------------------------------
+ <string name="preferences_alarm_default_event_title">Đặt lời nhắc báo thức</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -452,6 +452,12 @@ folder="all" application="Cit.apk" xml="" name="frr_value"
 folder="all" application="CloudPrint2.apk" xml="" name="account_item_default"
 ---------------------------------------------------------------------------------------
  <string name="account_item_default">Chuyển tài khoản</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Lưu trữ đám mây</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -707,6 +713,12 @@ folder="all" application="framework-res.apk" xml="" name="biometric_dialog_defau
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
+---------------------------------------------------------------------------------------
+ <string-array name="default_phrases"> <item>Tiêu đề hóa đơn: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Địa chỉ: Đường, Căn hộ, Thành phố, Quốc gia/Vùng, Tỉnh, Mã bưu chính</item> <item>Vui lòng đặt gói hàng ngoài cửa. Cảm ơn!</item> <item>"Chờ chút, tôi sẽ quay lại ngay."</item> <item>"Tôi đang họp. Vui lòng gửi tin nhắn văn bản."</item> <item>"Bây giờ tôi không thể nói chuyện. Tôi sẽ gọi lại cho bạn sớm nhất có thể."</item> <item>Cảm ơn!</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="HybridPlatform.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
  <string name="com_facebook_tooltip_default">Bạn nắm quyền kiểm soát - chọn thông tin bạn muốn chia sẻ với ứng dụng.</string>
@@ -716,6 +728,12 @@ folder="all" application="HybridPlatform.apk" xml="" name="com_facebook_tooltip_
 folder="all" application="HybridPlatform.apk" xml="" name="msg_default_status"
 ---------------------------------------------------------------------------------------
  <string name="msg_default_status">Đặt barcode bên trong ô kính ngắm để quét.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="HybridPlatform.apk" xml="" name="features_notification_channel_default"
+---------------------------------------------------------------------------------------
+ <string name="features_notification_channel_default">Thông báo ứng dụng</string>
 
 
 ---------------------------------------------------------------------------------------

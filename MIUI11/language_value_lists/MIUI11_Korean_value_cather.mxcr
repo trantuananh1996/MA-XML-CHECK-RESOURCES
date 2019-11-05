@@ -66,6 +66,7 @@ all framework-res.apk strings.xml app_suspended_default_message
 all framework-res.apk strings.xml zen_mode_default_every_night_name
 all framework-res.apk strings.xml biometric_dialog_default_title
 all framework-res.apk strings.xml gsm_alphabet_default_charset
+all FrequentPhrase.apk arrays.xml default_phrases
 all imssettings.apk strings.xml ims_settings_no_default_value
 all imssettings.apk strings.xml ims_apn_value_invalid
 all imssettings.apk strings.xml ims_settings_no_default_value
@@ -78,6 +79,7 @@ all imssettings.apk strings.xml ims_band_settings_only_wide_value
 all imssettings.apk strings.xml ims_band_settings_wide_preferred_value
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiRecycle.apk strings.xml default_error_msg
+all MiShare.apk strings.xml default_device_name
 all MiuiAod.apk strings.xml signature_default_content
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml pref_camera_photostyle_default
@@ -102,6 +104,7 @@ all MiuiHome.apk strings.xml announce_for_choose_default_screen
 all MiuiHome.apk strings.xml announce_for_close_default_preview
 all MiuiHome.apk strings.xml announce_for_open_default_preview
 all MiuiHome.apk strings.xml default_folder_title_services
+all MiuiHome.apk strings.xml default_folder_title_meitu
 all MiuiScanner.apk strings.xml pref_camera_focusmode_default
 all MiuiScanner.apk strings.xml setting_default_function
 all MiuiScanner.apk strings.xml language_value_danish
