@@ -2910,7 +2910,75 @@
 	<item application="Traceur.apk" file="strings.xml" folder="all" name="pref_key_tags"/>
 	<item application="Traceur.apk" file="strings.xml" folder="all" name="wifi_security_sae"/>
 	<item application="MiRadio.apk" file="strings.xml" folder="all" name="novel"/>
-	
+	<item application="Browser.apk" file="arrays.xml" folder="all" name="city"/>
+	<item application="Calendar.apk" file="arrays.xml" folder="all" name="year_view_week_header_name"/>
+	<item application="Calendar.apk" file="arrays.xml" folder="all" name="timezone_values_v3"/>
+	<item application="Calendar.apk" file="arrays.xml" folder="all" name="timezone_labels_v3"/>
+	<item application="Cit.apk" file="arrays.xml" folder="all" name="sub_id_idx"/>
+	<item application="EasterEgg.apk" file="arrays.xml" folder="all" name="food_names"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_undefined"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_medicine"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_tools"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_social"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_entainment"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_financial"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_education"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="coolsound_dynamic_source_calendar"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_photo"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_reading"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_game"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_shopping"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="coolsound_dynamic_source_notification"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_news"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_travel"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_life"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_sport"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_video_etc"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_productivity"/>
+	<item application="MiuiVideoGlobal.apk" file="arrays.xml" folder="all" name="countries"/>
+	<item application="Mms.apk" file="arrays.xml" folder="all" name="message_type"/>
+	<item application="PrintRecommendationService.apk" file="arrays.xml" folder="all" name="known_print_vendor_info_for_xerox"/>
+	<item application="PrintRecommendationService.apk" file="arrays.xml" folder="all" name="known_print_vendor_info_for_hp"/>
+	<item application="PrintRecommendationService.apk" file="arrays.xml" folder="all" name="known_print_vendor_info_for_mopria"/>
+	<item application="SecurityCenter.apk" file="arrays.xml" folder="all" name="ew_emergency_blood_type_arrays"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="autofill_logging_level_entries"/>
+	<item application="FactoryKitTest.apk" file="arrays.xml" folder="all" name="color"/>
+	<item application="FactoryKitTest.apk" file="arrays.xml" folder="all" name="htccolor"/>
+	<item application="FactoryKitTest.apk" file="arrays.xml" folder="all" name="message"/>
+	<item application="FactoryKitTest.apk" file="arrays.xml" folder="all" name="onecolor"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="test_bottom_speaker"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="test_top_speaker"/>
+	<item application="MiGalleryLockscreen.apk" file="strings.xml" folder="all" name="sst_common_question"/>
+	<item application="MiuiBluetooth.apk" file="strings.xml" folder="all" name="blackshark_name"/>
+	<item application="MiuiSystemUI.apk" file="strings.xml" folder="all" name="battery_meter_progress_mask_path"/>
+	<item application="MiuiSystemUI.apk" file="strings.xml" folder="all" name="battery_meter_progress_path"/>
+	<item application="PersonalAssistant.apk" file="strings.xml" folder="all" name="migu_parent"/>
+	<item application="PersonalAssistant.apk" file="strings.xml" folder="all" name="migu_video"/>
+	<item application="PersonalAssistant.apk" file="strings.xml" folder="all" name="migu_game"/>
+	<item application="SecurityCenter.apk" file="strings.xml" folder="all" name="process_vpnsdkmanager_label"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="screen_fps_unit"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="redmi_note_7"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="redmi_6"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="redmi_k20"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="redmi_note_5"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="redmi_k20_pro"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="redmi_note_7_pro"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="redmi_6a"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="redmi_7a"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="redmi_6_pro"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="redmi_6"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="redmi_note_7"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="redmi_k20"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="redmi_note_5"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="redmi_k20_pro"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="redmi_note_7_pro"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="redmi_6a"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="redmi_7a"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="redmi_6_pro"/>
+	<item application="MiuiHome.apk" file="strings.xml" folder="all" name="minus_one_screen"/>
+	<item application="MiuiHome.apk" file="strings.xml" folder="all" name="all_apps_setting_letter_scrollbar"/>
+	<item application="Music.apk" file="strings.xml" folder="all" name="hungama_category_vip"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="wechat"/>
 	
 	
 
