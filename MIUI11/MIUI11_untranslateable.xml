@@ -73,7 +73,7 @@
 	<item folder="all" application="Browser.apk" file="strings.xml" name="path_password_eye"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="path_password_eye_mask_strike_through"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="path_password_eye_mask_visible"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="path_password_strike_through"/
+	<item folder="all" application="Browser.apk" file="strings.xml" name="path_password_strike_through"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="suggestion_topic_subtitle_navtitle_hyphen"/>
 	<item folder="all" application="BuiltInPrintService.apk" file="strings.xml" name="ip_hint"/>
@@ -2974,5 +2974,28 @@
 	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="movie_audio_point1"/>
 	<item application="Provision.apk" file="strings.xml" folder="all" name="terms_of_use_label_mab"/>
 	<item application="TouchAssistant.apk" file="strings.xml" folder="all" name="process_name"/>
-	
+	<item application="framework-res.apk" file="arrays.xml" folder="all" name="correct_brightness_game_white_list"/>
+	<item application="framework-res.apk" file="arrays.xml" folder="all" name="config_ringtoneEffectUris"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="fast_scroller_style_values"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="icon_size"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="config_preInstalledPackages"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="fps_list_entries"/>
+	<item application="imssettings.apk" file="strings.xml" folder="all" name="ims_pc_count"/>
+	<item application="imssettings.apk" file="strings.xml" folder="all" name="qti_ims_call_deflect"/>
+	<item application="imssettings.apk" file="strings.xml" folder="all" name="rtt_toggle_title"/>
+	<item application="imssettings.apk" file="strings.xml" folder="all" name="ims_to_cs_retry"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_camera_video_log_tips"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_camera_video_8k_tips"/>
+	<item application="PrintRecommendationService.apk" file="strings.xml" folder="all" name="plugin_vendor_morpia"/>
+	<item application="PrintRecommendationService.apk" file="strings.xml" folder="all" name="plugin_vendor_canon"/>
+	<item application="PrintRecommendationService.apk" file="strings.xml" folder="all" name="plugin_vendor_konica_minolta"/>
+	<item application="PrintRecommendationService.apk" file="strings.xml" folder="all" name="plugin_vendor_samsung"/>
+	<item application="PrintRecommendationService.apk" file="strings.xml" folder="all" name="plugin_vendor_lexmark"/>
+	<item application="PrintRecommendationService.apk" file="strings.xml" folder="all" name="plugin_vendor_xerox"/>
+	<item application="PrintRecommendationService.apk" file="strings.xml" folder="all" name="plugin_vendor_brother"/>
+	<item application="PrintRecommendationService.apk" file="strings.xml" folder="all" name="plugin_vendor_hp"/>
+	<item application="PrintRecommendationService.apk" file="strings.xml" folder="all" name="plugin_vendor_fuji_xerox"/>
+	<item application="PrintRecommendationService.apk" file="strings.xml" folder="all" name="plugin_vendor_epson"/>
+	<item application="MiService.apk" file="strings.xml" folder="all" name="miui_feedback_main_frequent_question_title"/>
+	<item application="MiService.apk" file="strings.xml" folder="all" name="miservice_channel_boot_name"/>
 </resources>
