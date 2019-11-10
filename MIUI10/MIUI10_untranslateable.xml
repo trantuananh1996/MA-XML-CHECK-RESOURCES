@@ -192,6 +192,7 @@
 	<item folder="all" application="FileExplorer.apk" file="strings.xml" name="video_tag_search_lead"/>
 	<item folder="all" application="FileExplorer.apk" file="strings.xml" name="video_upload_item_title"/>
 	<item folder="all" application="FindDevice.apk" file="strings.xml" name="find_device_notice_p2"/>
+	<item folder="all" application="FrequentPhrase.apk" file="strings.xml" name="xiaomi_account_type"/>
 	<item folder="all" application="FM.apk" file="arrays.xml" name="freq_entries"/>
 	<item folder="all" application="FM.apk" file="strings.xml" name="txt_divider"/>
 	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="notification_header_divider_symbol_with_spaces"/>
@@ -408,6 +409,7 @@
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_exposure"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_shutter"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_timer"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_volume"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_zoom"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_watermark_default"/>
@@ -435,6 +437,7 @@
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_front_mirror_entryvalue_auto"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_front_mirror_entryvalue_off"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_front_mirror_entryvalue_on"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_live_volumekey_function_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_mi_front_video_quality_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_mtk_camera_contrast_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_mtk_camera_saturation_default"/>
@@ -455,9 +458,12 @@
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_quality_pad_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_speed_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_speed_value_fast"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="device_feature_configuration_file_name"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="device_india_watermark_default_text"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_speed_value_normal"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_speed_value_slow"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_time_lapse_frame_interval_default"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_volumekey_function_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="setting_off_value"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="setting_on_value"/>
 	<item folder="all" application="MiuiGallery.apk" file="arrays.xml" name="baby_sexy_value"/>
@@ -522,6 +528,13 @@
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="system_foreground_notification_whitelist"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="tts_demo_string_langs"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="usa_mcc"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="battery_meter_bg_path"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="battery_meter_charging_mask_path"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="battery_meter_charging_path"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="battery_meter_progress_mask_path"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="battery_meter_progress_path"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="battery_meter_quick_charging_mask_path"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="battery_meter_quick_charging_path"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="certinstaller_package"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="config_statusBarComponent"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="config_systemUIFactoryComponent"/>
@@ -672,6 +685,7 @@
 	<item folder="all" application="Notes.apk" file="strings.xml" name="micloud_state_total_count"/>
 	<item folder="all" application="Notes.apk" file="strings.xml" name="notelist_string_info"/>
 	<item folder="all" application="Notes.apk" file="strings.xml" name="xiaomi_account_type"/>
+	<item folder="all" application="NotificationCenter.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="certinstaller_package"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="lb_time_separator"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="power_charging"/>
@@ -716,6 +730,7 @@
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="personalAssistant_path"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="pie_chart_label_format"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="pie_chart_label_special"/>
+	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="stock_change_rate_format"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="tag_view_nav"/>
 	<item folder="all" application="PersonalAssistantPlugin.apk" file="arrays.xml" name="express_status_detail_flag"/>
@@ -937,6 +952,8 @@
 	<item folder="all" application="Weather.apk" file="strings.xml" name="information_time_source"/>
 	<item folder="all" application="Weather.apk" file="strings.xml" name="install_progress"/>
 	<item folder="all" application="Weather.apk" file="strings.xml" name="international_details_wind_connect"/>
+	<item folder="all" application="Weather.apk" file="strings.xml" name="item_city_list_region_no_data"/>
+	<item folder="all" application="Weather.apk" file="strings.xml" name="item_city_list_temperature_no_data"/>
 	<item folder="all" application="Weather.apk" file="strings.xml" name="share_weather_desc_alert"/>
 	<item folder="all" application="Weather.apk" file="strings.xml" name="data_source_timezone"/>
 	<item folder="all" application="XiaomiServiceFramework.apk" file="strings.xml" name="activate_sms_postfix"/>
@@ -2360,8 +2377,616 @@
 	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_camera_ae_bracket_hdr_title"/>
 	<item application="MiuiBiometric.apk" file="strings.xml" folder="all" name="my_app_name"/>
 	
+	<item application="Calendar.apk" file="strings.xml" folder="all" name="miuishare_wechat_title"/>
+	<item application="Calendar.apk" file="strings.xml" folder="all" name="reminder_later_notification_time_format"/>
+	<item application="CertInstaller.apk" file="strings.xml" folder="all" name="wifi_sim_config_text"/>
+	<item application="CloudBackup.apk" file="strings.xml" folder="all" name="provision_restore_item_backup_name_with_size"/>
+	<item application="CloudBackup.apk" file="strings.xml" folder="all" name="restore_app_order_search_input_high_light"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="sim_lock_now_ais_title"/>
+	<item application="MiGalleryLockscreen.apk" file="strings.xml" folder="all" name="llks_tools_nfc_data"/>
+	<item application="MiGalleryLockscreen.apk" file="strings.xml" folder="all" name="llks_tools_nfc_name"/>
+	<item application="MiGalleryLockscreen.apk" file="strings.xml" folder="all" name="llks_tools_smart_devices_name"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="menu_label"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="check_in_complete_text"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="check_in_text"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="copyright_song_ten_thousand"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="durationformatshort"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="durationformatshort_padding_with_0"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="filter_by_size_max"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="filter_by_size_min"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="filter_size_unit"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="fm_browser_label"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="font_family"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="mi_fm"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="second_symbol"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="tab_fm"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="tab_video_list"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="text_separator"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="title_album_list"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="title_fm_list"/>
+	<item application="MiSound.apk" file="strings.xml" folder="all" name="music_dirac_mode_in_ear2"/>
+	<item application="MiuiAod.apk" file="strings.xml" folder="all" name="aod_dual_togother"/>
+	<item application="MiuiAod.apk" file="strings.xml" folder="all" name="aod_dual_togother_12"/>
+	<item application="MiuiBiometric.apk" file="strings.xml" folder="all" name="my_app_name"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="mimoji_delete"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="mimoji_fragment_tab_name"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="CAST_ID"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="app_type"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="default_cmsdk_sender_id"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="id_namespace"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="include_sensitive_extra"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="lc_id"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="logging_verbose"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="ping_property"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="signup_type_user_default"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="xiaomi_update_sdk_bytes_unit"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="xiaomi_update_sdk_kilobytes_unit"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="xiaomi_update_sdk_megabytes_unit"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="passport_captcha_title"/>
+	<item application="Music.apk" file="strings.xml" folder="all" name="count_million_format"/>
+	<item application="PersonalAssistant.apk" file="strings.xml" folder="all" name="display_temperature_default"/>
+	<item application="Provision.apk" file="strings.xml" folder="all" name="terms_of_use_lable_vsimcore"/>
+
+	
+	<item application="Browser.apk" file="strings.xml" folder="all" name="mw_current_detected_ui_locale_name"/>
 	
 	
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="letter_a"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="letter_b"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="letter_d"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="letter_e"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="letter_f"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="unit_data_display_currency_bdt"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="unit_data_display_radix_10"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="unit_data_display_radix_16"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="unit_data_display_radix_2"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="unit_data_display_radix_8"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="unit_data_short_radix_10"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="unit_data_short_radix_16"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="unit_data_short_radix_2"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="unit_data_short_radix_8"/>
+	
+	<item application="Calendar.apk" file="strings.xml" folder="all" name="pref_default_popup_alert_value"/>
+	<item application="CloudService.apk" file="strings.xml" folder="all" name="cloud_lab_title"/>
+	<item application="Contacts.apk" file="strings.xml" folder="all" name="heduohao_label"/>
+	<item application="EasterEgg.apk" file="strings.xml" folder="all" name="default_cat_name"/>
+	<item application="EasterEgg.apk" file="strings.xml" folder="all" name="default_tile_name"/>
+	<item application="EasterEgg.apk" file="strings.xml" folder="all" name="directory_name"/>
+	<item application="EasterEgg.apk" file="strings.xml" folder="all" name="notification_name"/>
+	<item application="Email.apk" file="strings.xml" folder="all" name="subject_and_snippet"/>
+	<item application="Email.apk" file="strings.xml" folder="all" name="subject_and_snippet"/>
+	<item application="Email.apk" file="strings.xml" folder="all" name="suffix_sancharnet"/>
+	<item application="Email.apk" file="strings.xml" folder="all" name="suffix_vsnl"/>
+	
+	<item application="FileExplorer.apk" file="strings.xml" folder="all" name="doc_epub"/>
+	<item application="FileExplorer.apk" file="strings.xml" folder="all" name="doc_pdf"/>
+	<item application="FileExplorer.apk" file="strings.xml" folder="all" name="doc_ppt"/>
+	<item application="FileExplorer.apk" file="strings.xml" folder="all" name="doc_txt"/>
+	<item application="FileExplorer.apk" file="strings.xml" folder="all" name="doc_word"/>
+	<item application="FileExplorer.apk" file="strings.xml" folder="all" name="doc_wps"/>
+	<item application="FileExplorer.apk" file="strings.xml" folder="all" name="doc_xls"/>
+	<item application="FileExplorer.apk" file="strings.xml" folder="all" name="mi_share"/>
 	
 	
+	<item application="InCallUI.apk" file="strings.xml" folder="all" name="sim1_heduohao_card"/>
+	<item application="InCallUI.apk" file="strings.xml" folder="all" name="sim2_heduohao_card"/>
+	<item application="InCallUI.apk" file="strings.xml" folder="all" name="sim3_heduohao_card"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="passport_captcha_title"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="path_password_eye"/>
+	
+	<item application="MiuiBiometric.apk" file="strings.xml" folder="all" name="my_app_name"/>
+	<item application="MiuiContentCatcher.apk" file="strings.xml" folder="all" name="autofill_hint_email_address"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="device_feature_configuration_file_name"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="device_ultra_pixel_app_watermark_family_name_suffix"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="device_ultra_pixel_watermark_default_text"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_camera_zoom_mode_entry_macro"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_hdr_value_default"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_menu_ultra_pixel_photography"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="ultra_pixel_32mp"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="ultra_pixel_48mp"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="ultra_pixel_64mp"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="ultra_pixel_device"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="ultra_pixel_portrait_hint"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_hdr_value_default"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="device_ultra_pixel_watermark_default_text"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="editor_talkback_redo"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="editor_talkback_undo"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="movie_audio_antiquity"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="movie_audio_dream"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="movie_audio_electronics"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="movie_audio_quiet"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="movie_audio_vitality"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="special_type_hdr"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="video_editor_audio_antiquity"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="video_editor_audio_dream"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="video_editor_audio_electronics"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="video_editor_audio_quiet"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="video_editor_audio_vitality"/>
+	
+	<item application="MiuiHome.apk" file="strings.xml" folder="all" name="announce_for_xiaoai"/>
+	<item application="MiuiScanner.apk" file="strings.xml" folder="all" name="path_password_eye"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="HA_DOMAIN"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="HA_SERVICE_ID"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="login_type"/>
+	<item application="Music.apk" file="strings.xml" folder="all" name="online_music_joox"/>
+	<item application="Music.apk" file="strings.xml" folder="all" name="online_music_yandex"/>
+	<item application="Music.apk" file="strings.xml" folder="all" name="path_password_eye"/>
+	<item application="PersonalAssistant.apk" file="strings.xml" folder="all" name="commute_service_provider_didi"/>
+	<item application="PersonalAssistant.apk" file="strings.xml" folder="all" name="vertical_separator"/>
+	
+	
+	<item application="PowerChecker.apk" file="strings.xml" folder="all" name="app_name"/>
+	<item application="SecurityAdd.apk" file="strings.xml" folder="all" name="path_password_eye"/>
+	<item application="SecurityAdd.apk" file="strings.xml" folder="all" name="size_unit_byte"/>
+	<item application="SecurityAdd.apk" file="strings.xml" folder="all" name="size_unit_kilobyte"/>
+	<item application="SecurityAdd.apk" file="strings.xml" folder="all" name="size_unit_megabyte"/>
+	<item application="SecurityAdd.apk" file="strings.xml" folder="all" name="superpower_time"/>
+	<item application="SecurityAdd.apk" file="strings.xml" folder="all" name="superpower_time_24"/>
+	<item application="SecurityAdd.apk" file="strings.xml" folder="all" name="vertical_text_divider"/>
+	<item application="SecurityCenter.apk" file="strings.xml" folder="all" name="app_manager_power_consume"/>
+	<item application="SecurityCenter.apk" file="strings.xml" folder="all" name="st_antispam_title_mms"/>
+	
+	
+	<item application="SecurityCoreAdd.apk" file="strings.xml" folder="all" name="xspace_facebook_title"/>
+	<item application="SecurityCoreAdd.apk" file="strings.xml" folder="all" name="xspace_instagram_title"/>
+	<item application="SecurityCoreAdd.apk" file="strings.xml" folder="all" name="xspace_whatsapp_title"/>
+	
+	
+	<item application="Settings.apk" file="strings.xml" folder="all" name="mi_transfer"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="bt_lhdc_pre_title"/>
+	
+	<item application="ThemeManager.apk" file="strings.xml" folder="all" name="wallpaper_24h"/>
+	<item application="ThemeManager.apk" file="strings.xml" folder="all" name="weibo"/>
+	<item application="ThemeManager.apk" file="strings.xml" folder="all" name="xiaomi_update_sdk_bytes_unit"/>
+	<item application="ThemeManager.apk" file="strings.xml" folder="all" name="xiaomi_update_sdk_kilobytes_unit"/>
+	<item application="ThemeManager.apk" file="strings.xml" folder="all" name="xiaomi_update_sdk_megabytes_unit"/>
+	
+	
+	<item application="XiaomiAccount.apk" file="strings.xml" folder="all" name="google"/>
+	<item application="XiaomiAccount.apk" file="strings.xml" folder="all" name="weixin"/>
+	<item application="DeskClock.apk" file="strings.xml" folder="all" name="status_bar_clock_date_time_format"/>
+	<item application="DeskClock.apk" file="strings.xml" folder="all" name="status_bar_clock_date_time_format_12"/>
+	<item application="MiSound.apk" file="strings.xml" folder="all" name="eq_hiphop"/>
+	<item application="MiSound.apk" file="strings.xml" folder="all" name="eq_jazz"/>
+	<item application="MiSound.apk" file="strings.xml" folder="all" name="eq_pop"/>
+	<item application="MiSound.apk" file="strings.xml" folder="all" name="eq_rock"/>
+	<item application="EasterEgg.apk" file="strings.xml" folder="all" name="notification_title"/>
+	<item application="EasterEgg.apk" file="strings.xml" folder="all" name="notification_channel_name"/>
+	<item application="MiuiBiometric.apk" file="strings.xml" folder="all" name="my_app_name"/>
+	<item application="PowerChecker.apk" file="strings.xml" folder="all" name="app_name"/>
+	<item application="DeskClock.apk" file="strings.xml" folder="all" name="confirm"/>
+	
+
+<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="wifi_security_short_psk_sae"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_wpa"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="battery_meter_very_low_overlay_symbol"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_suiteb"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="wifi_security_short_owe"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="wifi_security_sae"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_wpa2_wpa3"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="wifi_security_eap_wpa"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="wifi_security_eap_suiteb"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="wifi_security_short_sae"/>
+	<item application="DeskClock.apk" file="strings.xml" folder="all" name="status_bar_clock_date_time_format_seconds_12"/>
+	<item application="DeskClock.apk" file="strings.xml" folder="all" name="snooze_duration_text"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="oppo"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="vivo"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="input_method_tab_clipboard_text"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="name_with_ellipsize"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="multi_file_name"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="config_batterymeterBoltPath"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="config_batterymeterPerimeterPath"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="mime_type_video_ext"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="status_bar_sensors_off"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="mime_type_video"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="config_batterymeterFillMask"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="wfcSpnFormat_vowifi"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="wfcSpnFormat_spn_vowifi"/>
+	<item application="ManagedProvisioning.apk" file="strings.xml" folder="all" name="alpha_jump_placeholder_text"/>
+	<item application="ManagedProvisioning.apk" file="strings.xml" folder="all" name="path_password_eye"/>
+	<item application="ManagedProvisioning.apk" file="strings.xml" folder="all" name="chip_text"/>
+	<item application="MiLinkService.apk" file="strings.xml" folder="all" name="help_page_text_33"/>
+	<item application="MiLinkService.apk" file="strings.xml" folder="all" name="help_page_text_45"/>
+	<item application="MiLinkService.apk" file="strings.xml" folder="all" name="help_page_text_24"/>
+	<item application="MiLinkService.apk" file="strings.xml" folder="all" name="help_page_text_36"/>
+	<item application="MiLinkService.apk" file="strings.xml" folder="all" name="help_page_text_48"/>
+	<item application="MiLinkService.apk" file="strings.xml" folder="all" name="help_page_text_27"/>
+	<item application="MiLinkService.apk" file="strings.xml" folder="all" name="help_page_text_39"/>
+	<item application="MiLinkService.apk" file="strings.xml" folder="all" name="help_page_text_18"/>
+	<item application="MiLinkService.apk" file="strings.xml" folder="all" name="help_page_text_51"/>
+	<item application="MiLinkService.apk" file="strings.xml" folder="all" name="help_page_text_30"/>
+	<item application="MiLinkService.apk" file="strings.xml" folder="all" name="help_page_text_42"/>
+	<item application="MiLinkService.apk" file="strings.xml" folder="all" name="help_page_text_21"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="multiply_prefix"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_camera_zoom_mode_entry_tele_2X"/>
+	<item application="MiuiSystemUI.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_suiteb"/>
+	<item application="PermissionController.apk" file="strings.xml" folder="all" name="summary_placeholder"/>
+	<item application="PermissionController.apk" file="strings.xml" folder="all" name="cache_db_name"/>
+	<item application="PermissionController.apk" file="strings.xml" folder="all" name="path_password_eye"/>
+	<item application="PermissionController.apk" file="strings.xml" folder="all" name="chip_text"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="rx_link_speed"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_suiteb"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="battery_header_title_alternate"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="path_password_eye"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="tx_link_speed"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="wifi_advanced_ssid_title"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="chip_text"/>
+	<item application="Telecom.apk" file="strings.xml" folder="all" name="wifi_security_short_psk_sae"/>
+	<item application="Telecom.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_wpa"/>
+	<item application="Telecom.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_suiteb"/>
+	<item application="Telecom.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_wpa2_wpa3"/>
+	<item application="Telecom.apk" file="strings.xml" folder="all" name="wifi_security_eap_wpa"/>
+	<item application="Telecom.apk" file="strings.xml" folder="all" name="wifi_security_eap_suiteb"/>
+	<item application="TeleService.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_wpa"/>
+	<item application="TeleService.apk" file="strings.xml" folder="all" name="wifi_security_short_psk_sae"/>
+	<item application="TeleService.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_suiteb"/>
+	<item application="TeleService.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_wpa2_wpa3"/>
+	<item application="TeleService.apk" file="strings.xml" folder="all" name="wifi_security_eap_wpa"/>
+	<item application="TeleService.apk" file="strings.xml" folder="all" name="wifi_security_eap_suiteb"/>
+	
+	
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="track_frame_time_values"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="required_monthly_test_range_strings"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="cmas_amber_alerts_channels_range_strings"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="tts_demo_string_langs"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="exercise_alert_range_strings"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="etws_alerts_range_strings"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="cmas_alert_extreme_channels_range_strings"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="usb_configuration_values"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="bluetooth_avrcp_version_values"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="tts_demo_strings"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="enable_opengl_traces_values"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="bt_hci_snoop_log_values"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="show_non_rect_clip_values"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="overlay_display_devices_values"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="cmas_alerts_severe_range_strings"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="debug_hw_overdraw_values"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="operator_defined_alert_range_strings"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="select_logpersist_values"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="cmas_presidential_alerts_channels_range_strings"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="etws_test_alerts_range_strings"/>
+	<item application="CellBroadcastReceiver.apk" file="arrays.xml" folder="all" name="hdcp_checking_values"/>
+	<item application="Email.apk" file="arrays.xml" folder="all" name="signature_normal_string_array"/>
+	<item application="framework-res.apk" file="arrays.xml" folder="all" name="correct_brightness_video_white_list"/>
+	<item application="framework-res.apk" file="arrays.xml" folder="all" name="config_dropboxLowPriorityTags"/>
+	<item application="imssettings.apk" file="arrays.xml" folder="all" name="entries_list_reg_ipsec_protection"/>
+	<item application="imssettings.apk" file="arrays.xml" folder="all" name="entries_list_ut_apn"/>
+	<item application="imssettings.apk" file="arrays.xml" folder="all" name="entries_list_reg_authentication"/>
+	<item application="imssettings.apk" file="arrays.xml" folder="all" name="entries_list_reg_digest"/>
+	<item application="imssettings.apk" file="arrays.xml" folder="all" name="entries_list_resolution"/>
+	<item application="imssettings.apk" file="arrays.xml" folder="all" name="entries_list_emergency_apn"/>
+	<item application="imssettings.apk" file="arrays.xml" folder="all" name="entries_list_reg_ipsec"/>
+	<item application="imssettings.apk" file="arrays.xml" folder="all" name="entries_list_other_dial_scheme"/>
+	<item application="imssettings.apk" file="arrays.xml" folder="all" name="entries_list_ims_apn"/>
+	<item application="MiRadio.apk" file="arrays.xml" folder="all" name="aritst_gender_filter_api"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="bt_hci_snoop_log_values"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="data_network_type_name_default"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="devices_hide_charge_circle_when_fod"/>
+	<item application="MiuiSystemUI.apk" file="arrays.xml" folder="all" name="recents_thumbnail_blur_white_pkgs"/>
+	<item application="MiuiVideoGlobal.apk" file="arrays.xml" folder="all" name="subtitle_font_title"/>
+	<item application="NotificationCenter.apk" file="arrays.xml" folder="all" name="notification_style_entries"/>
+	<item application="NQNfcNci.apk" file="arrays.xml" folder="all" name="live_case_tag_types"/>
+	<item application="PackageInstaller.apk" file="arrays.xml" folder="all" name="overlay_display_devices_values"/>
+	<item application="PrintRecommendationService.apk" file="arrays.xml" folder="all" name="known_print_vendor_info_for_xerox"/>
+	<item application="PrintRecommendationService.apk" file="arrays.xml" folder="all" name="known_print_vendor_info_for_hp"/>
+	<item application="PrintRecommendationService.apk" file="arrays.xml" folder="all" name="known_print_vendor_info_for_mopria"/>
+	<item application="PrintRecommendationService.apk" file="arrays.xml" folder="all" name="known_print_vendor_info_for_samsung"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="bt_hci_snoop_log_values"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="data_network_type_name_default"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="overlay_display_devices_values"/>
+	<item application="Telecom.apk" file="arrays.xml" folder="all" name="bt_hci_snoop_log_values"/>
+	<item application="TeleService.apk" file="arrays.xml" folder="all" name="bt_hci_snoop_log_values"/>
+	<item application="Traceur.apk" file="arrays.xml" folder="all" name="track_frame_time_values"/>
+	<item application="Traceur.apk" file="arrays.xml" folder="all" name="enable_opengl_traces_values"/>
+	<item application="Traceur.apk" file="arrays.xml" folder="all" name="bt_hci_snoop_log_values"/>
+	<item application="Traceur.apk" file="arrays.xml" folder="all" name="tts_demo_string_langs"/>
+	<item application="Traceur.apk" file="arrays.xml" folder="all" name="show_non_rect_clip_values"/>
+	<item application="Traceur.apk" file="arrays.xml" folder="all" name="overlay_display_devices_values"/>
+	<item application="Traceur.apk" file="arrays.xml" folder="all" name="debug_hw_overdraw_values"/>
+	<item application="Traceur.apk" file="arrays.xml" folder="all" name="select_logpersist_values"/>
+	<item application="Traceur.apk" file="arrays.xml" folder="all" name="usb_configuration_values"/>
+	<item application="Traceur.apk" file="arrays.xml" folder="all" name="bluetooth_avrcp_version_values"/>
+	<item application="Traceur.apk" file="arrays.xml" folder="all" name="tts_demo_strings"/>
+	<item application="Traceur.apk" file="arrays.xml" folder="all" name="hdcp_checking_values"/>
+	<item application="CleanMaster.apk" file="plurals.xml" folder="all" name="wechat_video_time_p2"/>
+	<item application="Contacts.apk" file="plurals.xml" folder="all" name="label_duplicate_count_plurals"/>
+	<item application="SecurityCenter.apk" file="plurals.xml" folder="all" name="power_center_battery_volume"/>
+	<item application="SecurityCenter.apk" file="plurals.xml" folder="all" name="game_booster_incoming_call_duration_p1"/>
+	<item application="SecurityCenter.apk" file="plurals.xml" folder="all" name="game_booster_incoming_call_duration_p2"/>
+	<item application="PrintRecommendationService.apk" file="arrays.xml" folder="all" name="known_print_vendor_info_for_xerox"/>
+	<item application="PrintRecommendationService.apk" file="arrays.xml" folder="all" name="known_print_vendor_info_for_hp"/>
+	<item application="PrintRecommendationService.apk" file="arrays.xml" folder="all" name="known_print_vendor_info_for_mopria"/>
+	<item application="PrintRecommendationService.apk" file="arrays.xml" folder="all" name="known_print_vendor_info_for_samsung"/>
+	<item application="imssettings.apk" file="arrays.xml" folder="all" name="entries_list_reg_ipsec_protection"/>
+	<item application="imssettings.apk" file="arrays.xml" folder="all" name="entries_list_ut_apn"/>
+	<item application="imssettings.apk" file="arrays.xml" folder="all" name="entries_list_reg_authentication"/>
+	<item application="imssettings.apk" file="arrays.xml" folder="all" name="entries_list_reg_digest"/>
+	<item application="imssettings.apk" file="arrays.xml" folder="all" name="entries_list_resolution"/>
+	<item application="imssettings.apk" file="arrays.xml" folder="all" name="entries_list_emergency_apn"/>
+	<item application="imssettings.apk" file="arrays.xml" folder="all" name="entries_list_reg_ipsec"/>
+	<item application="imssettings.apk" file="arrays.xml" folder="all" name="entries_list_other_dial_scheme"/>
+	<item application="imssettings.apk" file="arrays.xml" folder="all" name="entries_list_ims_apn"/>
+	
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="pe_local_alert_dialog_title"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="pe_test_alert_dialog_title"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="pe_information_alert_dialog_title"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="emergency_alert_dialog_title_prefix"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="pe_simulation_alert_dialog_title"/>
+	
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="pe_local_alert_dialog_title"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="pe_test_alert_dialog_title"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="pe_information_alert_dialog_title"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="emergency_alert_dialog_title_prefix"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="pe_simulation_alert_dialog_title"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="cit_tool_bluetooth_le_tx_50"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="cit_tool_bluetooth_le_tx_4x_payload"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="cit_audio_cali_valueF0"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="cit_tool_bluetooth_le_rx_4x"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="cit_audio_cali_valueT"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="cit_tool_bluetooth_le_tx_50_phy"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="cit_audio_cali_q"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="cit_audio_cali_valueR"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="cit_tool_bluetooth_le_rx_50"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="cit_tool_bluetooth_le_tx_50_payload"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="cit_audio_cali_t0"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="cit_tool_bluetooth_le_tx_4x"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="cit_tool_bluetooth_le_rx_50_phy"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="title_far"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="title_frr"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="radio_info_cid"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="vendor_ct"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="cit_audio_spk_cal_valueRe"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="title_test_frr_far_play"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="cit_audio_spk_cal_valueF0"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="cit_hall_down_arrow"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="radio_info_lac"/>
+	<item application="CleanMaster.apk" file="strings.xml" folder="all" name="appcleaner_wechat_pref_size_1_GB"/>
+	<item application="CleanMaster.apk" file="strings.xml" folder="all" name="appcleaner_wechat_pref_size_100_MB"/>
+	<item application="CleanMaster.apk" file="strings.xml" folder="all" name="appcleaner_wechat_pref_size_500_MB"/>
+	<item application="CleanMaster.apk" file="strings.xml" folder="all" name="appcleaner_wechat_pref_size_300_MB"/>
+	<item application="CloudService.apk" file="strings.xml" folder="all" name="cloud_storage_info_type_drive"/>
+	<item application="CloudService.apk" file="strings.xml" folder="all" name="cloud_storage_info_type_duokan"/>
+	<item application="CloudService.apk" file="strings.xml" folder="all" name="cloud_storage_default_title"/>
+	<item application="CloudService.apk" file="strings.xml" folder="all" name="cloud_storage_loading_data"/>
+	<item application="CloudService.apk" file="strings.xml" folder="all" name="cloud_storage_already_full"/>
+	<item application="Contacts.apk" file="strings.xml" folder="all" name="eight_letter"/>
+	<item application="Contacts.apk" file="strings.xml" folder="all" name="nine_letter"/>
+	<item application="Contacts.apk" file="strings.xml" folder="all" name="pound"/>
+	<item application="Contacts.apk" file="strings.xml" folder="all" name="five_letter"/>
+	<item application="Contacts.apk" file="strings.xml" folder="all" name="two_letter"/>
+	<item application="Contacts.apk" file="strings.xml" folder="all" name="three_letter"/>
+	<item application="Contacts.apk" file="strings.xml" folder="all" name="star"/>
+	<item application="Contacts.apk" file="strings.xml" folder="all" name="four_letter"/>
+	<item application="Contacts.apk" file="strings.xml" folder="all" name="seven_letter"/>
+	<item application="Contacts.apk" file="strings.xml" folder="all" name="six_letter"/>
+	<item application="DeskClock.apk" file="strings.xml" folder="all" name="clock_date_time_format_seconds_24"/>
+	<item application="DeskClock.apk" file="strings.xml" folder="all" name="clock_date_time_format_seconds_12"/>
+	<item application="Email.apk" file="strings.xml" folder="all" name="help_email_title"/>
+	<item application="FileExplorer.apk" file="strings.xml" folder="all" name="path_name_email"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="mi_a3"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_poco_f1"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_cc_9_custom"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="device_name_with_ellipsize"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="mi_9t_pro"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_8_se"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_8_ud"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_note_3"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="oppo_phone"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_cc_9e"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="vivo_phone"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="service_not_subscribed"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_cc_9"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_6"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_mix_3"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_8"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_mix_2"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_9"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_8_young"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_mix_3_5g"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_8_exp"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="mi_9t"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_9_se"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_phone"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="user_authentication_failed"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_mix_2s"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="xiaomi_max_3"/>
+	<item application="InCallUI.apk" file="strings.xml" folder="all" name="dialpad_star"/>
+	<item application="InCallUI.apk" file="strings.xml" folder="all" name="dialpad_pound"/>
+	<item application="MiLinkService.apk" file="strings.xml" folder="all" name="sdk_name"/>
+	<item application="MiSettings.apk" file="strings.xml" folder="all" name="sim_slot_1"/>
+	<item application="MiSettings.apk" file="strings.xml" folder="all" name="sim_slot_2"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="manually_raw_hint"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_camera_zoom_mode_entry_tele_standalone"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="video_ultra_clear_tip_8k"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="vv_use_hint_text_title"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_video_quality_entry_8kuhd"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="ultra_pixel_108mp"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_6mw_title"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="mi_a3"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_poco_f1"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_cc_9_custom"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="device_name_with_ellipsize"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="mi_9t_pro"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_8_se"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="oppo"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_8_ud"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_note_3"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="oppo_phone"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_cc_9e"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="vivo_phone"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="vivo"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_cc_9"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_6"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_mix_3"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_8"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_mix_2"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_9"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_8_young"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_mix_3_5g"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_8_exp"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="mi_9t"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_9_se"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_phone"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="name_with_ellipsize"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_mix_2s"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="xiaomi_max_3"/>
+	<item application="MiuiHome.apk" file="strings.xml" folder="all" name="minus_one_screen_google"/>
+	<item application="miuisystem.apk" file="strings.xml" folder="all" name="mihouse"/>
+	<item application="miuisystem.apk" file="strings.xml" folder="all" name="windchime"/>
+	<item application="miuisystem.apk" file="strings.xml" folder="all" name="mijazz"/>
+	<item application="MiuiSystemUI.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_wpa"/>
+	<item application="MiuiSystemUI.apk" file="strings.xml" folder="all" name="wifi_security_short_psk_sae"/>
+	<item application="MiuiSystemUI.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_wpa2_wpa3"/>
+	<item application="MiuiSystemUI.apk" file="strings.xml" folder="all" name="wifi_security_eap_wpa"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="plus_gallery_mediatype_gif"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="gallery_folder_alias_toutiao"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="gallery_folder_alias_youku_video"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="favor_online_video"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="gallery_folder_alias_wechat"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="gallery_tab_videos"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="plus_share_channel_qq"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="moment_tab_instagram"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="moment_tab_facebook"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="moment_tab_whatsapp"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="gallery_folder_alias_qtt"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="plus_gallery_mediatype_fastslowvideo"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="gallery_folder_alias_tencent_video"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="gallery_folder_alias_pdd"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="gallery_video_item6_default_text"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="gallery_folder_alias_sina"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="gallery_folder_alias_mivideo"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="library_roundedimageview_licenseId"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="plus_share_channel_weibo"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="moment_tab_qq"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="moment_tab_sina_weibo"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="plus_share_channel_qzone"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="library_roundedimageview_author"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="plus_player_pip"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="order_alphabet"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="library_roundedimageview_libraryDescription"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="tab_name_video"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="gallery_folder_alias_TAOBAO"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="gallery_folder_alias_qq"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="library_roundedimageview_isOpenSource"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="plus_share_channel_wechat"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="moment_tab_wechat"/>
+	<item application="Mms.apk" file="strings.xml" folder="all" name="rms_editor_hints"/>
+	<item application="SecurityCenter.apk" file="strings.xml" folder="all" name="ew_emergency_idcard"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="wifi_security_short_psk_sae"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_wpa"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_wpa2_wpa3"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="wifi_security_eap_wpa"/>
+	<item application="XiaomiAccount.apk" file="strings.xml" folder="all" name="passport_ticket_login_select_sim_card_2"/>
+	<item application="XiaomiAccount.apk" file="strings.xml" folder="all" name="passport_ticket_login_select_sim_card_1"/>
+	<item application="MiuiAod.apk" file="strings.xml" folder="all" name="panel_clock"/>
+	<item application="MiuiAod.apk" file="strings.xml" folder="all" name="categories_json"/>
+	<item application="MiuiAod.apk" file="strings.xml" folder="all" name="path_password_eye"/>
+	<item application="MiuiAod.apk" file="strings.xml" folder="all" name="categories_international_json"/>
+	<item application="MiuiAod.apk" file="strings.xml" folder="all" name="signature_default_content"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_wpa"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="keywords"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_suiteb"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="ten_gb"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="pref_key_apps"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="sixteen_thousand_kb"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="wifi_security_wapi_psk_ascii"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="wifi_security_short_owe"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_wpa2_wpa3"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="thirtytwo_thousand_kb"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="wifi_security_short_sae"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="five_gb"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="wifi_security_eap_suiteb"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="four_thousand_kb"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="wifi_security_short_dpp"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="battery_meter_very_low_overlay_symbol"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="wifi_security_wapi_psk"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="pref_key_buffer_size"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="eight_thousand_kb"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="pref_key_tracing_on"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="wifi_security_eap_wpa"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="wifi_security_dpp"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="wifi_security_short_psk_sae"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="pref_key_long_traces"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="one_gb"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="wifi_security_wapi_cert"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="two_hundred_mb"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="sixtyfive_thousand_kb"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="twenty_gb"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="pref_key_tags"/>
+	<item application="Traceur.apk" file="strings.xml" folder="all" name="wifi_security_sae"/>
+	<item application="MiRadio.apk" file="strings.xml" folder="all" name="novel"/>
+	<item application="Browser.apk" file="arrays.xml" folder="all" name="city"/>
+	<item application="Calendar.apk" file="arrays.xml" folder="all" name="year_view_week_header_name"/>
+	<item application="Calendar.apk" file="arrays.xml" folder="all" name="timezone_values_v3"/>
+	<item application="Calendar.apk" file="arrays.xml" folder="all" name="timezone_labels_v3"/>
+	<item application="Cit.apk" file="arrays.xml" folder="all" name="sub_id_idx"/>
+	<item application="EasterEgg.apk" file="arrays.xml" folder="all" name="food_names"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_undefined"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_medicine"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_tools"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_social"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_entainment"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_financial"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_education"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="coolsound_dynamic_source_calendar"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_photo"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_reading"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_game"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_shopping"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="coolsound_dynamic_source_notification"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_news"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_travel"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_life"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_sport"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_video_etc"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="usagestats_app_category_miui_productivity"/>
+	<item application="MiuiVideoGlobal.apk" file="arrays.xml" folder="all" name="countries"/>
+	<item application="Mms.apk" file="arrays.xml" folder="all" name="message_type"/>
+	<item application="PrintRecommendationService.apk" file="arrays.xml" folder="all" name="known_print_vendor_info_for_xerox"/>
+	<item application="PrintRecommendationService.apk" file="arrays.xml" folder="all" name="known_print_vendor_info_for_hp"/>
+	<item application="PrintRecommendationService.apk" file="arrays.xml" folder="all" name="known_print_vendor_info_for_mopria"/>
+	<item application="SecurityCenter.apk" file="arrays.xml" folder="all" name="ew_emergency_blood_type_arrays"/>
+	<item application="Settings.apk" file="arrays.xml" folder="all" name="autofill_logging_level_entries"/>
+	<item application="FactoryKitTest.apk" file="arrays.xml" folder="all" name="color"/>
+	<item application="FactoryKitTest.apk" file="arrays.xml" folder="all" name="htccolor"/>
+	<item application="FactoryKitTest.apk" file="arrays.xml" folder="all" name="message"/>
+	<item application="FactoryKitTest.apk" file="arrays.xml" folder="all" name="onecolor"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="test_bottom_speaker"/>
+	<item application="Cit.apk" file="strings.xml" folder="all" name="test_top_speaker"/>
+	<item application="MiGalleryLockscreen.apk" file="strings.xml" folder="all" name="sst_common_question"/>
+	<item application="MiuiBluetooth.apk" file="strings.xml" folder="all" name="blackshark_name"/>
+	<item application="MiuiSystemUI.apk" file="strings.xml" folder="all" name="battery_meter_progress_mask_path"/>
+	<item application="MiuiSystemUI.apk" file="strings.xml" folder="all" name="battery_meter_progress_path"/>
+	<item application="PersonalAssistant.apk" file="strings.xml" folder="all" name="migu_parent"/>
+	<item application="PersonalAssistant.apk" file="strings.xml" folder="all" name="migu_video"/>
+	<item application="PersonalAssistant.apk" file="strings.xml" folder="all" name="migu_game"/>
+	<item application="SecurityCenter.apk" file="strings.xml" folder="all" name="process_vpnsdkmanager_label"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="screen_fps_unit"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="redmi_note_7"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="redmi_6"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="redmi_k20"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="redmi_note_5"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="redmi_k20_pro"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="redmi_note_7_pro"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="redmi_6a"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="redmi_7a"/>
+	<item application="framework-ext-res.apk" file="strings.xml" folder="all" name="redmi_6_pro"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="redmi_6"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="redmi_note_7"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="redmi_k20"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="redmi_note_5"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="redmi_k20_pro"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="redmi_note_7_pro"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="redmi_6a"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="redmi_7a"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="redmi_6_pro"/>
+	<item application="MiuiHome.apk" file="strings.xml" folder="all" name="minus_one_screen"/>
+	<item application="MiuiHome.apk" file="strings.xml" folder="all" name="all_apps_setting_letter_scrollbar"/>
+	<item application="Music.apk" file="strings.xml" folder="all" name="hungama_category_vip"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="wechat"/>
+	
+	
+
 </resources>
