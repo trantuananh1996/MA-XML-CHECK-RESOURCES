@@ -8,6 +8,8 @@ all Browser.apk strings.xml pref_video_preload_value_never
 all Calculator.apk strings.xml sin_mathematical_value
 all Calculator.apk strings.xml tan_mathematical_value
 all DeskClock.apk strings.xml snooze_duration_value
+all FactoryKitTest.apk strings.xml gsensor_value
+all FactoryKitTest.apk strings.xml sensor_value
 all imssettings.apk strings.xml ims_apn_value_invalid
 all imssettings.apk strings.xml ims_settings_no_default_value
 all imssettings.apk strings.xml ims_settings_value_full_rate
@@ -42,4 +44,7 @@ all PaymentService.apk strings.xml mibi_unit_value_remained
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
 all Settings.apk arrays.xml default_vol_stream_entries
 all Settings.apk strings.xml tether_limit_value_custom
+all SoundRecorder.apk strings.xml err_msg_pending_value
+all SoundRecorder.apk strings.xml online_recognize_order_service_type_value
+all SoundRecorder.apk strings.xml online_recognize_order_unit_price_value
 all TeleService.apk strings.xml clh_callFailed_invalid_transaction_identifier_value_txt

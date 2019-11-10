@@ -59,6 +59,18 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FactoryKitTest.apk" xml="" name="gsensor_value"
+---------------------------------------------------------------------------------------
+ <string name="gsensor_value">방향:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FactoryKitTest.apk" xml="" name="sensor_value"
+---------------------------------------------------------------------------------------
+ <string name="sensor_value">값:</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="imssettings.apk" xml="" name="ims_apn_value_invalid"
 ---------------------------------------------------------------------------------------
  <string name="ims_apn_value_invalid">APN을 입력하십시오.</string>
@@ -260,6 +272,24 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">사용자 지정</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
+---------------------------------------------------------------------------------------
+ <string name="err_msg_pending_value">보류 평가</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_service_type_value"
+---------------------------------------------------------------------------------------
+ <string name="online_recognize_order_service_type_value">정확한 온라인 인식</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
+---------------------------------------------------------------------------------------
+ <string name="online_recognize_order_unit_price_value">시간당 %s RMB</string>
 
 
 ---------------------------------------------------------------------------------------
