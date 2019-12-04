@@ -3096,7 +3096,26 @@
 	<item application="Health.apk" file="strings.xml" folder="all" name="bmi_label"/>
 	<item application="Health.apk" file="strings.xml" folder="all" name="date_format_h_m"/>
 	<item application="Health.apk" file="strings.xml" folder="all" name="date_format_y"/>
-	
-	
-	
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="autofill_country_re"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="autofill_address_line_2_re"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="autofill_name_re"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="autofill_address_line_1_label_re"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="autofill_company_re"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="autofill_address_line_1_re"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="autofill_email_re"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="autofill_name_on_card_re"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="autofill_fax_re"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="autofill_phone_re"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="autofill_username_re"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="autofill_first_name_re"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="autofill_state_re"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="autofill_city_re"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="autofill_card_number_re"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="autofill_last_name_re"/>
+	<item application="MiuiBluetooth.apk" file="strings.xml" folder="all" name="fast_connect_wbs_name"/>
+	<item application="MiuiPackageInstaller.apk" file="strings.xml" folder="all" name="wear_not_allowed_dlg_title"/>
+	<item application="Calendar.apk" file="strings.xml" folder="all" name="time_format_24_hours_bigger_than_10"/>
+	<item application="Calendar.apk" file="strings.xml" folder="all" name="time_format_12_hours_bigger_than_10"/>
+	<item application="Calendar.apk" file="strings.xml" folder="all" name="time_format_12_hours_smaller_than_10"/>
+	<item application="Calendar.apk" file="strings.xml" folder="all" name="time_format_24_hours_smaller_than_10"/>
 </resources>
