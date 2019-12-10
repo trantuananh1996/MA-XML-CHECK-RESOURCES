@@ -626,7 +626,6 @@
 	<item folder="all" application="Mms.apk" file="strings.xml" name="send_to_index_contact"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="api"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="app_code"/>
-	<item folder="all" application="Music.apk" file="strings.xml" name="app_name"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="app_type"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="campaign_refresh_period"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="campaign_server_refresh_period"/>
@@ -1167,7 +1166,6 @@
 	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_net_txt"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_org_txt"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_www_txt"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="app_name"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="hot_word_item_mark_burst_text"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="hour_minute_time_format"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="source_cancel"/>
@@ -1309,7 +1307,6 @@
 	<item application="Calculator.apk" file="strings.xml" folder="all" name="unit_data_short_area_are"/>
 	<item application="Calculator.apk" file="strings.xml" folder="all" name="unit_data_short_length_fm"/>
 	<item application="Calculator.apk" file="strings.xml" folder="all" name="xiaomi_mobile"/>
-	<item application="Calendar.apk" file="strings.xml" folder="all" name="app_name"/>
 	<item application="Calendar.apk" file="strings.xml" folder="all" name="email_subject_prefix"/>
 	<item application="Calendar.apk" file="strings.xml" folder="all" name="flight_detail_tips_url"/>
 	<item application="Calendar.apk" file="strings.xml" folder="all" name="miuishare_qzone_title"/>
@@ -1320,7 +1317,6 @@
 	<item application="Calendar.apk" file="strings.xml" folder="all" name="palestine_display_name"/>
 	<item application="Calendar.apk" file="strings.xml" folder="all" name="tardis"/>
 	<item application="Calendar.apk" file="strings.xml" folder="all" name="flight_detail_tips_url"/>
-	<item application="CleanMaster.apk" file="strings.xml" folder="all" name="app_name"/>
 	<item application="CleanMaster.apk" file="strings.xml" folder="all" name="clipboard"/>
 	<item application="CleanMaster.apk" file="strings.xml" folder="all" name="sms"/>
 	<item application="CleanMaster.apk" file="strings.xml" folder="all" name="one_tap_clean_GB"/>
@@ -1470,7 +1466,6 @@
 	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_video_quality_entry_vga"/>
 	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_video_quality_entry_wqvga"/>
 	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_video_quality_entry_wvga"/>
-	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="app_name"/>
 	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_camera_video_bokeh_on"/>
 	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_face_beauty_xhigh"/>
 	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_face_beauty_xxhigh"/>
@@ -1724,8 +1719,6 @@
 	<item application="PackageInstaller.apk" file="strings.xml" folder="all" name="content_description_menu_button"/>
 	<item application="PackageInstaller.apk" file="strings.xml" folder="all" name="time_zone_gmt"/>
 	<item application="PaymentService.apk" file="strings.xml" folder="all" name="mibi_unit_value"/>
-	<item application="PaymentService.apk" file="strings.xml" folder="all" name="app_name"/>
-	<item application="Perfdump.apk" file="strings.xml" folder="all" name="app_name"/>
 	<item application="Perfdump.apk" file="strings.xml" folder="all" name="app_title"/>
 	<item application="Perfdump.apk" file="strings.xml" folder="all" name="atrace_dump"/>
 	<item application="Perfdump.apk" file="strings.xml" folder="all" name="binder_driver"/>
@@ -1843,7 +1836,6 @@
 	<item application="PowerCenter.apk" file="strings.xml" folder="all" name="process_kernel_label"/>
 	<item application="PowerCenter.apk" file="strings.xml" folder="all" name="usage_type_gps"/>
 	<item application="PowerCenter.apk" file="strings.xml" folder="all" name="usage_type_video"/>
-	<item application="PowerChecker.apk" file="strings.xml" folder="all" name="app_name"/>
 	<item application="PrintSpooler.apk" file="strings.xml" folder="all" name="mediasize_default"/>
 	<item application="QuickSearchBox.apk" file="strings.xml" folder="all" name="apps_whites"/>
 	<item application="QuickSearchBox.apk" file="strings.xml" folder="all" name="default_search_domain"/>
@@ -2111,7 +2103,6 @@
 	<item application="MiRadio.apk" file="strings.xml" folder="all" name="txt_divider"/>
 	<item application="MiRadio.apk" file="strings.xml" folder="all" name="context_menu_title"/>
 	<item application="MiRadio.apk" file="strings.xml" folder="all" name="frequency_mhz_fomart"/>
-	<item application="MiRecycle.apk" file="strings.xml" folder="all" name="app_name"/>
 	<item application="MiRecycle.apk" file="strings.xml" folder="all" name="hint_email_id"/>
 	<item application="MiRecycle.apk" file="strings.xml" folder="all" name="item_name_bluetooth"/>
 	<item application="MiRecycle.apk" file="strings.xml" folder="all" name="item_name_wifi"/>
@@ -2497,7 +2488,6 @@
 	<item application="PersonalAssistant.apk" file="strings.xml" folder="all" name="vertical_separator"/>
 	
 	
-	<item application="PowerChecker.apk" file="strings.xml" folder="all" name="app_name"/>
 	<item application="SecurityAdd.apk" file="strings.xml" folder="all" name="path_password_eye"/>
 	<item application="SecurityAdd.apk" file="strings.xml" folder="all" name="size_unit_byte"/>
 	<item application="SecurityAdd.apk" file="strings.xml" folder="all" name="size_unit_kilobyte"/>
@@ -2535,7 +2525,6 @@
 	<item application="EasterEgg.apk" file="strings.xml" folder="all" name="notification_title"/>
 	<item application="EasterEgg.apk" file="strings.xml" folder="all" name="notification_channel_name"/>
 	<item application="MiuiBiometric.apk" file="strings.xml" folder="all" name="my_app_name"/>
-	<item application="PowerChecker.apk" file="strings.xml" folder="all" name="app_name"/>
 	<item application="DeskClock.apk" file="strings.xml" folder="all" name="confirm"/>
 	
 
