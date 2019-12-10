@@ -3,6 +3,10 @@ all cit_nikel.apk strings.xml cit_tp_default_info
 all cit_nikel.apk strings.xml default_station_name
 all HybridPlatform.apk strings.xml com_facebook_tooltip_default
 all HybridPlatform.apk strings.xml msg_default_status
+all Browser.apk strings.xml browser_default_setting_cancel
+all Browser.apk strings.xml browser_default_setting_confirm
+all Browser.apk strings.xml browser_default_setting_content
+all Browser.apk strings.xml browser_default_setting_title
 all Browser.apk strings.xml download_dialog_file_length_default_txt
 all Browser.apk strings.xml js_dialog_title_default
 all Browser.apk strings.xml mw_js_dialog_title_default
@@ -57,6 +61,7 @@ all MiBandTools.apk strings.xml settings_defaults_notify_always_summary_off
 all MiBandTools.apk strings.xml settings_defaults_notify_always_summary_on
 all MiBandTools.apk strings.xml settings_defaults_notify_always_title
 all MiBandTools.apk strings.xml settings_defaults_notify_between_title
+all MiGalleryLockscreen.apk strings.xml system_default
 all Mipay.apk strings.xml mipay_nfc_bank_card_name_default
 all Mipay.apk strings.xml mipay_nfc_shop_name_default
 all MiRadio.apk arrays.xml sleep_duration_values
@@ -77,6 +82,7 @@ all MiuiGallery.apk strings.xml movie_audio_default
 all MiuiGallery.apk strings.xml photo_editor_font_default
 all MiuiGallery.apk strings.xml text_edit_dialog_font_default
 all MiuiGallery.apk strings.xml video_editor_text_default
+all MiuiHome.apk strings.xml all_app_category_default
 all MiuiHome.apk strings.xml announce_for_choose_default_screen
 all MiuiHome.apk strings.xml announce_for_close_default_preview
 all MiuiHome.apk strings.xml announce_for_open_default_preview
@@ -86,6 +92,7 @@ all MiuiHome.apk strings.xml default_folder_title_microsoft
 all MiuiHome.apk strings.xml default_folder_title_services
 all MiuiHome.apk strings.xml default_screen_preview_title
 all MiuiHome.apk strings.xml menu_default_screen_preview
+all MiuiPackageInstaller.apk strings.xml default_permission_description
 all MiuiScanner.apk strings.xml setting_default_function
 all miuisystem_bak.apk strings.xml android_ringtone_default_with_actual
 all MiuiSystemUI.apk strings.xml connected_via_network_scorer_default

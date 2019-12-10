@@ -29,6 +29,30 @@ folder="all" application="HybridPlatform.apk" xml="" name="msg_default_status"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_cancel"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_cancel">Anuluj</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_confirm"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_confirm">OK</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_content"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_content">Szybko i bezpiecznie przeglądaj sieć</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_title"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_title">Ustaw jako domyślną przeglądarkę</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_default_txt"
 ---------------------------------------------------------------------------------------
  <string name="download_dialog_file_length_default_txt">Chwileczkę…</string>
@@ -353,6 +377,12 @@ folder="all" application="MiBandTools.apk" xml="" name="settings_defaults_notify
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
+---------------------------------------------------------------------------------------
+ <string name="system_default">Domyślne</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Mipay.apk" xml="" name="mipay_nfc_bank_card_name_default"
 ---------------------------------------------------------------------------------------
  <string name="mipay_nfc_bank_card_name_default">A Bank</string>
@@ -374,6 +404,18 @@ folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 ---------------------------------------------------------------------------------------
  <string name="default_error_msg">Coś poszło nie tak!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="restore_default"
+---------------------------------------------------------------------------------------
+ <string name="restore_default">Przywróć domyślne</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
+---------------------------------------------------------------------------------------
+ <string name="hsv_space_color_value">Wartość</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -473,6 +515,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
+---------------------------------------------------------------------------------------
+ <string name="all_app_category_default">Kategoria</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
 ---------------------------------------------------------------------------------------
  <string name="announce_for_choose_default_screen">Wybierz domyślny ekran domowy: %1$d</string>
@@ -524,6 +572,12 @@ folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_titl
 folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
 ---------------------------------------------------------------------------------------
  <string name="menu_default_screen_preview">Pulpit główny</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
+---------------------------------------------------------------------------------------
+ <string name="default_permission_description">wykonać nieznaną akcję</string>
 
 
 ---------------------------------------------------------------------------------------

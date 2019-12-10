@@ -4,6 +4,10 @@ all Bluetooth.apk strings.xml map_defaultnumber
 all Browser.apk strings.xml download_dialog_file_length_default_txt
 all Browser.apk strings.xml mw_js_dialog_title_default
 all Browser.apk strings.xml topic_content_default
+all Browser.apk strings.xml browser_default_setting_cancel
+all Browser.apk strings.xml browser_default_setting_confirm
+all Browser.apk strings.xml browser_default_setting_content
+all Browser.apk strings.xml browser_default_setting_title
 all Browser.apk strings.xml mw_color_picker_value
 all Browser.apk strings.xml pref_data_preload_value_always
 all Browser.apk strings.xml pref_data_preload_value_never
@@ -67,6 +71,11 @@ all framework-res.apk strings.xml zen_mode_default_every_night_name
 all framework-res.apk strings.xml biometric_dialog_default_title
 all framework-res.apk strings.xml gsm_alphabet_default_charset
 all FrequentPhrase.apk arrays.xml default_phrases
+all Health.apk strings.xml improve_your_health_default_tips
+all Health.apk strings.xml preference_update_default_title
+all Health.apk strings.xml revert_to_default
+all Health.apk strings.xml sleep_tip_default
+all Health.apk strings.xml tips_default
 all imssettings.apk strings.xml ims_settings_no_default_value
 all imssettings.apk strings.xml ims_apn_value_invalid
 all imssettings.apk strings.xml ims_settings_no_default_value
@@ -105,6 +114,7 @@ all MiuiHome.apk strings.xml announce_for_close_default_preview
 all MiuiHome.apk strings.xml announce_for_open_default_preview
 all MiuiHome.apk strings.xml default_folder_title_services
 all MiuiHome.apk strings.xml default_folder_title_meitu
+all MiuiHome.apk strings.xml all_app_category_default
 all MiuiScanner.apk strings.xml pref_camera_focusmode_default
 all MiuiScanner.apk strings.xml setting_default_function
 all MiuiScanner.apk strings.xml language_value_danish

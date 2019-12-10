@@ -1,4 +1,28 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_cancel"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_cancel">İptal</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_confirm"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_confirm">Tamam</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_content"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_content">Hızlı ve güvenli web tarayıcı</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_title"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_title">Varsayılan tarayıcı olarak ayarla</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_default_txt"
 ---------------------------------------------------------------------------------------
  <string name="download_dialog_file_length_default_txt">Sadece bir saniye…</string>
@@ -413,6 +437,42 @@ folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
+---------------------------------------------------------------------------------------
+ <string name="improve_your_health_default_tips">Sağlıklı kalmak için egzersiz yapın ve uykunuzu alın.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="preference_update_default_title"
+---------------------------------------------------------------------------------------
+ <string name="preference_update_default_title">Sürüm</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="revert_to_default"
+---------------------------------------------------------------------------------------
+ <string name="revert_to_default">Varsayılan ayarlara sıfırla</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="sleep_tip_default"
+---------------------------------------------------------------------------------------
+ <string name="sleep_tip_default">23:00 öncesinde yatağa gitmeye çalışın</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="tips_default"
+---------------------------------------------------------------------------------------
+ <string name="tips_default">Veri yok</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="user_invalid_value"
+---------------------------------------------------------------------------------------
+ <string name="user_invalid_value">--</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="HybridPlatform.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
  <string name="com_facebook_tooltip_default">Kontrol sende - uygulamalarla paylaşmak istediğin bilgileri seç.</string>
@@ -422,6 +482,18 @@ folder="all" application="HybridPlatform.apk" xml="" name="com_facebook_tooltip_
 folder="all" application="HybridPlatform.apk" xml="" name="msg_default_status"
 ---------------------------------------------------------------------------------------
  <string name="msg_default_status">Tarama için barkodu vizör dikdörtgenin içine yerleştirin.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiGalleryLockscreen.apk" xml="" name="local_default_category"
+---------------------------------------------------------------------------------------
+ <string name="local_default_category">Önceden ayarlanmış yerel</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
+---------------------------------------------------------------------------------------
+ <string name="system_default">Varsayılan</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -563,6 +635,12 @@ folder="all" application="MiuiHome.apk" xml="" name="wallpaper_scroll_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
+---------------------------------------------------------------------------------------
+ <string name="all_app_category_default">Kategori</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
 ---------------------------------------------------------------------------------------
  <string name="announce_for_choose_default_screen">%1$d ekranını varsayılan Ana ekran olarak ayarla</string>
@@ -637,67 +715,7 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
 ---------------------------------------------------------------------------------------
- <string name="default_permission_description">Bilinmeyen eylem gerçekleşti</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="launch_defaults_none"
----------------------------------------------------------------------------------------
- <string name="launch_defaults_none">Varsayılan ayar yok</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="launch_defaults_some"
----------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Bazı varsayılan ayarlar</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="screen_zoom_summary_default"
----------------------------------------------------------------------------------------
- <string name="screen_zoom_summary_default">Varsayılan</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_lang_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_lang_summary">Konuşulan metin için dile özgü ses ayarları</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_lang_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_lang_title">Dil</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_pitch_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_pitch_summary">Sentezlenen konuşmanın tonunu etkiler</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_pitch_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_pitch_title">Derece</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_rate_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_rate_summary">Metnin konuşma hızını etkiler</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_rate_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_rate_title">Konuşma Hızı</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_sample_string"
----------------------------------------------------------------------------------------
- <string name="tts_default_sample_string">Bu konuşma sentezinin bir örneğidir</string>
+ <string name="default_permission_description">bilinmeyen bir eylem gerçekleştirir</string>
 
 
 ---------------------------------------------------------------------------------------
