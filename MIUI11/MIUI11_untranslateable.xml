@@ -3107,4 +3107,20 @@
 	<item application="Calendar.apk" file="strings.xml" folder="all" name="time_format_12_hours_bigger_than_10"/>
 	<item application="Calendar.apk" file="strings.xml" folder="all" name="time_format_12_hours_smaller_than_10"/>
 	<item application="Calendar.apk" file="strings.xml" folder="all" name="time_format_24_hours_smaller_than_10"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pano_file_name_prefix"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="video_effect_entry_rome"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="fragment_tab_name_bokeh"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_camera_exposuretime_entry_1_2"/>
+	<item application="Music.apk" file="strings.xml" folder="all" name="vhigh_sound_quality"/>
+	<item application="Calendar.apk" file="strings.xml" folder="all" name="setting_about_oaid"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="plus_properties_codec"/>
+	<item application="MiuiVideoGlobal.apk" file="strings.xml" folder="all" name="plus_properties_type_video"/>
+	<item application="MiSettings.apk" file="strings.xml" folder="all" name="srgb_color_region"/>
+	<item application="MiSettings.apk" file="strings.xml" folder="all" name="p3_color_region"/>
+	<item application="MiSettings.apk" file="strings.xml" folder="all" name="rgb_space_color_R"/>
+	<item application="MiSettings.apk" file="strings.xml" folder="all" name="rgb_space_color_B"/>
+	<item application="MiSettings.apk" file="strings.xml" folder="all" name="rgb_space_color_G"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="gradient_colors"/>
+	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="gradient_positions"/>
+	<item application="MiuiBiometric.apk" file="arrays.xml" folder="all" name="retry_connect_camera"/>
 </resources>
