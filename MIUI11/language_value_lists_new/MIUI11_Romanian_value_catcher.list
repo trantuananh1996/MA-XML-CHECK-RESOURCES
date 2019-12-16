@@ -191,6 +191,12 @@ folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Contacts.apk" xml="" name="bind_simcard_default"
+---------------------------------------------------------------------------------------
+ <string name="bind_simcard_default">Cartela SIM implicită pentru apeluri</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
  <string name="contacts_default_notification_channel">Notificări</string>
@@ -581,6 +587,18 @@ folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="restore_default"
+---------------------------------------------------------------------------------------
+ <string name="restore_default">Restaurați setările implicite</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
+---------------------------------------------------------------------------------------
+ <string name="hsv_space_color_value">Valoare</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
  <string name="signature_default_content">"Crede întotdeauna că ceva minunat urmează să se întâmple"</string>
@@ -602,24 +620,6 @@ folder="all" application="MiuiCamera.apk" xml="" name="device_ultra_pixel_waterm
 folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_text"
 ---------------------------------------------------------------------------------------
  <string name="device_watermark_default_text">AI Cameră triplă</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_coloreffect_default"
----------------------------------------------------------------------------------------
- <string name="pref_camera_coloreffect_default">niciunul</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_press_shutter_feature_default"
----------------------------------------------------------------------------------------
- <string name="pref_camera_long_press_shutter_feature_default">rafală</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_default"
----------------------------------------------------------------------------------------
- <string name="pref_camera_volumekey_function_default">temporizator</string>
 
 
 ---------------------------------------------------------------------------------------

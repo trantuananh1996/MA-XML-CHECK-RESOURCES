@@ -27,6 +27,7 @@ all Calendar.apk strings.xml free_day_default_banner_title
 all Calendar.apk strings.xml preferences_alarms_default_event
 all Calendar.apk strings.xml work_day_default_banner_title
 all CloudService.apk strings.xml cloud_storage_default_title
+all Contacts.apk strings.xml bind_simcard_default
 all Contacts.apk strings.xml contacts_default_notification_channel
 all DeskClock.apk strings.xml snooze_duration_value
 all Email.apk strings.xml default_opening_attchemnt_mode
@@ -66,6 +67,8 @@ all Mipay.apk strings.xml mipay_nfc_bank_card_name_default
 all Mipay.apk strings.xml mipay_nfc_shop_name_default
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiRecycle.apk strings.xml default_error_msg
+all MiSettings.apk strings.xml restore_default
+all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiAod.apk strings.xml signature_default_content
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value
