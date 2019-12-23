@@ -3123,4 +3123,26 @@
 	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="gradient_colors"/>
 	<item application="MiSettings.apk" file="arrays.xml" folder="all" name="gradient_positions"/>
 	<item application="MiuiBiometric.apk" file="arrays.xml" folder="all" name="retry_connect_camera"/>
+	<item application="Music.apk" file="strings.xml" folder="all" name="app_name"/>
+	<item application="Calendar.apk" file="strings.xml" folder="all" name="setting_about_imei"/>
+	<item application="Email.apk" file="strings.xml" folder="all" name="account_smime"/>
+	<item application="Health.apk" file="strings.xml" folder="all" name="app_name"/>
+	<item application="PaymentService.apk" file="strings.xml" folder="all" name="app_name"/>
+	<item application="MiService.apk" file="strings.xml" folder="all" name="app_name"/>
+	<item application="com.miui.qr.apk" file="strings.xml" folder="all" name="app_name"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="pref_pro_video_volumekey_function_default"/>
+	<item application="MiuiScanner.apk" file="strings.xml" folder="all" name="taobao"/>
+	<item application="MiuiScanner.apk" file="strings.xml" folder="all" name="jingdong"/>
+	<item application="miuisystem.apk" file="strings.xml" folder="all" name="device_poco"/>
+	<item application="SecurityCenter.apk" file="strings.xml" folder="all" name="vb_video_effects_setting_old_movie"/>
+	<item application="SecurityCenter.apk" file="strings.xml" folder="all" name="gb_voice_changer_robot"/>
+	<item application="SecurityCenter.apk" file="strings.xml" folder="all" name="vb_video_effects_setting_black_white"/>
+	<item application="MiSettings.apk" file="strings.xml" folder="all" name="hsv_space_color_hue"/>
+	<item application="MiSettings.apk" file="strings.xml" folder="all" name="gamma"/>
+	<item application="MiuiBluetooth.apk" file="strings.xml" folder="all" name="blackshark_right_name"/>
+	<item application="framework-res.apk" file="arrays.xml" folder="all" name="in_preload_packages"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="user_authentication_failed"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="status_bar_volte"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="service_not_subscribed"/>
+	<item application="framework-res.apk" file="strings.xml" folder="all" name="status_bar_vowifi"/>
 </resources>
