@@ -461,6 +461,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_de
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_pro_video_volumekey_function_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_pro_video_volumekey_function_default">Verschluss</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
 ---------------------------------------------------------------------------------------
  <string name="motion_photo_toast_default">Standard</string>
@@ -1249,13 +1255,13 @@ folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_defaul
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_facemoji">" Sie müssen der Facemoji Datenschutzerklärung zustimmen, bevor Sie diese Funktion nutzen können."</string>
+ <string name="terms_of_use_lable_default_input_method_facemoji">" Sie müssen die Facemoji Datenschutzerklärung akzeptieren, bevor Sie diese Funktion nutzen können."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_kika">" Sie müssen der Kika Datenschutzerklärung zustimmen, bevor Sie diese Funktion nutzen können."</string>
+ <string name="terms_of_use_lable_default_input_method_kika">" Sie müssen die Kika Datenschutzerklärung akzeptieren, bevor Sie diese Funktion nutzen können."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1532,6 +1538,12 @@ folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_de
 folder="all" application="Settings.apk" xml="" name="importance_default"
 ---------------------------------------------------------------------------------------
  <string name="importance_default">Standard</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_app_default"
+---------------------------------------------------------------------------------------
+ <string name="keywords_app_default">Öffnen mit</string>
 
 
 ---------------------------------------------------------------------------------------
