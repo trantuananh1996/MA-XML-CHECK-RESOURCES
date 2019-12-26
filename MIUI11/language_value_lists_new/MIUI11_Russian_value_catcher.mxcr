@@ -63,17 +63,7 @@ all MiRadio.apk strings.xml empty_view_default_text
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiBugReport.apk strings.xml default_text_view
-all MiuiCamera.apk strings.xml pref_camera_recordlocation_default
 all MiuiCamera.apk strings.xml pref_hdr_value_default
-all MiuiCamera.apk strings.xml pref_live_volumekey_function_default
-all MiuiCamera.apk strings.xml pref_video_volumekey_function_default
-all MiuiCamera.apk strings.xml pref_camera_iso_value_auto
-all MiuiCamera.apk strings.xml pref_camera_iso_value_iso100
-all MiuiCamera.apk strings.xml pref_camera_iso_value_iso1600
-all MiuiCamera.apk strings.xml pref_camera_iso_value_iso200
-all MiuiCamera.apk strings.xml pref_camera_iso_value_iso3200
-all MiuiCamera.apk strings.xml pref_camera_iso_value_iso400
-all MiuiCamera.apk strings.xml pref_camera_iso_value_iso800
 all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value_abbr
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
 all MiuiCamera.apk strings.xml pref_hdr_value_default
@@ -94,6 +84,7 @@ all MiuiHome.apk strings.xml announce_for_open_default_preview
 all MiuiHome.apk strings.xml default_folder_title_claro
 all MiuiHome.apk strings.xml default_folder_title_meitu
 all MiuiHome.apk strings.xml default_folder_title_microsoft
+all MiuiHome.apk strings.xml default_folder_title_other_apps
 all MiuiHome.apk strings.xml default_folder_title_services
 all MiuiHome.apk strings.xml default_folder_title_telcel
 all MiuiHome.apk strings.xml default_screen_preview_title
@@ -160,8 +151,6 @@ all PersonalAssistantGlobal.apk strings.xml upgrade_log_default
 all PersonalAssistantGlobal.apk strings.xml current_optimization_value
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_facemoji
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_kika
-all SecurityCenter.apk arrays.xml lock_mode_value
-all SecurityCenter.apk arrays.xml power_dialog_vibration_items_values
 all SecurityCenter.apk strings.xml ad_btn_default_text
 all SecurityCenter.apk strings.xml app_manager_default_cleared
 all SecurityCenter.apk strings.xml app_manager_default_close_summary
@@ -240,6 +229,7 @@ all Settings.apk strings.xml theme_customization_device_default
 all Settings.apk strings.xml usb_default_info
 all Settings.apk strings.xml usb_default_label
 all Settings.apk strings.xml wallpaper_settings_summary_default
+all Settings.apk strings.xml zen_mode_custom_behavior_summary_default
 all Settings.apk strings.xml tether_limit_value_custom
 all SoundRecorder.apk arrays.xml record_format_values
 all SoundRecorder.apk arrays.xml record_quality_values
