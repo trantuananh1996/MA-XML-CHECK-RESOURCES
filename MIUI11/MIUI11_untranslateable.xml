@@ -3145,4 +3145,31 @@
 	<item application="framework-res.apk" file="strings.xml" folder="all" name="status_bar_volte"/>
 	<item application="framework-res.apk" file="strings.xml" folder="all" name="service_not_subscribed"/>
 	<item application="framework-res.apk" file="strings.xml" folder="all" name="status_bar_vowifi"/>
+	<item application="Health.apk" file="strings.xml" folder="all" name="mi_sports"/>
+	<item application="MiuiAod.apk" file="strings.xml" folder="all" name="aod_signature_12"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="special_type_8k"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="special_type_log"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="risk_control_deleted_time"/>
+	<item application="MiuiBluetooth.apk" file="strings.xml" folder="all" name="fast_connect_b508_name"/>
+	<item application="AutoDialer.apk" file="strings.xml" folder="all" name="phone_8378911"/>
+	<item application="MtkTelecom.apk" file="strings.xml" folder="all" name="wifi_security_short_psk_sae"/>
+	<item application="MtkTelecom.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_wpa"/>
+	<item application="MtkTelecom.apk" file="strings.xml" folder="all" name="battery_meter_very_low_overlay_symbol"/>
+	<item application="MtkTelecom.apk" file="strings.xml" folder="all" name="number_tag_divider"/>
+	<item application="MtkTelecom.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_suiteb"/>
+	<item application="MtkTelecom.apk" file="strings.xml" folder="all" name="wifi_security_short_owe"/>
+	<item application="MtkTelecom.apk" file="strings.xml" folder="all" name="wifi_security_sae"/>
+	<item application="MtkTelecom.apk" file="strings.xml" folder="all" name="wifi_security_short_eap_wpa2_wpa3"/>
+	<item application="MtkTelecom.apk" file="strings.xml" folder="all" name="wifi_security_eap_wpa"/>
+	<item application="MtkTelecom.apk" file="strings.xml" folder="all" name="wifi_security_eap_suiteb"/>
+	<item application="MtkTelecom.apk" file="strings.xml" folder="all" name="wifi_security_short_sae"/>
+	<item application="mediatek-res.apk" file="strings.xml" folder="all" name="wap_browser_url_flag"/>
+	<item application="mediatek-res.apk" file="strings.xml" folder="all" name="permlab_mount_service_wipe"/>
+	<item application="mediatek-res.apk" file="strings.xml" folder="all" name="permgrouplab_email"/>
+	<item application="mediatek-res.apk" file="strings.xml" folder="all" name="hdmi_replace_mhl"/>
+	<item application="mediatek-res.apk" file="strings.xml" folder="all" name="color_picker_select"/>
+	<item application="mediatek-res.apk" file="strings.xml" folder="all" name="config_mm_package_name"/>
+	<item application="mediatek-res.apk" file="strings.xml" folder="all" name="hdmi_replace_hdmi"/>
+	<item application="mediatek-res.apk" file="strings.xml" folder="all" name="wifi_tether_configure_ssid_default_for_cmcc"/>
+	<item application="mediatek-res.apk" file="strings.xml" folder="all" name="wap_browser_keyword"/>
 </resources>
