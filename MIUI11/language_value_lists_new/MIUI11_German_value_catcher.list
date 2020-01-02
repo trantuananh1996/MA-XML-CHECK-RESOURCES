@@ -47,6 +47,12 @@ folder="all" application="Browser.apk" xml="" name="topic_content_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="tt_web_title_default"
+---------------------------------------------------------------------------------------
+ <string name="tt_web_title_default">Werbung</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="BugReport.apk" xml="" name="default_text_view"
 ---------------------------------------------------------------------------------------
  <string name="default_text_view">Textvorschau</string>
@@ -1249,7 +1255,7 @@ folder="all" application="PersonalAssistant.apk" xml="" name="setting_didi_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_default"
 ---------------------------------------------------------------------------------------
- <string name="upgrade_log_default">"1. Leistung optimieren; 2. Bekannte Probleme beheben;"</string>
+ <string name="upgrade_log_default">"1. Verbesserte Leistung 2. Fehler behoben"</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1502,6 +1508,12 @@ folder="all" application="Settings.apk" xml="" name="default_map_app_title"
 folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
 ---------------------------------------------------------------------------------------
  <string name="default_notification_assistant">Benachrichtigungsassistent</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_suppression_title"
+---------------------------------------------------------------------------------------
+ <string name="default_suppression_title">Standard (empfohlen)</string>
 
 
 ---------------------------------------------------------------------------------------

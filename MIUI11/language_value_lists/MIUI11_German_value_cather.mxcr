@@ -6,6 +6,7 @@ all Browser.apk strings.xml browser_default_setting_content
 all Browser.apk strings.xml browser_default_setting_title
 all Browser.apk strings.xml download_dialog_file_length_default_txt
 all Browser.apk strings.xml topic_content_default
+all Browser.apk strings.xml tt_web_title_default
 all BugReport.apk strings.xml default_text_view
 all Calculator.apk strings.xml unit_data_default_currency_0
 all Calculator.apk strings.xml unit_data_default_currency_2
@@ -249,6 +250,7 @@ all Settings.apk strings.xml default_launcher_set_system_message
 all Settings.apk strings.xml default_launcher_title
 all Settings.apk strings.xml default_map_app_title
 all Settings.apk strings.xml default_notification_assistant
+all Settings.apk strings.xml default_suppression_title
 all Settings.apk strings.xml default_theme
 all Settings.apk strings.xml default_vol_stream_title
 all Settings.apk strings.xml enterprise_privacy_enterprise_set_default_apps

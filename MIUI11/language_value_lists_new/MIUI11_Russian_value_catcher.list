@@ -1259,6 +1259,12 @@ folder="all" application="Settings.apk" xml="" name="default_rule_name"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_suppression_title"
+---------------------------------------------------------------------------------------
+ <string name="default_suppression_title">По умолчанию (рекомендуется)</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_theme"
 ---------------------------------------------------------------------------------------
  <string name="default_theme">По умолчанию</string>
@@ -1417,7 +1423,7 @@ folder="all" application="SoundRecorder.apk" xml="" name="record_scenes_values"
 ---------------------------------------------------------------------------------------
 folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_service_type_value"
 ---------------------------------------------------------------------------------------
- <string name="online_recognize_order_service_type_value">Онлайн транскрибирование аудио</string>
+ <string name="online_recognize_order_service_type_value">Онлайн распознавание аудио</string>
 
 
 ---------------------------------------------------------------------------------------
