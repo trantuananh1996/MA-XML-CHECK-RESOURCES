@@ -3363,4 +3363,19 @@
 	<item application="EngineerMode.apk" file="arrays.xml" folder="all" name="entryvalues_list_preference_aeemode_oem"/>
 	<item application="EngineerMode.apk" file="arrays.xml" folder="all" name="emerg_epdg_menu"/>
 	<item application="EngineerMode.apk" file="arrays.xml" folder="all" name="network_info_1xrtt_statistics"/>
+	<item application="MiuiCamera.apk" file="strings.xml" folder="all" name="video_beauty_tip_portrait_bokeh"/>
+	<item application="Browser.apk" file="strings.xml" folder="all" name="tt_video_bytesize_MB"/>
+	<item application="Browser.apk" file="strings.xml" folder="all" name="tt_ad"/>
+	<item application="Browser.apk" file="strings.xml" folder="all" name="tt_app_name"/>
+	<item application="SecurityAdd.apk" file="strings.xml" folder="all" name="ew_detail_receive_location_message"/>
+	<item application="SecurityAdd.apk" file="strings.xml" folder="all" name="ew_detail_receive_warn_time_message"/>
+	<item application="SecurityAdd.apk" file="strings.xml" folder="all" name="ew_detail_receive_distance_message1"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="use_otg_title"/>
+	<item application="MiuiBugReport.apk" file="strings.xml" folder="all" name="xiaomi_update_sdk_kilobytes_unit"/>
+	<item application="MiuiBugReport.apk" file="strings.xml" folder="all" name="xiaomi_update_sdk_bytes_unit"/>
+	<item application="MiuiBugReport.apk" file="strings.xml" folder="all" name="xiaomi_update_sdk_megabytes_unit"/>
+	<item application="CloudBackup.apk" file="strings.xml" folder="all" name="storage_unit_mb"/>
+	<item application="CloudBackup.apk" file="strings.xml" folder="all" name="storage_unit_gb"/>
+	<item application="SecurityCenter.apk" file="strings.xml" folder="all" name="gb_wonderful_video_date_format"/>
+	<item application="SecurityCenter.apk" file="strings.xml" folder="all" name="gb_game_video_type_ai"/>
 </resources>
