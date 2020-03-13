@@ -623,6 +623,24 @@ folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_coloreffect_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_coloreffect_default">niciunul</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_press_shutter_feature_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_press_shutter_feature_default">rafală</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_volumekey_function_default">temporizator</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_video_encoder_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_video_encoder_default">h264</string>
@@ -788,6 +806,18 @@ folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_titl
 folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
 ---------------------------------------------------------------------------------------
  <string name="menu_default_screen_preview">Setare ecran implicit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">Oprit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">Pornit</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1097,6 +1127,12 @@ folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_defau
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="repeat_mode_default">Niciodată</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
 ---------------------------------------------------------------------------------------
  <string name="todo_audio_default_content">"[Sarcină vocală] "</string>
@@ -1207,13 +1243,13 @@ folder="all" application="PrimaryCardController.apk" xml="" name="default_sim_se
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_facemoji">"r Trebuie să acceptați Politica de Confidențialitate Facemoji înainte de a utiliza această caracteristică."</string>
+ <string name="terms_of_use_lable_default_input_method_facemoji">" Trebuie să acceptați Politica de Confidențialitate Facemoji înainte de a utiliza această caracteristică."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_kika">"r r Trebuie să acceptați Politica de Confidențialitate Kika înainte de a utiliza această caracteristică."</string>
+ <string name="terms_of_use_lable_default_input_method_kika">" Trebuie să acceptați Politica de Confidențialitate Kika înainte de a utiliza această caracteristică."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1327,7 +1363,7 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setti
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="data_network_type_name_default"
 ---------------------------------------------------------------------------------------
- <string-array name="data_network_type_name_default"> <item>4G</item> <item>4G+</item> </string-array>
+ <string-array name="data_network_type_name_default"> <item>4G</item> <item>4G+</item> <item>5G</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

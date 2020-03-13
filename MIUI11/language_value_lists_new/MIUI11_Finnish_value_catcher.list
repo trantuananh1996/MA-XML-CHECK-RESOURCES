@@ -35,18 +35,6 @@ folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="default_separator_text"
----------------------------------------------------------------------------------------
- <string name="default_separator_text">的</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="default_text"
----------------------------------------------------------------------------------------
- <string name="default_text">我</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="relationship_default_separator_text"
 ---------------------------------------------------------------------------------------
  <string name="relationship_default_separator_text">的</string>
@@ -92,18 +80,6 @@ folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_
 folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
 ---------------------------------------------------------------------------------------
  <string name="work_day_default_banner_title">Tuottavaa työpäivää!</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder_interval_default_value"
----------------------------------------------------------------------------------------
- <string name="alert_reminder_interval_default_value">0</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder_interval_default_value"
----------------------------------------------------------------------------------------
- <string name="alert_reminder_interval_default_value">0</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -281,6 +257,66 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="weight_line_chart_default_y"
+---------------------------------------------------------------------------------------
+ <integer-array name="weight_line_chart_default_y"> <item>42</item> <item>45</item> <item>48</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
+---------------------------------------------------------------------------------------
+ <string name="improve_your_health_default_tips">Exercise and get enough sleep to stay healthy.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="preference_update_default_title"
+---------------------------------------------------------------------------------------
+ <string name="preference_update_default_title">Version</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="revert_to_default"
+---------------------------------------------------------------------------------------
+ <string name="revert_to_default">Restore defaults</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="sleep_tip_default"
+---------------------------------------------------------------------------------------
+ <string name="sleep_tip_default">Try to go to bed before 23:00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="tips_default"
+---------------------------------------------------------------------------------------
+ <string name="tips_default">No data</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="text_no_value"
+---------------------------------------------------------------------------------------
+ <string name="text_no_value">--</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="user_invalid_value"
+---------------------------------------------------------------------------------------
+ <string name="user_invalid_value">--</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="restore_default"
+---------------------------------------------------------------------------------------
+ <string name="restore_default">Palauta oletukset</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
+---------------------------------------------------------------------------------------
+ <string name="hsv_space_color_value">Arvo</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 ---------------------------------------------------------------------------------------
  <string name="default_text_view">TextView</string>
@@ -302,6 +338,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_
 folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
 ---------------------------------------------------------------------------------------
  <string name="motion_photo_toast_default">Oletus</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Tuntematon laite</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -515,9 +557,57 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_tracks_chooser_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_default_music_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_default_music_text">Auto</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item3_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item3_default_text">Tunteet</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item4_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item4_default_text">Auringonnousu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item5_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item5_default_text">Muistot</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item6_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item6_default_text">Ilo</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_name"
 ---------------------------------------------------------------------------------------
  <string name="ovp_default_plugin_name">HD-liitännäinen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_poster_reset_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_poster_reset_default">Palauta oletuskansi</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_sort_type_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_sort_type_default">Oletus</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="subtitle_padding_default_hint"
+---------------------------------------------------------------------------------------
+ <string name="subtitle_padding_default_hint">Säädetään tekstityksiä…</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -527,15 +617,21 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_paddin
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoLeo.apk" xml="" name="defaults"
+folder="all" application="Mms.apk" xml="" name="rcs_pref_default_sending_method"
 ---------------------------------------------------------------------------------------
- <string name="defaults">Oletus</string>
+ <string name="rcs_pref_default_sending_method">Lähettämisen oletusmuoto</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoLeo.apk" xml="" name="notification_default_title"
+folder="all" application="Mms.apk" xml="" name="rcs_pref_picture_message_default_quality"
 ---------------------------------------------------------------------------------------
- <string name="notification_default_title">Offline video</string>
+ <string name="rcs_pref_picture_message_default_quality">Kuvan pakkausasetukset</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_quality"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_video_message_default_quality">Videon pakkausasetukset</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -547,7 +643,7 @@ folder="all" application="NfcNci.apk" xml="" name="default_pay_app_removed"
 ---------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
 ---------------------------------------------------------------------------------------
- <string name="audio_panel_time_counter_default">00:00</string>
+ <string name="audio_panel_time_counter_default">00.00</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -827,6 +923,12 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
+---------------------------------------------------------------------------------------
+ <string name="modify_default_browser_message">Jos asetat kolmannen osapuolen sovelluksen oletusselaimeksi, se saattaa aloittaa keräämään selainhistoriaasi ja muita tietoja. Asetetaanko siitä huolimatta?</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_timeout_default">Oletus</string>
@@ -925,7 +1027,7 @@ folder="all" application="Settings.apk" xml="" name="default_map_app_title"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
 ---------------------------------------------------------------------------------------
- <string name="default_notification_assistant">Ilmoitusapuri</string>
+ <string name="default_notification_assistant">Mukautuvat ilmoitukset</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -995,6 +1097,12 @@ folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_summary_default">Kiinnittää huomion äänellä tai värinällä</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_importance_default_title"
 ---------------------------------------------------------------------------------------
  <string name="notification_importance_default_title">Korkea</string>
@@ -1016,6 +1124,12 @@ folder="all" application="Settings.apk" xml="" name="overlay_option_device_defau
 folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
 ---------------------------------------------------------------------------------------
  <string name="reset_default_apn_failed">Oletus apn:n palauttaminen epäonnistui</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
+---------------------------------------------------------------------------------------
+ <string name="slider_vocie_online_default">Ei mitään</string>
 
 
 ---------------------------------------------------------------------------------------

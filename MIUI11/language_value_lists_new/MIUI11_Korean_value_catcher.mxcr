@@ -28,11 +28,13 @@ all Calculator.apk strings.xml sin_mathematical_value
 all Calculator.apk strings.xml tan_mathematical_value
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
+all Calendar.apk strings.xml pref_default_popup_alert_value
 all Calendar.apk strings.xml default_reminder_later_time
 all Calendar.apk strings.xml work_day_default_banner_title
 all Calendar.apk strings.xml free_day_default_banner_title
 all Calendar.apk strings.xml preferences_alarm_default_event_title
 all Calendar.apk strings.xml preferences_alarms_default_event
+all Calendar.apk strings.xml pref_default_popup_alert_value
 all cit.apk strings.xml default_station_name
 all cit.apk strings.xml cit_tool_mbn_default_notfiy
 all cit.apk strings.xml cit_tool_mbn_no_default_notfiy
@@ -110,8 +112,6 @@ all MiuiGallery.apk strings.xml photo_editor_font_default
 all MiuiGallery.apk strings.xml text_edit_dialog_font_default
 all MiuiGallery.apk strings.xml video_editor_text_default
 all MiuiGallery.apk strings.xml default_device_name
-all MiuiHome.apk strings.xml default_folder_title_microsoft
-all MiuiHome.apk strings.xml default_folder_title_telcel
 all MiuiHome.apk strings.xml default_folder_title_claro
 all MiuiHome.apk strings.xml default_shortcut_title_10086
 all MiuiHome.apk strings.xml menu_default_screen_preview
@@ -122,6 +122,12 @@ all MiuiHome.apk strings.xml announce_for_open_default_preview
 all MiuiHome.apk strings.xml default_folder_title_services
 all MiuiHome.apk strings.xml default_folder_title_meitu
 all MiuiHome.apk strings.xml all_app_category_default
+all MiuiHome.apk strings.xml default_folder_title_microsoft
+all MiuiHome.apk strings.xml default_folder_title_other_apps
+all MiuiHome.apk strings.xml default_folder_title_telcel
+all MiuiHome.apk strings.xml launcher_search_bar_value_disable
+all MiuiHome.apk strings.xml launcher_search_bar_value_enable
+all MiuiPackageInstaller.apk strings.xml default_permission_description
 all MiuiScanner.apk strings.xml pref_camera_focusmode_default
 all MiuiScanner.apk strings.xml setting_default_function
 all MiuiScanner.apk strings.xml language_value_danish
@@ -222,6 +228,7 @@ all Photos.apk strings.xml picker_title_multiple_default
 all Photos.apk strings.xml photos_actor_default_display_name
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_facemoji
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_kika
+all Provision.apk strings.xml terms_of_use_lable_default_input_method_mint
 all SecurityCenter.apk strings.xml ad_btn_default_text
 all SecurityCenter.apk strings.xml app_manager_default_cleared
 all SecurityCenter.apk strings.xml app_manager_default_close_summary
@@ -326,6 +333,8 @@ all Traceur.apk strings.xml tts_default_pitch_title
 all Traceur.apk strings.xml tts_default_rate_summary
 all Traceur.apk strings.xml tts_default_rate_title
 all Traceur.apk strings.xml tts_default_sample_string
+all Updater.apk strings.xml default_filedownloader_notification_content
+all Updater.apk strings.xml default_filedownloader_notification_title
 all Velvet.apk strings.xml default_scroll_format
 all Velvet.apk strings.xml migration_cling_use_default
 all Velvet.apk strings.xml undo_dismiss_message_default

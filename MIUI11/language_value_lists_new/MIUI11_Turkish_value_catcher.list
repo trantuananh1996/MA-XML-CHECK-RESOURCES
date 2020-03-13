@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
+---------------------------------------------------------------------------------------
+ <string name="bt_sm_2_1_default">Dosyayı \"%1$s\" klasöründen kaydetmek için SD kartta yeterli alan yok</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
+---------------------------------------------------------------------------------------
+ <string name="status_no_sd_card_default">SD kart yok. Aktarılan dosyaları kaydetmek için bir SD kart takın.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="browser_default_setting_cancel"
 ---------------------------------------------------------------------------------------
  <string name="browser_default_setting_cancel">İptal</string>
@@ -38,30 +50,6 @@ folder="all" application="Browser.apk" xml="" name="topic_content_default"
 folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 ---------------------------------------------------------------------------------------
  <string name="mw_color_picker_value">Değer</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="default_separator_text"
----------------------------------------------------------------------------------------
- <string name="default_separator_text">的</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="default_text"
----------------------------------------------------------------------------------------
- <string name="default_text">我</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="relationship_default_separator_text"
----------------------------------------------------------------------------------------
- <string name="relationship_default_separator_text">的</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="relationship_default_text"
----------------------------------------------------------------------------------------
- <string name="relationship_default_text">我</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -109,7 +97,7 @@ folder="all" application="Calculator.apk" xml="" name="unit_data_default_tempera
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_time_0"
 ---------------------------------------------------------------------------------------
- <string name="unit_data_default_time_0">min</string>
+ <string name="unit_data_default_time_0">dak</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -533,18 +521,6 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="device_ultra_pixel_watermark_default_text"
----------------------------------------------------------------------------------------
- <string name="device_ultra_pixel_watermark_default_text">48MP ÇİFT KAMERA</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_text"
----------------------------------------------------------------------------------------
- <string name="device_watermark_default_text">AI ÇİFT KAMERA</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="dualcamera_watermark_default"
 ---------------------------------------------------------------------------------------
  <string name="dualcamera_watermark_default">AI ÇİFT KAMERA</string>
@@ -728,6 +704,18 @@ folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_1008
 folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
 ---------------------------------------------------------------------------------------
  <string name="menu_default_screen_preview">Varsayılan ekranı ayarla</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">Kapalı</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">Açık</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1039,7 +1027,7 @@ folder="all" application="NotificationCenter.apk" xml="" name="default_list_type
 ---------------------------------------------------------------------------------------
 folder="all" application="NQNfcNci.apk" xml="" name="default_pay_app_removed"
 ---------------------------------------------------------------------------------------
- <string name="default_pay_app_removed">Dokundur ve öde özelliği için tercih ettiğiniz hizmet kaldırıldı. Başka bir hizmet seçmek ister misiniz?</string>
+ <string name="default_pay_app_removed">Dokundur &amp; öde için tercih ettiğiniz hizmet kaldırıldı. Başka birini seç?</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1208,17 +1196,19 @@ folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_defaul
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_facemoji">
-
-Bu özelliği kullanmadan önce Facemoji Gizlilik Politikasını kabul etmeniz gerekir.</string>
+ <string name="terms_of_use_lable_default_input_method_facemoji">" Bu özelliği kullanmadan önce Facemoji Gizlilik Politikasını kabul etmeniz gerekir."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_kika">
+ <string name="terms_of_use_lable_default_input_method_kika">" Bu özelliği kullanmadan önce Kika Gizlilik Politikasını kabul etmeniz gerekir."</string>
 
-Bu özelliği kullanmadan önce Kika Gizlilik Politikasını kabul etmeniz gerekir.</string>
+
+---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_mint"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_mint">" Bu özelliği kullanmadan önce Mint Klavye Gizlilik Politikasını kabul etmelisiniz."</string>
 
 
 ---------------------------------------------------------------------------------------

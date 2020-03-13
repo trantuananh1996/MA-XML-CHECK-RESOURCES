@@ -3,6 +3,8 @@ all cit_nikel.apk strings.xml cit_tp_default_info
 all cit_nikel.apk strings.xml default_station_name
 all HybridPlatform.apk strings.xml com_facebook_tooltip_default
 all HybridPlatform.apk strings.xml msg_default_status
+all Bluetooth.apk strings.xml bt_sm_2_1_default
+all Bluetooth.apk strings.xml status_no_sd_card_default
 all Browser.apk strings.xml browser_default_setting_cancel
 all Browser.apk strings.xml browser_default_setting_confirm
 all Browser.apk strings.xml browser_default_setting_content
@@ -96,6 +98,8 @@ all MiuiHome.apk strings.xml default_folder_title_other_apps
 all MiuiHome.apk strings.xml default_folder_title_services
 all MiuiHome.apk strings.xml default_screen_preview_title
 all MiuiHome.apk strings.xml menu_default_screen_preview
+all MiuiHome.apk strings.xml launcher_search_bar_value_disable
+all MiuiHome.apk strings.xml launcher_search_bar_value_enable
 all MiuiPackageInstaller.apk strings.xml default_permission_description
 all MiuiScanner.apk strings.xml setting_default_function
 all miuisystem_bak.apk strings.xml android_ringtone_default_with_actual
@@ -193,6 +197,7 @@ all PersonalAssistant.apk strings.xml setting_didi_default_way
 all PersonalAssistant.apk strings.xml upgrade_log_default
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_facemoji
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_kika
+all Provision.apk strings.xml terms_of_use_lable_default_input_method_mint
 all QuickSearchBox.apk strings.xml common_use_default_download_path_subtitle
 all QuickSearchBox.apk strings.xml common_use_default_download_path_title
 all QuickSearchBox.apk strings.xml default_download_path_dialog_title

@@ -1,3 +1,5 @@
+all Bluetooth.apk strings.xml bt_sm_2_1_default
+all Bluetooth.apk strings.xml status_no_sd_card_default
 all Browser.apk strings.xml browser_default_setting_cancel
 all Browser.apk strings.xml browser_default_setting_confirm
 all Browser.apk strings.xml browser_default_setting_content
@@ -5,10 +7,6 @@ all Browser.apk strings.xml browser_default_setting_title
 all Browser.apk strings.xml download_dialog_file_length_default_txt
 all Browser.apk strings.xml topic_content_default
 all Browser.apk strings.xml mw_color_picker_value
-all Calculator.apk strings.xml default_separator_text
-all Calculator.apk strings.xml default_text
-all Calculator.apk strings.xml relationship_default_separator_text
-all Calculator.apk strings.xml relationship_default_text
 all Calculator.apk strings.xml unit_data_default_area_0
 all Calculator.apk strings.xml unit_data_default_area_1
 all Calculator.apk strings.xml unit_data_default_currency_0
@@ -87,8 +85,6 @@ all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
 all MiShare.apk strings.xml default_device_name
 all MiuiAod.apk strings.xml signature_default_content
-all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
-all MiuiCamera.apk strings.xml device_watermark_default_text
 all MiuiCamera.apk strings.xml dualcamera_watermark_default
 all MiuiCamera.apk strings.xml pref_video_encoder_default
 all MiuiCamera.apk strings.xml pref_camera_snap_value_off
@@ -120,6 +116,8 @@ all MiuiHome.apk strings.xml default_folder_title_turkcell_uygulamalar
 all MiuiHome.apk strings.xml default_screen_preview_title
 all MiuiHome.apk strings.xml default_shortcut_title_10086
 all MiuiHome.apk strings.xml menu_default_screen_preview
+all MiuiHome.apk strings.xml launcher_search_bar_value_disable
+all MiuiHome.apk strings.xml launcher_search_bar_value_enable
 all MiuiPackageInstaller.apk strings.xml default_permission_description
 all MiuiScanner.apk strings.xml pref_camera_focusmode_default
 all MiuiScanner.apk strings.xml setting_default_function
@@ -201,6 +199,7 @@ all PersonalAssistant.apk strings.xml setting_didi_default_way
 all PersonalAssistant.apk strings.xml upgrade_log_default
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_facemoji
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_kika
+all Provision.apk strings.xml terms_of_use_lable_default_input_method_mint
 all SecurityCenter.apk strings.xml ad_btn_default_text
 all SecurityCenter.apk strings.xml app_manager_default_cleared
 all SecurityCenter.apk strings.xml app_manager_default_close_summary
