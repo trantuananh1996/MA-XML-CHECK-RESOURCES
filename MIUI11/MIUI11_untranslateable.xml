@@ -3378,4 +3378,22 @@
 	<item application="CloudBackup.apk" file="strings.xml" folder="all" name="storage_unit_gb"/>
 	<item application="SecurityCenter.apk" file="strings.xml" folder="all" name="gb_wonderful_video_date_format"/>
 	<item application="SecurityCenter.apk" file="strings.xml" folder="all" name="gb_game_video_type_ai"/>
+	<item application="Browser.apk" file="strings.xml" folder="all" name="fast_app_card_bottom_text"/>
+	<item application="Provision.apk" file="strings.xml" folder="all" name="other_settings_enhanced_lockscreen_for_india"/>
+	<item application="MiuiHome.apk" file="strings.xml" folder="all" name="switch_personal_assistant_app_vault"/>
+	<item application="MiuiHome.apk" file="arrays.xml" folder="all" name="recents_thumbnail_blur_white_pkgs"/>
+	<item application="Settings.apk" file="strings.xml" folder="all" name="common_issue"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="gr_emergency_alert_dialog_title"/>
+	<item application="CellBroadcastReceiver.apk" file="strings.xml" folder="all" name="ro_emergency_alert_dialog_title"/>
+	<item application="SecurityCenter.apk" file="strings.xml" folder="all" name="power_save_ps_close_setting_gps"/>
+	<item application="MiSettings.apk" file="strings.xml" folder="all" name="usage_remain_about_hour_miunte"/>
+	<item application="PowerKeeper.apk" file="strings.xml" folder="all" name="power_tools_fps"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="item_title_gst"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="n_a"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="unit_feet"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="name_cgst"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="name_gst"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="label_emi"/>
+	<item application="Calculator.apk" file="strings.xml" folder="all" name="item_title_bmi"/>
+	<item application="MiuiBluetooth.apk" file="strings.xml" folder="all" name="zhiyun_name"/>
 </resources>
