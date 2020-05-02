@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="avrcp_cover_art_default_image_type"
+---------------------------------------------------------------------------------------
+ <string name="avrcp_cover_art_default_image_type">image</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="avrcp_cover_art_default_mimetype"
+---------------------------------------------------------------------------------------
+ <string name="avrcp_cover_art_default_mimetype">JPEG</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Bluetooth.apk" xml="" name="defaultnumber"
 ---------------------------------------------------------------------------------------
  <string name="defaultnumber">000000</string>
@@ -509,81 +521,9 @@ folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_autoexposure_default"
----------------------------------------------------------------------------------------
- <string name="pref_camera_autoexposure_default">1</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_coloreffect_default"
----------------------------------------------------------------------------------------
- <string name="pref_camera_coloreffect_default">Нет</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_recordlocation_default"
----------------------------------------------------------------------------------------
- <string name="pref_camera_recordlocation_default">Нет</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_value_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_hdr_value_default">откл.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_live_volumekey_function_default"
----------------------------------------------------------------------------------------
- <string name="pref_live_volumekey_function_default">громкость</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_video_volumekey_function_default"
----------------------------------------------------------------------------------------
- <string name="pref_video_volumekey_function_default">затвор</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_auto"
----------------------------------------------------------------------------------------
- <string name="pref_camera_iso_value_auto">0</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso100"
----------------------------------------------------------------------------------------
- <string name="pref_camera_iso_value_iso100">100</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso1600"
----------------------------------------------------------------------------------------
- <string name="pref_camera_iso_value_iso1600">1600</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso200"
----------------------------------------------------------------------------------------
- <string name="pref_camera_iso_value_iso200">200</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso3200"
----------------------------------------------------------------------------------------
- <string name="pref_camera_iso_value_iso3200">3200</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso400"
----------------------------------------------------------------------------------------
- <string name="pref_camera_iso_value_iso400">400</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso800"
----------------------------------------------------------------------------------------
- <string name="pref_camera_iso_value_iso800">800</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -740,6 +680,18 @@ folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_1008
 folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
 ---------------------------------------------------------------------------------------
  <string name="menu_default_screen_preview">Выбор основного экрана</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">Откл.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">Вкл.</string> 
 
 
 ---------------------------------------------------------------------------------------
@@ -1085,6 +1037,12 @@ folder="all" application="PersonalAssistant.apk" xml="" name="notification_chann
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_default"
+---------------------------------------------------------------------------------------
+ <string name="upgrade_log_default">"1. Улучшение производительности. 2. Исправление ошибок."</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="flybird_nopwd_value_label"
 ---------------------------------------------------------------------------------------
  <string name="flybird_nopwd_value_label">Сумма без пароля</string>
@@ -1427,6 +1385,12 @@ folder="all" application="Settings.apk" xml="" name="default_for_sms"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_keyboard"
+---------------------------------------------------------------------------------------
+ <string name="default_keyboard">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
 ---------------------------------------------------------------------------------------
  <string name="default_launcher_set_jeejen_message">Нажмите кнопку \"Домой\" для настройки Jeejen</string>
@@ -1501,7 +1465,7 @@ folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_de
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
 ---------------------------------------------------------------------------------------
- <string name="game_driver_app_preference_default">Драйвер по умолчанию</string>
+ <string name="game_driver_app_preference_default">По умолчанию</string>
 
 
 ---------------------------------------------------------------------------------------

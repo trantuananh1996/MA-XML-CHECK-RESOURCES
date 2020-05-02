@@ -1409,6 +1409,12 @@ folder="all" application="Mms.apk" xml="" name="rcs_pref_default_sending_method"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Vuốt xuống để mở thư mục riêng tư</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MtkTelecom.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
  <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>

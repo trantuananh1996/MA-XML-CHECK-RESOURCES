@@ -1,7 +1,19 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
+---------------------------------------------------------------------------------------
+ <string name="bt_sm_2_1_default">"Er is onvoldoende ruimte op de SD-kaart beschikbaar om het bestand van '%1$s' op te slaan"</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Bluetooth.apk" xml="" name="defaultnumber"
 ---------------------------------------------------------------------------------------
  <string name="defaultnumber">000000</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
+---------------------------------------------------------------------------------------
+ <string name="status_no_sd_card_default">Geen SD-kaart. Plaats een SD-kaart om overgedragen bestanden op te slaan.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -20,6 +32,12 @@ folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_tit
 folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
 ---------------------------------------------------------------------------------------
  <string name="cloud_storage_default_title">Cloud-opslag</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Contacts.apk" xml="" name="bind_simcard_default"
+---------------------------------------------------------------------------------------
+ <string name="bind_simcard_default">Standaard SIM voor oproepen</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -146,30 +164,6 @@ folder="all" application="Email.apk" xml="" name="recognize_hotel_room_type_valu
 folder="all" application="Email.apk" xml="" name="recognize_hotel_user_names_value"
 ---------------------------------------------------------------------------------------
  <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FileExplorer.apk" xml="" name="default_prize_text"
----------------------------------------------------------------------------------------
- <string name="default_prize_text">Dat gaat recht in mijn schatkist!</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FileExplorer.apk" xml="" name="default_user_desc"
----------------------------------------------------------------------------------------
- <string name="default_user_desc">Deze persoon heeft nog geen beschrijving toegevoegd</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FileExplorer.apk" xml="" name="msg_page_video_default_title"
----------------------------------------------------------------------------------------
- <string name="msg_page_video_default_title">Ik heb een video geüpload, bekijk het eens!</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FileExplorer.apk" xml="" name="user_desc_default_tip"
----------------------------------------------------------------------------------------
- <string name="user_desc_default_tip">Aanmelden om punten te verzamelen en prijzen te winnen.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -341,6 +335,12 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
+---------------------------------------------------------------------------------------
+ <string-array name="default_phrases"> <item>Kop factuur: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adres: Straat, Apt, Stad, Land/Regio, Provincie, Postcode</item> <item>Laat het pakket bij de deur achter. Bedankt!</item> <item>Wacht even, ik ben zo terug.</item> <item>Ik ben in een vergadering. Stuur een sms.</item> <item>Ik kan nu niet praten. Ik bel u zo snel mogelijk terug.</item> <item>Bedankt!</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
 ---------------------------------------------------------------------------------------
  <string name="improve_your_health_default_tips">Sport en krijg genoeg slaap om gezond te blijven.</string>
@@ -374,6 +374,24 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 folder="all" application="Health.apk" xml="" name="user_invalid_value"
 ---------------------------------------------------------------------------------------
  <string name="user_invalid_value">--</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15 minuten</item> <item>30 minuten</item> <item>45 minuten</item> <item>1 uur</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="restore_default"
+---------------------------------------------------------------------------------------
+ <string name="restore_default">Herstel standaardinstellingen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
+---------------------------------------------------------------------------------------
+ <string name="hsv_space_color_value">Waarde</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -536,6 +554,12 @@ folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_e
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">Standaardfunctie</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_values"
+---------------------------------------------------------------------------------------
+ <string-array name="screenrecorder_settings_resolution_values"> <item>1080</item> <item>720</item> <item>480</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -725,6 +749,12 @@ folder="all" application="NfcNci.apk" xml="" name="default_pay_app_removed"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
+---------------------------------------------------------------------------------------
+ <string name="audio_panel_time_counter_default">00:00</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
 ---------------------------------------------------------------------------------------
  <string name="repeat_mode_default">Nooit</string>
@@ -761,45 +791,15 @@ folder="all" application="PackageInstaller.apk" xml="" name="launch_defaults_som
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="navigation_search_default_hint"
----------------------------------------------------------------------------------------
- <string name="navigation_search_default_hint">Zoek hier naar items</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="notification_channel_default"
----------------------------------------------------------------------------------------
- <string name="notification_channel_default">Standaard</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="notification_channel_default_description"
----------------------------------------------------------------------------------------
- <string name="notification_channel_default_description">Other notifications</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="setting_didi_default_way"
----------------------------------------------------------------------------------------
- <string name="setting_didi_default_way">Standaard taxiroute</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_default"
----------------------------------------------------------------------------------------
- <string name="upgrade_log_default">"1. Verbeterde prestatie. 2. Verholpen bugs."</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_facemoji">"r r U moet met de Facemoji privacybeleid akkoord gaan voordat u van deze optie gebruikmaakt."</string>
+ <string name="terms_of_use_lable_default_input_method_facemoji">" U moet met de Facemoji privacybeleid akkoord gaan voordat u van deze optie gebruikmaakt."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_kika">"r r U moet met de Facemoji privacybeleid akkoord gaan voordat u van deze optie gebruik kan maken."</string>
+ <string name="terms_of_use_lable_default_input_method_kika">" U moet met de Facemoji privacybeleid akkoord gaan voordat u van deze optie gebruik kan maken."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1106,6 +1106,12 @@ folder="all" application="Settings.apk" xml="" name="default_notification_assist
 folder="all" application="Settings.apk" xml="" name="default_rule_name"
 ---------------------------------------------------------------------------------------
  <string name="default_rule_name">Timer 1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_suppression_title"
+---------------------------------------------------------------------------------------
+ <string name="default_suppression_title">Standaard (Aanbevolen)</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -75,7 +75,6 @@ all Health.apk strings.xml preference_update_default_title
 all Health.apk strings.xml revert_to_default
 all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
-all Health.apk strings.xml user_invalid_value
 all HybridPlatform.apk strings.xml com_facebook_tooltip_default
 all HybridPlatform.apk strings.xml msg_default_status
 all MiGalleryLockscreen.apk strings.xml local_default_category
@@ -162,6 +161,7 @@ all MiuiVideoGlobal.apk strings.xml subtitle_padding_default_hint
 all MiuiVideoGlobal.apk strings.xml t_lv_subtitle_padding_default_hint
 all Mms.apk arrays.xml prefValues_vibrateWhen
 all Mms.apk arrays.xml prefValues_vibrateWhen
+all Mms.apk strings.xml private_entry_default
 all Mms.apk strings.xml rcs_pref_default_sending_method
 all Mms.apk strings.xml rcs_pref_picture_message_default_quality
 all Mms.apk strings.xml rcs_pref_video_message_default_quality
@@ -295,8 +295,6 @@ all Traceur.apk strings.xml tts_default_rate_title
 all Traceur.apk strings.xml tts_default_sample_string
 all Updater.apk strings.xml default_filedownloader_notification_content
 all Updater.apk strings.xml default_filedownloader_notification_title
-all Weather.apk strings.xml temperature_unit_default
-all Weather.apk strings.xml wind_power_unit_default
 all XiaomiAccount.apk strings.xml com_facebook_tooltip_default
 all YellowPage.apk strings.xml mark_number_dialog_default_sub_title
 all YellowPage.apk strings.xml navigation_search_default_hint

@@ -102,9 +102,6 @@ all MiuiAod.apk strings.xml signature_default_content
 all MiuiCamera.apk strings.xml pref_video_hfr_entryvalue_default
 all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
-all MiuiCamera.apk strings.xml pref_camera_coloreffect_default
-all MiuiCamera.apk strings.xml pref_camera_long_press_shutter_feature_default
-all MiuiCamera.apk strings.xml pref_camera_volumekey_function_default
 all MiuiCamera.apk strings.xml pref_video_encoder_default
 all MiuiCamera.apk strings.xml pref_video_hfr_entryvalue_default
 all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value_abbr
@@ -179,6 +176,7 @@ all MiuiVideoGlobal.apk strings.xml plus_poster_reset_default
 all MiuiVideoGlobal.apk strings.xml plus_sort_type_default
 all MiuiVideoGlobal.apk strings.xml subtitle_padding_default_hint
 all MiuiVideoGlobal.apk strings.xml t_lv_subtitle_padding_default_hint
+all Mms.apk strings.xml private_entry_default
 all Mms.apk strings.xml rcs_pref_default_sending_method
 all Mms.apk strings.xml rcs_pref_picture_message_default_quality
 all Mms.apk strings.xml rcs_pref_video_message_default_quality

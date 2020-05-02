@@ -233,6 +233,7 @@ all MiVideo.apk strings.xml subtitle_padding_default_hint
 all Mms.apk strings.xml rcs_pref_picture_message_default_quality
 all Mms.apk strings.xml rcs_pref_video_message_default_quality
 all Mms.apk strings.xml rcs_pref_default_sending_method
+all Mms.apk strings.xml private_entry_default
 all MtkTelecom.apk arrays.xml bluetooth_avrcp_version_values
 all MtkTelecom.apk strings.xml change_default_dialer_dialog_affirmative
 all MtkTelecom.apk strings.xml change_default_dialer_dialog_negative

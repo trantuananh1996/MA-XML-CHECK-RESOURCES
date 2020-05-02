@@ -1,3 +1,5 @@
+all Bluetooth.apk strings.xml avrcp_cover_art_default_image_type
+all Bluetooth.apk strings.xml avrcp_cover_art_default_mimetype
 all Bluetooth.apk strings.xml defaultnumber
 all Browser.apk strings.xml browser_default_setting_cancel
 all Browser.apk strings.xml browser_default_setting_confirm
@@ -85,6 +87,7 @@ all MiuiAod.apk strings.xml signature_default_content
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml pref_camera_autoexposure_default
 all MiuiCamera.apk strings.xml pref_camera_coloreffect_default
+all MiuiCamera.apk strings.xml pref_camera_exposuretime_default
 all MiuiCamera.apk strings.xml pref_camera_recordlocation_default
 all MiuiCamera.apk strings.xml pref_hdr_value_default
 all MiuiCamera.apk strings.xml pref_live_volumekey_function_default
@@ -181,6 +184,7 @@ all PersonalAssistant.apk strings.xml flybird_setting_use_default
 all PersonalAssistant.apk strings.xml mini_error_title_default
 all PersonalAssistant.apk strings.xml notification_channel_default
 all PersonalAssistant.apk strings.xml notification_channel_default_description
+all PersonalAssistant.apk strings.xml upgrade_log_default
 all PersonalAssistant.apk strings.xml flybird_nopwd_value_label
 all PersonalAssistantGlobal.apk strings.xml setting_uber_default_way
 all PersonalAssistantGlobal.apk strings.xml upgrade_log_default
@@ -238,6 +242,7 @@ all Settings.apk strings.xml default_for_calls
 all Settings.apk strings.xml default_for_calls_and_sms
 all Settings.apk strings.xml default_for_mobile_data
 all Settings.apk strings.xml default_for_sms
+all Settings.apk strings.xml default_keyboard
 all Settings.apk strings.xml default_launcher_set_jeejen_message
 all Settings.apk strings.xml default_launcher_set_system_message
 all Settings.apk strings.xml default_launcher_title
