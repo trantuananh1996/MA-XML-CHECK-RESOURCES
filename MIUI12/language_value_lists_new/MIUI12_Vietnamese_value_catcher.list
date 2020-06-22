@@ -221,6 +221,12 @@ folder="all" application="CABLService.apk" xml="" name="cabl_level_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CABLService.apk" xml="" name="cabl_level_values"
+---------------------------------------------------------------------------------------
+ <string-array name="cabl_level_values"> <item>Thấp</item> <item>Trung bình</item> <item>Cao</item> <item>Tự động</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="CABLService.apk" xml="" name="cabl_info_default"
 ---------------------------------------------------------------------------------------
  <string name="cabl_info_default">Chưa biết</string>
@@ -287,6 +293,18 @@ folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="entryvalues_settings_debug"
+---------------------------------------------------------------------------------------
+ <string-array name="entryvalues_settings_debug"> <item>Không</item> <item>Xuất và gửi nhật ký</item> <item>Tạo nhật ký và lưu vào tập tin</item> <item>Xem ID thiết bị thống kê</item> <item>Cập nhật cấu hình máy chủ tức thì</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>Thứ hai đầu tiên</item> <item>Thứ ba đầu tiên</item> <item>Thứ tư đầu tiên</item> <item>Thứ năm đầu tiên</item> <item>Thứ sáu đầu tiên</item> <item>Thứ bảy đầu tiên</item> <item>Chủ nhật đầu tiên</item> <item>Thứ hai thứ hai</item> <item>Thứ ba thứ hai</item> <item>Thứ tư thứ hai</item> <item>Thứ năm thứ hai</item> <item>Thứ sáu thứ hai</item> <item>Thứ bảy thứ hai</item> <item>Chủ nhật thứ hai</item> <item>Thứ hai thứ ba</item> <item>Thứ ba thứ ba</item> <item>Thứ tư thứ ba</item> <item>Thứ năm thứ ba</item> <item>Thứ sáu thứ ba</item> <item>Thứ bảy thứ ba</item> <item>Chủ nhật thứ ba</item> <item>Thứ hai thứ tư</item> <item>Thứ ba thứ tư</item> <item>Thứ tư thứ tư</item> <item>Thứ năm thứ tư</item> <item>Thứ sáu thứ tư</item> <item>Thứ bảy thứ tư</item> <item>Chủ nhật thứ tư</item> <item>Thứ hai cuối cùng</item> <item>Thứ ba cuối cùng</item> <item>Thứ tư cuối cùng</item> <item>Thứ năm cuối cùng</item> <item>Thứ sáu cuối cùng</item> <item>Thứ bảy cuối cùng</item> <item>Chủ nhật cuối cùng</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
 ---------------------------------------------------------------------------------------
  <string name="default_reminder_later_time">Thời gian mặc định cho \"Nhắc nhở sau\"</string>
@@ -320,6 +338,42 @@ folder="all" application="Calendar.apk" xml="" name="preferences_alarm_default_e
 folder="all" application="Calendar.apk" xml="" name="menstruation_card_default_title"
 ---------------------------------------------------------------------------------------
  <string name="menstruation_card_default_title">Không có dữ liệu trợ lý kỳ kinh nguyệt</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_recommendation_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_recommendation_default_title">Bạn có thể thích những điều này</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="load_more_events_default"
+---------------------------------------------------------------------------------------
+ <string name="load_more_events_default">Hiển thị sự kiện năm sau</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_history_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_history_default_title">Lịch sử tìm kiếm</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default"
+---------------------------------------------------------------------------------------
+ <string name="pull_refresh_events_default">Xem sự kiện năm ngoái</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CallFeaturesSetting.apk" xml="" name="call_barring_outgoing_display_values"
+---------------------------------------------------------------------------------------
+ <string-array name="call_barring_outgoing_display_values"> <item>Cuộc gọi đi</item> <item>Cuộc gọi quốc tế</item> <item>Cuộc gọi chuyển vùng quốc tế</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CallFeaturesSetting.apk" xml="" name="call_barring_incoming_display_values"
+---------------------------------------------------------------------------------------
+ <string-array name="call_barring_incoming_display_values"> <item>Tất cả</item> <item>Chuyển vùng</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -751,7 +805,7 @@ folder="all" application="framework-res.apk" xml="" name="biometric_dialog_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>Tiêu đề hóa đơn: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Địa chỉ: Đường, Căn hộ, Thành phố, Quốc gia/Vùng, Tỉnh, Mã bưu chính</item> <item>Vui lòng đặt gói hàng ngoài cửa. Cảm ơn!</item> <item>"Chờ chút, tôi sẽ quay lại ngay."</item> <item>"Tôi đang họp. Vui lòng gửi tin nhắn văn bản."</item> <item>"Bây giờ tôi không thể nói chuyện. Tôi sẽ gọi lại cho bạn sớm nhất có thể."</item> <item>Cảm ơn!</item> </string-array>
+ <string-array name="default_phrases"> <item>Tiêu đề hóa đơn: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Địa chỉ: Đường, Căn hộ, Thành phố, Quốc gia/Vùng, Tỉnh, Mã bưu chính</item> <item>Vui lòng đặt gói hàng ngoài cửa. Cảm ơn!</item> <item>"Chờ chút, tôi sẽ quay lại ngay."</item> <item>"Tôi đang họp. Vui lòng gửi tin nhắn văn bản."</item> <item>"Bây giờ tôi không thể nói chuyện. Tôi sẽ gọi lại cho bạn sớm nhất có thể."</item> <item>Cảm ơn!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -782,6 +836,12 @@ folder="all" application="Health.apk" xml="" name="sleep_tip_default"
 folder="all" application="Health.apk" xml="" name="tips_default"
 ---------------------------------------------------------------------------------------
  <string name="tips_default">Không có dữ liệu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="value_error_correct"
+---------------------------------------------------------------------------------------
+ <string name="value_error_correct">Lỗi giá trị, sửa</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -827,6 +887,12 @@ folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15 phút</item> <item>30 phút</item> <item>45 phút</item> <item>1 giờ</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="default_songtab_name"
 ---------------------------------------------------------------------------------------
  <string name="default_songtab_name">Danh mục danh sách phát</string>
@@ -860,6 +926,24 @@ folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 folder="all" application="MiShare.apk" xml="" name="default_device_name"
 ---------------------------------------------------------------------------------------
  <string name="default_device_name">Thiết bị không xác định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_create_shortcut"
+---------------------------------------------------------------------------------------
+ <string name="preference_value_create_shortcut">Tạo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_has_shortcut"
+---------------------------------------------------------------------------------------
+ <string name="preference_value_has_shortcut">Đã tạo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1097,6 +1181,12 @@ folder="all" application="MiuiHome.apk" xml="" name="wallpaper_scroll_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="wallpaper_scroll_values"
+---------------------------------------------------------------------------------------
+ <string-array name="wallpaper_scroll_values"> <item>Chủ đề mặc định</item> <item>Căn giữa</item> <item>Bên trái</item> <item>Bên phải</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_microsoft">Microsoft</string>
@@ -1202,6 +1292,12 @@ folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permiss
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">Tính năng mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1415,6 +1511,18 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="default_filedownloader_notification_title"
+---------------------------------------------------------------------------------------
+ <string name="default_filedownloader_notification_title">Trình tải xuống tệp</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="default_filedownloader_notification_content"
+---------------------------------------------------------------------------------------
+ <string name="default_filedownloader_notification_content">Trình tải xuống tệp đang chạy.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoLeo.apk" xml="" name="defaults"
 ---------------------------------------------------------------------------------------
  <string name="defaults">Mặc định</string>
@@ -1526,6 +1634,12 @@ folder="all" application="Mms.apk" xml="" name="rcs_pref_default_sending_method"
 folder="all" application="Mms.apk" xml="" name="private_entry_default"
 ---------------------------------------------------------------------------------------
  <string name="private_entry_default">Vuốt xuống để mở thư mục riêng tư</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1658,6 +1772,36 @@ folder="all" application="MtkTelecom.apk" xml="" name="change_default_call_scree
 folder="all" application="MtkTelecom.apk" xml="" name="change_default_call_screening_dialog_title"
 ---------------------------------------------------------------------------------------
  <string name="change_default_call_screening_dialog_title">Đặt %s làm ứng dụng sàng lọc cuộc gọi mặc định?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="cdma_subscription_values"
+---------------------------------------------------------------------------------------
+ <string-array name="cdma_subscription_values"> <item>0</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="clir_display_values"
+---------------------------------------------------------------------------------------
+ <string-array name="clir_display_values"> <item>Mạng mặc định</item> <item>Ẩn số</item> <item>Hiển thị số</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="list_language_values"
+---------------------------------------------------------------------------------------
+ <string-array name="list_language_values"> <item>1</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>6</item> <item>7</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="preferred_network_mode_values_world_mode"
+---------------------------------------------------------------------------------------
+ <string-array name="preferred_network_mode_values_world_mode"> <item>10</item> <item>8</item> <item>9</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1976,6 +2120,12 @@ folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_redee
 folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_remained"
 ---------------------------------------------------------------------------------------
  <string name="mibi_unit_value_remained">%1$s Mi Credit còn lại</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value"
+---------------------------------------------------------------------------------------
+ <string name="mibi_unit_value">%1$s Mi Coin</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2372,6 +2522,12 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="space_des_default"
 folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 ---------------------------------------------------------------------------------------
  <string-array name="default_vol_stream_entries"> <item>Nhạc chuông</item> <item>Đa phương tiện</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -2843,6 +2999,12 @@ folder="all" application="Telecom.apk" xml="" name="bluetooth_avrcp_version_valu
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
  <string name="change_default_dialer_dialog_affirmative">Đặt làm ứng dụng điện thoại mặc định</string>
@@ -2909,6 +3071,12 @@ folder="all" application="TeleService.apk" xml="" name="bluetooth_avrcp_version_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
  <string name="launch_defaults_some">Đã đặt một số ứng dụng chạy mặc định</string>
@@ -2963,6 +3131,18 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voi
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice_description">SIM %d để gọi</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data_description">SIM dữ liệu %d</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
 ---------------------------------------------------------------------------------------
  <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Số định danh giao dịch không hợp lệ</string>
@@ -2972,6 +3152,18 @@ folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_t
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">Chế độ một tay mặc định tắt. Bật Chế độ một tay?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="edge_mode_default_title"
+---------------------------------------------------------------------------------------
+ <string name="edge_mode_default_title">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

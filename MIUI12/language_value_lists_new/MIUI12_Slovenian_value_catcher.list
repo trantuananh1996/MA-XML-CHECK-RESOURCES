@@ -149,6 +149,12 @@ folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>prvi ponedeljek</item> <item>prvi torek</item> <item>prva sreda</item> <item>prvi četrtek</item> <item>prvi petek</item> <item>prva sobota</item> <item>prva nedelja</item> <item>drugi ponedeljek</item> <item>drugi torek</item> <item>druga sreda</item> <item>drugi četrtek</item> <item>drugi petek</item> <item>druga sobota</item> <item>druga nedelja</item> <item>tretji ponedeljek</item> <item>tretji torek</item> <item>tretja sreda</item> <item>tretji četrtek</item> <item>tretji petek</item> <item>tretja sobota</item> <item>tretja nedelja</item> <item>četrti ponedeljek</item> <item>četrti torek</item> <item>četrta sreda</item> <item>četrti četrtek</item> <item>četrti petek</item> <item>četrta sobota</item> <item>četrta nedelja</item> <item>zadnji ponedeljek</item> <item>zadnji torek</item> <item>zadnja sreda</item> <item>zadnji četrtek</item> <item>zadnji petek</item> <item>zadnja sobota</item> <item>zadnja nedelja</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
 ---------------------------------------------------------------------------------------
  <string name="default_reminder_later_time">Privzeti interval za \"Opomni kasneje\"</string>
@@ -182,6 +188,12 @@ folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_
 folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default"
 ---------------------------------------------------------------------------------------
  <string name="pull_refresh_events_default">Pokaži dogodke iz preteklega leta</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -451,7 +463,7 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>Glava računa: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Naslov: Ulica, Stanovanje, Mesto, Država/Regija, Pokrajina, Poštna številka</item> <item>Prosim da pustite paket pred vrati. Hvala!</item> <item>"Počakajte minuto, takoj pridem."</item> <item>"Sem na sestanku. Pošljite SMS."</item> <item>"Zdaj ne morem govoriti. Pokličem nazaj."</item> <item>Hvala!</item> </string-array>
+ <string-array name="default_phrases"> <item>Glava računa: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Naslov: Ulica, Stanovanje, Mesto, Država/Regija, Pokrajina, Poštna številka</item> <item>Prosim da pustite paket pred vrati. Hvala!</item> <item>"Počakajte minuto, takoj pridem."</item> <item>"Sem na sestanku. Pošljite SMS."</item> <item>"Zdaj ne morem govoriti. Pokličem nazaj."</item> <item>Hvala!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -485,15 +497,21 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Health.apk" xml="" name="text_no_value"
----------------------------------------------------------------------------------------
- <string name="text_no_value">--</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="user_invalid_value"
 ---------------------------------------------------------------------------------------
  <string name="user_invalid_value">--</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="value_error_correct"
+---------------------------------------------------------------------------------------
+ <string name="value_error_correct">Uredi zapis</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="cell_layout_size_values"
+---------------------------------------------------------------------------------------
+ <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -611,6 +629,18 @@ folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values_second
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15 minut</item> <item>30 minut</item> <item>45 minut</item> <item>1 ura</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values_seconds"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values_seconds"> <item>900</item> <item>1800</item> <item>2700</item> <item>3600</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="default_songtab_name"
 ---------------------------------------------------------------------------------------
  <string name="default_songtab_name">Kategorije seznama za predvajanje</string>
@@ -644,6 +674,18 @@ folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 folder="all" application="MiShare.apk" xml="" name="default_device_name"
 ---------------------------------------------------------------------------------------
  <string name="default_device_name">Neznana naprava</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_create_shortcut"
+---------------------------------------------------------------------------------------
+ <string name="preference_value_create_shortcut">Napravi</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_has_shortcut"
+---------------------------------------------------------------------------------------
+ <string name="preference_value_has_shortcut">Končano</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -995,6 +1037,18 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="default_filedownloader_notification_content"
+---------------------------------------------------------------------------------------
+ <string name="default_filedownloader_notification_content">Prenosi je vklopljeno.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="default_filedownloader_notification_title"
+---------------------------------------------------------------------------------------
+ <string name="default_filedownloader_notification_title">Prenosi</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_default_music_text"
 ---------------------------------------------------------------------------------------
  <string name="gallery_video_default_music_text">Samodejno</string>
@@ -1172,6 +1226,12 @@ folder="all" application="MtkTelecom.apk" xml="" name="tts_default_rate_title"
 folder="all" application="MtkTelecom.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
  <string name="tts_default_sample_string">To je primer sinteze govora.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="clir_display_values"
+---------------------------------------------------------------------------------------
+ <string-array name="clir_display_values"> <item>Privzeto za omrežje</item> <item>Skrij številke</item> <item>Pokaži številke</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1421,6 +1481,42 @@ folder="all" application="NotificationCenter.apk" xml="" name="default_list_type
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Permissioncontroller.apk" xml="" name="default_app_no_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_app_no_apps">Ni aplikacij</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Permissioncontroller.apk" xml="" name="default_app_none"
+---------------------------------------------------------------------------------------
+ <string name="default_app_none">Brez</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Permissioncontroller.apk" xml="" name="default_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_apps">Privzete aplikacije</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Permissioncontroller.apk" xml="" name="default_apps_for_work"
+---------------------------------------------------------------------------------------
+ <string name="default_apps_for_work">Privzeto za delo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Permissioncontroller.apk" xml="" name="default_permission_description"
+---------------------------------------------------------------------------------------
+ <string name="default_permission_description">izvedba neznanega dejanja</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Permissioncontroller.apk" xml="" name="no_default_apps"
+---------------------------------------------------------------------------------------
+ <string name="no_default_apps">Ni privzetih aplikacij</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
 ---------------------------------------------------------------------------------------
  <string name="display_weather_default">Tapnite za vremenske informacije</string>
@@ -1429,7 +1525,7 @@ folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_de
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
- <string name="navigation_search_default_hint">Poiščite elemente tukaj</string>
+ <string name="navigation_search_default_hint">Poiščite stvari tukaj</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2021,9 +2117,21 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_dat
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data_description">Podatkovna kartica SIM %d</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
 ---------------------------------------------------------------------------------------
  <string name="msim_setting_default_voice">Privzeto za klice</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice_description">SIM %d</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2033,9 +2141,21 @@ folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="edge_mode_default_title"
+---------------------------------------------------------------------------------------
+ <string name="edge_mode_default_title">Privzeto</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">Delo z eno roko je izključeno. Vključim Delo z eno roko?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -2168,5 +2288,23 @@ folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_def
 folder="all" application="YellowPage.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="navigation_search_default_hint">Vnesite besede ki jih želite iskati</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">Skupna raba brez metapodatkov privzeto</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">Odstrani podatke o lokaciji iz deljenih fotografij</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Deli brez podatkov o lokaciji privzeto</string>
 
 

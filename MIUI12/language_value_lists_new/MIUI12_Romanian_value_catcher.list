@@ -53,6 +53,12 @@ folder="all" application="Browser.apk" xml="" name="topic_content_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
+---------------------------------------------------------------------------------------
+ <string name="mw_color_picker_value">Valoare</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_0"
 ---------------------------------------------------------------------------------------
  <string name="unit_data_default_area_0">sq.m</string>
@@ -134,6 +140,12 @@ folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 minute</item> <item>10 minute</item> <item>15 minute</item> <item>30 de minute</item> <item>1 oră</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>prima zi de Luni</item> <item>prima zi de Marți</item> <item>prima zi de Miercuri</item> <item>prima zi de Joi</item> <item>prima zi de Vineri</item> <item>prima zi de Sâmbătă</item> <item>prima zi de Duminică</item> <item>a doua zi de Luni</item> <item>a doua zi de Marți</item> <item>a doua zi de Miercuri</item> <item>a doua zi de Joi</item> <item>a doua zi de Vineri</item> <item>a doua zi de Sâmbătă</item> <item>a doua zi de Duminică</item> <item>a treia zi de Luni</item> <item>a treia zi de Marți</item> <item>a treia zi de Miercuri</item> <item>a treia zi de Joi</item> <item>a treia zi de Vineri</item> <item>a treia zi de Sâmbătă</item> <item>a treia zi de Duminică</item> <item>a patra zi de Luni</item> <item>a patra zi de Marți</item> <item>a patra zi de Miercuri</item> <item>a patra zi de Joi</item> <item>a patra zi de Vineri</item> <item>a patra zi de Sâmbătă</item> <item>a patra zi de Duminică</item> <item>ultima zi de Luni</item> <item>ultima zi de Marți</item> <item>ultima zi de Miercuri</item> <item>ultima zi de Joi</item> <item>ultima zi de Vineri</item> <item>ultima zi de Sâmbătă</item> <item>ultima zi de Duminică</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -343,7 +355,7 @@ folder="all" application="Email.apk" xml="" name="default_pop3"
 ---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="default_signature_2"
 ---------------------------------------------------------------------------------------
- <string name="default_signature_2">Trimis de pe %s-ul meu</string>
+ <string name="default_signature_2">Trimis de pe %s</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -553,7 +565,7 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>Antetul facturii: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adresă: Stradă, Ap., Oraș, Țară/Regiune, Provincie, Cod poștal</item> <item>Vă rog să lăsați pachetul lângă ușă. Mulțumesc!</item> <item>Așteaptă puțin, mă întorc imediat.</item> <item>Sunt într-o ședință. Vă rog să-mi trimiteți mesaj.</item> <item>Nu pot vorbi acum. Revin cu un telefon imediat.</item> <item>Mulțumesc!</item> </string-array>
+ <string-array name="default_phrases"> <item>Antetul facturii: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adresă: Stradă, Ap., Oraș, Țară/Regiune, Provincie, Cod poștal</item> <item>Vă rog să lăsați pachetul lângă ușă. Mulțumesc!</item> <item>Așteaptă puțin, mă întorc imediat.</item> <item>Sunt într-o ședință. Vă rog să-mi trimiteți mesaj.</item> <item>Nu pot vorbi acum. Revin cu un telefon imediat.</item> <item>Mulțumesc!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -599,6 +611,12 @@ folder="all" application="Health.apk" xml="" name="user_invalid_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="value_error_correct"
+---------------------------------------------------------------------------------------
+ <string name="value_error_correct">Editați înregistrarea</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
 ---------------------------------------------------------------------------------------
  <string name="system_default">Implicit</string>
@@ -620,6 +638,18 @@ folder="all" application="MiSettings.apk" xml="" name="restore_default"
 folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 ---------------------------------------------------------------------------------------
  <string name="hsv_space_color_value">Valoare</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_create_shortcut"
+---------------------------------------------------------------------------------------
+ <string name="preference_value_create_shortcut">Creați</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_has_shortcut"
+---------------------------------------------------------------------------------------
+ <string name="preference_value_has_shortcut">Creat</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -839,6 +869,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_default"
+---------------------------------------------------------------------------------------
+ <string name="security_share_subtitle_default">Protejarea confidențialității</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_default"
 ---------------------------------------------------------------------------------------
  <string name="text_edit_dialog_font_default">Implicit</string>
@@ -913,13 +949,13 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
 ---------------------------------------------------------------------------------------
- <string name="launcher_search_bar_value_disable">Oprit</string>
+ <string name="launcher_search_bar_value_disable">Oprită</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
 ---------------------------------------------------------------------------------------
- <string name="launcher_search_bar_value_enable">Pornit</string>
+ <string name="launcher_search_bar_value_enable">Pornită</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1097,6 +1133,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="quick_settings_tiles_default"
+---------------------------------------------------------------------------------------
+ <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,freeformhang,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideo.apk" xml="" name="notification_default_title"
 ---------------------------------------------------------------------------------------
  <string name="notification_default_title">Videoclip off-line</string>
@@ -1127,33 +1169,45 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_default_music_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="default_filedownloader_notification_content"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_default_music_text">Auto</string>
+ <string name="default_filedownloader_notification_content">Descărcarea fișierelor rulează.</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item3_default_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="default_filedownloader_notification_title"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item3_default_text">Emoții</string>
+ <string name="default_filedownloader_notification_title">Descărcare fișiere</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item4_default_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_default_music_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item4_default_text">Răsărit</string>
+ <string name="galleryplus_gallery_video_default_music_text">Auto</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item5_default_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item3_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item5_default_text">Amintiri</string>
+ <string name="galleryplus_gallery_video_item3_default_text">Emoții</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item6_default_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item4_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item6_default_text">Fericire</string>
+ <string name="galleryplus_gallery_video_item4_default_text">Răsărit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item5_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item5_default_text">Amintiri</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item6_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item6_default_text">Fericire</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1232,6 +1286,12 @@ folder="all" application="NfcNci.apk" xml="" name="default_pay_app_removed"
 folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
 ---------------------------------------------------------------------------------------
  <string name="audio_panel_time_counter_default">00:00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Glisați în jos pentru a deschide dosarul privat</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1358,6 +1418,12 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
 ---------------------------------------------------------------------------------------
  <string name="terms_of_use_lable_default_input_method_kika">" Trebuie să acceptați Politica de Confidențialitate Kika înainte de a utiliza această caracteristică."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_mint"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_mint">" Trebuie să acceptați Politica de Confidențialitate a tastaturii Mint înainte de a utiliza această caracteristică."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1865,9 +1931,39 @@ folder="all" application="TeleService.apk" xml="" name="msim_select_default_time
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data">Cartelă pentru date</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data_description">SIM date %d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice">Implicită pentru apeluri</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice_description">SIM %d pentru apeluri</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
 ---------------------------------------------------------------------------------------
  <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Nu s-a putut realiza apelul. Cod eroare 81.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="edge_mode_default_title"
+---------------------------------------------------------------------------------------
+ <string name="edge_mode_default_title">Implicit</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1993,7 +2089,7 @@ folder="all" application="Weather.apk" xml="" name="wind_power_unit_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="XiaomiAccount.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
- <string name="com_facebook_tooltip_default">"Dețineți controlul - selectați ce informații doriți să partajați cu aplicațiile."</string>
+ <string name="com_facebook_tooltip_default">Dețineți controlul - selectați ce informații doriți să partajați cu aplicațiile.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2006,5 +2102,23 @@ folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_def
 folder="all" application="YellowPage.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="navigation_search_default_hint">Căutați locații</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">Partajați fără metadate în mod implicit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">Elimină informațiile despre locație din fotografiile partajate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Partajați fără informațiile despre locație în mod implicit</string>
 
 

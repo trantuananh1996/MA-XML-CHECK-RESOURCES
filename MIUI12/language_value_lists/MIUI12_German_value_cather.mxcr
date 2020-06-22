@@ -15,6 +15,7 @@ all Calculator.apk strings.xml unit_data_default_currency_0
 all Calculator.apk strings.xml unit_data_default_currency_2
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
+all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml default_reminder_later_time
 all Calendar.apk strings.xml free_day_default_banner_title
 all Calendar.apk strings.xml load_more_events_default
@@ -73,9 +74,11 @@ all Health.apk strings.xml preference_update_default_title
 all Health.apk strings.xml revert_to_default
 all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
+all Health.apk strings.xml value_error_correct
 all HybridPlatform.apk strings.xml com_facebook_tooltip_default
 all HybridPlatform.apk strings.xml msg_default_status
 all MiGalleryLockscreen.apk strings.xml system_default
+all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk strings.xml default_songtab_name
 all MiRadio.apk strings.xml empty_view_default_text
@@ -114,6 +117,7 @@ all MiuiGallery.apk strings.xml photomovie_template_default
 all MiuiGallery.apk strings.xml security_share_subtitle_default
 all MiuiGallery.apk strings.xml text_edit_dialog_font_default
 all MiuiGallery.apk strings.xml video_editor_text_default
+all MiuiHome.apk arrays.xml wallpaper_scroll_values
 all MiuiHome.apk arrays.xml wallpaper_scroll_values
 all MiuiHome.apk strings.xml all_app_category_default
 all MiuiHome.apk strings.xml announce_for_choose_default_screen
@@ -158,6 +162,7 @@ all MiuiVideoGlobal.apk strings.xml alert_dialog_download_default_title
 all MiuiVideoGlobal.apk strings.xml cast_notification_default_channel_name
 all MiuiVideoGlobal.apk strings.xml cast_tracks_chooser_dialog_default_track_name
 all MiuiVideoGlobal.apk strings.xml com_facebook_tooltip_default
+all MiuiVideoGlobal.apk strings.xml default_filedownloader_notification_content
 all MiuiVideoGlobal.apk strings.xml gallery_video_item3_default_text
 all MiuiVideoGlobal.apk strings.xml gallery_video_item4_default_text
 all MiuiVideoGlobal.apk strings.xml gallery_video_item5_default_text
@@ -337,9 +342,12 @@ all TeleService.apk strings.xml default_preference_summary_password
 all TeleService.apk strings.xml default_preference_summary_username
 all TeleService.apk strings.xml launch_defaults_some
 all TeleService.apk strings.xml msim_setting_default_data
+all TeleService.apk strings.xml msim_setting_default_data_description
 all TeleService.apk strings.xml msim_setting_default_voice
+all TeleService.apk strings.xml msim_setting_default_voice_description
 all TeleService.apk strings.xml clh_callFailed_invalid_transaction_identifier_value_txt
 all ThemeManager.apk strings.xml theme_provision_default_theme_title
+all TouchAssistant.apk strings.xml edge_mode_default_title
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open
 all Traceur.apk strings.xml connected_via_network_scorer_default
 all Traceur.apk strings.xml default_categories

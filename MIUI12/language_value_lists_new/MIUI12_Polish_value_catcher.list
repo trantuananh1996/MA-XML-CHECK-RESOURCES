@@ -155,6 +155,12 @@ folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>pierwszy poniedziałek</item> <item>pierwszy wtorek</item> <item>pierwsza środa</item> <item>pierwszy czwartek</item> <item>pierwszy piątek</item> <item>pierwsza sobota</item> <item>pierwsza niedziela</item> <item>drugi poniedziałek</item> <item>drugi wtorek</item> <item>druga środa</item> <item>drugi czwartek</item> <item>drugi piątek</item> <item>druga sobota</item> <item>druga niedziela</item> <item>trzeci poniedziałek</item> <item>trzeci wtorek</item> <item>trzecia środa</item> <item>trzeci czwartek</item> <item>trzeci piątek</item> <item>trzecia sobota</item> <item>trzecia niedziela</item> <item>czwarty poniedziałek</item> <item>czwarty wtorek</item> <item>czwarta środa</item> <item>czwarty czwartek</item> <item>czwarty piątek</item> <item>czwarta sobota</item> <item>czwarta niedziela</item> <item>ostatni poniedziałek</item> <item>ostatni wtorek</item> <item>ostatnia środa</item> <item>ostatni czwartek</item> <item>ostatni piątek</item> <item>ostatnia sobota</item> <item>ostatnia niedziela</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
 ---------------------------------------------------------------------------------------
  <string name="default_reminder_later_time">Przedział czasowy dla \"Później\"</string>
@@ -223,7 +229,7 @@ folder="all" application="Contacts.apk" xml="" name="contacts_default_notificati
 ---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
- <string name="snooze_duration_value">Interwał (ile minut)</string>
+ <string name="snooze_duration_value">Interwał (co ile minut)</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -319,7 +325,7 @@ folder="all" application="framework-res.apk" xml="" name="biometric_dialog_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>Dane do faktury: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adres: Ulica, Dzielnica, Miasto, Kraj, Region, Kod pocztowy</item> <item>Proszę zostawić paczkę pod drzwiami. Dziękuję!</item> <item>"Poczekaj minutkę, zaraz wracam."</item> <item>"Jestem na spotkaniu, wyślij SMS-a."</item> <item>"Nie mogę teraz rozmawiać. Zadzwonię do Ciebie później."</item> <item>Dzięki!</item> </string-array>
+ <string-array name="default_phrases"> <item>Dane do faktury: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adres: Ulica, Dzielnica, Miasto, Kraj, Region, Kod pocztowy</item> <item>Proszę zostawić paczkę pod drzwiami. Dziękuję!</item> <item>"Poczekaj minutkę, zaraz wracam."</item> <item>"Jestem na spotkaniu, wyślij SMS-a."</item> <item>"Nie mogę teraz rozmawiać. Zadzwonię do Ciebie później."</item> <item>Dzięki!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -356,6 +362,12 @@ folder="all" application="Health.apk" xml="" name="sleep_tip_default"
 folder="all" application="Health.apk" xml="" name="tips_default"
 ---------------------------------------------------------------------------------------
  <string name="tips_default">Brak danych</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="value_error_correct"
+---------------------------------------------------------------------------------------
+ <string name="value_error_correct">Edytuj rekord</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -473,6 +485,12 @@ folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15 min</item> <item>30 min</item> <item>45 min</item> <item>1 godz.</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 ---------------------------------------------------------------------------------------
  <string name="default_error_msg">Coś poszło nie tak!</string>
@@ -518,6 +536,18 @@ folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
 ---------------------------------------------------------------------------------------
  <string name="custom_sound_default">Domyślny</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_front_denoise_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_front_denoise_default">Wył.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_wind_denoise_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_wind_denoise_default">Wł.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -824,6 +854,12 @@ folder="all" application="MiuiVideoLeo.apk" xml="" name="defaults"
 folder="all" application="Mms.apk" xml="" name="private_entry_default"
 ---------------------------------------------------------------------------------------
  <string name="private_entry_default">Przesuń w dół, aby otworzyć prywatne wiadomości</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="clir_display_values"
+---------------------------------------------------------------------------------------
+ <string-array name="clir_display_values"> <item>Domyślna wartość dla sieci</item> <item>Ukryj numer</item> <item>Pokaż numer</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1775,9 +1811,27 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voi
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data_description">SIM do danych %d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice_description">SIM do połączeń %d</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">Tryb jednej dłoni jest domyślnie wyłączony. Włączyć teraz?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="edge_mode_default_title"
+---------------------------------------------------------------------------------------
+ <string name="edge_mode_default_title">Domyślny</string>
 
 
 ---------------------------------------------------------------------------------------
