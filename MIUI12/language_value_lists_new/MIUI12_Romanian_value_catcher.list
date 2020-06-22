@@ -73,7 +73,7 @@ folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_1"
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_0"
 ---------------------------------------------------------------------------------------
- <string name="unit_data_default_currency_0">CNY</string>
+ <string name="unit_data_default_currency_0">JPY</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -200,6 +200,12 @@ folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default
 folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
 ---------------------------------------------------------------------------------------
  <string name="work_day_default_banner_title">Să aveți o zi productivă la servici!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="battery_value"
+---------------------------------------------------------------------------------------
+ <string name="battery_value">Energie</string>
 
 
 ---------------------------------------------------------------------------------------

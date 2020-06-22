@@ -1547,6 +1547,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_live_volumekey_funct
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="custom_sound_default">Défaut</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="device_ultra_pixel_watermark_default_text"
 ---------------------------------------------------------------------------------------
  <string name="device_ultra_pixel_watermark_default_text">DOUBLE APPAREIL PHOTO 48 MPX</string>
@@ -1592,6 +1598,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_expo
 folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
 ---------------------------------------------------------------------------------------
  <string name="motion_photo_toast_default">Défaut</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="album_detail_default_sort_tip"
+---------------------------------------------------------------------------------------
+ <string name="album_detail_default_sort_tip">Switched to chronological order</string>
 
 
 ---------------------------------------------------------------------------------------
