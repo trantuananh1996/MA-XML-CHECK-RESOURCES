@@ -509,6 +509,12 @@ folder="all" application="Health.apk" xml="" name="value_error_correct"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
+---------------------------------------------------------------------------------------
+ <string name="system_default">Privzeto</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiLauncherGlobal.apk" xml="" name="cell_layout_size_values"
 ---------------------------------------------------------------------------------------
  <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
@@ -785,9 +791,33 @@ folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_off">Izključeno</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_movie"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_movie">Film</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_picture"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_picture">Slika</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
 ---------------------------------------------------------------------------------------
  <string name="motion_photo_toast_default">Privzeto</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="album_detail_default_sort_tip"
+---------------------------------------------------------------------------------------
+ <string name="album_detail_default_sort_tip">Zamenjano na kronološki vrstni red</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -911,9 +941,21 @@ folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_e
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">Ljudem ki so namestili to aplikacijo je všeč tudi</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
 ---------------------------------------------------------------------------------------
  <string name="default_permission_description">izvršiti neznano opravilo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">Ljudem ki so namestili to aplikacijo je všeč tudi</string>
 
 
 ---------------------------------------------------------------------------------------

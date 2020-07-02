@@ -695,6 +695,18 @@ folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_front_denoise_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_front_denoise_default">꺼짐</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_wind_denoise_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_wind_denoise_default">켜짐</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
 ---------------------------------------------------------------------------------------
  <string name="motion_photo_toast_default">기본값</string>
@@ -842,6 +854,18 @@ folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_e
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
 ---------------------------------------------------------------------------------------
  <string name="default_permission_description">알 수 없는 동작 수행</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">이 앱을 설치한 다른 사람들도 좋아합니다</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">이 앱을 설치한 다른 사람들도 좋아합니다</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2187,7 +2211,7 @@ folder="all" application="talkback.apk" xml="" name="granularity_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">기본값으로 설정</string>
+ <string name="change_default_dialer_dialog_affirmative">기본 전화앱으로 설정</string>
 
 
 ---------------------------------------------------------------------------------------

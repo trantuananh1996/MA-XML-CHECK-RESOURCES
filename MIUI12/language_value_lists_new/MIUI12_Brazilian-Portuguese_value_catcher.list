@@ -527,6 +527,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="album_detail_default_sort_tip"
+---------------------------------------------------------------------------------------
+ <string name="album_detail_default_sort_tip">Alterado para ordem cronológica</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
 ---------------------------------------------------------------------------------------
  <string name="announce_for_choose_default_screen">Tela %1$d definida como padrão</string>
@@ -614,6 +620,24 @@ folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_e
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
 ---------------------------------------------------------------------------------------
  <string name="default_permission_description">executar uma ação desconhecida</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">As pessoas que instalaram este aplicativo também gostaram</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">As pessoas que instalaram este aplicativo também gostaram</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="document_default_location"
+---------------------------------------------------------------------------------------
+ <string name="document_default_location">Local de armazenamento padrão:</string>
 
 
 ---------------------------------------------------------------------------------------

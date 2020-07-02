@@ -86,6 +86,7 @@ all MiuiGallery.apk strings.xml channel_default_name
 all MiuiGallery.apk strings.xml photomovie_audio_default
 all MiuiGallery.apk strings.xml photomovie_template_default
 all MiuiGallery.apk strings.xml security_share_subtitle_default
+all MiuiGallery.apk strings.xml album_detail_default_sort_tip
 all MiuiHome.apk strings.xml announce_for_choose_default_screen
 all MiuiHome.apk strings.xml announce_for_close_default_preview
 all MiuiHome.apk strings.xml announce_for_open_default_preview
@@ -101,6 +102,9 @@ all MiuiHome.apk strings.xml default_folder_title_other_apps
 all MiuiHome.apk strings.xml launcher_search_bar_value_disable
 all MiuiHome.apk strings.xml launcher_search_bar_value_enable
 all MiuiPackageInstaller.apk strings.xml default_permission_description
+all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
+all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
+all MiuiScanner.apk strings.xml document_default_location
 all MiuiSystemUI.apk strings.xml connected_via_network_scorer_default
 all MiuiSystemUI.apk strings.xml default_lockscreen_unlock_hint_text
 all MiuiSystemUI.apk strings.xml keyguard_carrier_default
