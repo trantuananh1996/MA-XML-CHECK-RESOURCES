@@ -11,6 +11,18 @@ folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="switch_audio_device_default"
+---------------------------------------------------------------------------------------
+ <string name="switch_audio_device_default">Implicit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="switch_audio_device_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="switch_audio_device_default_summary">Dispozitivul utilizat în prezent</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="browser_default_setting_cancel"
 ---------------------------------------------------------------------------------------
  <string name="browser_default_setting_cancel">Renunțați</string>
@@ -115,25 +127,31 @@ folder="all" application="Calculator.apk" xml="" name="unit_data_default_time_1"
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocity_0"
 ---------------------------------------------------------------------------------------
- <string name="unit_data_default_velocity_0">mps</string>
+ <string name="unit_data_default_velocity_0">m/s</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocity_1"
 ---------------------------------------------------------------------------------------
- <string name="unit_data_default_velocity_1">kmps</string>
+ <string name="unit_data_default_velocity_1">km/s</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_0"
 ---------------------------------------------------------------------------------------
- <string name="unit_data_default_volume_0">cu.m</string>
+ <string name="unit_data_default_volume_0">m cub</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_1"
 ---------------------------------------------------------------------------------------
- <string name="unit_data_default_volume_1">cu.cm</string>
+ <string name="unit_data_default_volume_1">cm cub</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="label_total_value"
+---------------------------------------------------------------------------------------
+ <string name="label_total_value">Valoarea totală</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -203,6 +221,12 @@ folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="DSI_value_get"
+---------------------------------------------------------------------------------------
+ <string name="DSI_value_get">obțineți DSI</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="battery_value"
 ---------------------------------------------------------------------------------------
  <string name="battery_value">Energie</string>
@@ -224,6 +248,24 @@ folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueR"
 folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueT"
 ---------------------------------------------------------------------------------------
  <string name="cit_audio_cali_valueT">Temp_act:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueF0"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_spk_cal_valueF0">F0:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueRe"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_spk_cal_valueRe">Re:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueT"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_spk_cal_valueT">Temp:</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -623,6 +665,30 @@ folder="all" application="Health.apk" xml="" name="value_error_correct"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Stocare în cloud</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="exception_default"
+---------------------------------------------------------------------------------------
+ <string name="exception_default">A apărut o eroare de sistem. Așteptați un minut sau două și încercați din nou.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir"
+---------------------------------------------------------------------------------------
+ <string name="setting_default_download_dir">Locația implicită de descărcare</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir_title"
+---------------------------------------------------------------------------------------
+ <string name="setting_default_download_dir_title">Selectați locația implicită de descărcare</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
 ---------------------------------------------------------------------------------------
  <string name="system_default">Implicit</string>
@@ -662,6 +728,12 @@ folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_h
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
  <string name="signature_default_content">"Crede întotdeauna că ceva minunat urmează să se întâmple"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="audio_relay_default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="audio_relay_default_device_name">Boxă Mi AI</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1061,6 +1133,12 @@ folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_de
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="document_default_location"
+---------------------------------------------------------------------------------------
+ <string name="document_default_location">"Fișierele vor fi salvate în "</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_focusmode_default">fotografiere continuă</string>
@@ -1123,7 +1201,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="nav_bar_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="notification_default_channel_desc"
 ---------------------------------------------------------------------------------------
- <string name="notification_default_channel_desc">"Această aplicație nu are categorii de notificări"</string>
+ <string name="notification_default_channel_desc">Această aplicație nu are categorii de notificări</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1159,7 +1237,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="quick_settings_tiles_default"
 ---------------------------------------------------------------------------------------
- <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,freeformhang,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit</string>
+ <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,freeformhang,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,custom(com.google.android.gms/.nearby.sharing.SharingTileService),screenbutton,wirelesspower,nfc,edit</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1451,6 +1529,12 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="gb_gpu_custom_texture_value"
+---------------------------------------------------------------------------------------
+ <string-array name="gb_gpu_custom_texture_value"> <item>Cel mai rapid</item> <item>Balansat</item> <item>Implicit</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
 ---------------------------------------------------------------------------------------
  <string name="ad_btn_default_text">Aflați mai multe</string>
@@ -1484,6 +1568,24 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_o
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_setting"
 ---------------------------------------------------------------------------------------
  <string name="app_manager_defaults_setting">Aplicații implicite</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">Partajați în mod implicit fără metadate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">Elimină informațiile despre locație din fotografiile partajate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Partajați în mod implicit fără informațiile despre locație</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1571,6 +1673,18 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Culori complete</item> <item>Culori deschise</item> <item>Alb și negru</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Culori complete</item> <item>Culori deschise</item> <item>Alb și negru</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="accessibility_summary_default_combination"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_summary_default_combination">%1$s / %2$s</string>
@@ -1652,6 +1766,12 @@ folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
 folder="all" application="Settings.apk" xml="" name="default_for_sms"
 ---------------------------------------------------------------------------------------
  <string name="default_for_sms">Implicit pentru SMS-uri</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_keyboard"
+---------------------------------------------------------------------------------------
+ <string name="default_keyboard">Implicită</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1891,7 +2011,7 @@ folder="all" application="SpacesPolicyApp.apk" xml="" name="default_space_name"
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_call_screening_dialog_affirmative">Setați ca Implicit</string>
+ <string name="change_default_call_screening_dialog_affirmative">Setați ca implicit</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1921,7 +2041,7 @@ folder="all" application="Telecom.apk" xml="" name="change_default_call_screenin
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">Setați ca aplicație implicită de apelare</string>
+ <string name="change_default_dialer_dialog_affirmative">Setați ca implicită</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1979,6 +2099,12 @@ folder="all" application="TeleService.apk" xml="" name="dialer_default_class"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="kddi_sim_lock_status_default_code"
+---------------------------------------------------------------------------------------
+ <string name="kddi_sim_lock_status_default_code">-</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
  <string name="launch_defaults_some">Unele aplicații implicite setate</string>
@@ -1993,7 +2119,7 @@ folder="all" application="TeleService.apk" xml="" name="msim_select_default_time
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
 ---------------------------------------------------------------------------------------
- <string name="msim_setting_default_data">Cartelă pentru date</string>
+ <string name="msim_setting_default_data">SIM pentru date</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2005,7 +2131,7 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_dat
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
 ---------------------------------------------------------------------------------------
- <string name="msim_setting_default_voice">Implicită pentru apeluri</string>
+ <string name="msim_setting_default_voice">SIM pentru apeluri</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2125,13 +2251,19 @@ folder="all" application="Traceur.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
 folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_content"
 ---------------------------------------------------------------------------------------
- <string name="default_filedownloader_notification_content">DescărcareaFișierelor rulează.</string>
+ <string name="default_filedownloader_notification_content">Descărcarea Fișierelor rulează.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_title"
 ---------------------------------------------------------------------------------------
- <string name="default_filedownloader_notification_title">DescărcareaFișierelor</string>
+ <string name="default_filedownloader_notification_title">Descărcarea Fișierelor</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="settings_atmospheric_pressure_default"
+---------------------------------------------------------------------------------------
+ <string name="settings_atmospheric_pressure_default">0</string>
 
 
 ---------------------------------------------------------------------------------------

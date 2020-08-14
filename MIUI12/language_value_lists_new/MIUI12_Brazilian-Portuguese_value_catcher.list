@@ -29,6 +29,18 @@ folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="switch_audio_device_default"
+---------------------------------------------------------------------------------------
+ <string name="switch_audio_device_default">Padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="switch_audio_device_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="switch_audio_device_default_summary">Dispositivo usado atualmente</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="ad_btn_default_text"
 ---------------------------------------------------------------------------------------
  <string name="ad_btn_default_text">Instalar</string>
@@ -56,6 +68,12 @@ folder="all" application="Browser.apk" xml="" name="browser_default_setting_cont
 folder="all" application="Browser.apk" xml="" name="browser_default_setting_title"
 ---------------------------------------------------------------------------------------
  <string name="browser_default_setting_title">Definir como navegador padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="label_total_value"
+---------------------------------------------------------------------------------------
+ <string name="label_total_value">Valor total</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -353,6 +371,30 @@ folder="all" application="Health.apk" xml="" name="value_error_correct"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Armazenamento na nuvem</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="exception_default"
+---------------------------------------------------------------------------------------
+ <string name="exception_default">Não foi possível criar a pasta. Já existe uma pasta com esse nome</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir"
+---------------------------------------------------------------------------------------
+ <string name="setting_default_download_dir">Local padrão de downloads</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir_title"
+---------------------------------------------------------------------------------------
+ <string name="setting_default_download_dir_title">Selecione o local padrão dos downloads</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiSettings.apk" xml="" name="restore_default"
 ---------------------------------------------------------------------------------------
  <string name="restore_default">Restaurar padrões</string>
@@ -362,6 +404,12 @@ folder="all" application="MiSettings.apk" xml="" name="restore_default"
 folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 ---------------------------------------------------------------------------------------
  <string name="hsv_space_color_value">Valor</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiShare.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Dispositivo desconhecido</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -446,6 +494,12 @@ folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_title
 folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
  <string name="tts_default_sample_string">Este é um exemplo de síntese de fala</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="audio_relay_default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="audio_relay_default_device_name">Falantes Xioami AI</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -637,7 +691,7 @@ folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_def
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="document_default_location"
 ---------------------------------------------------------------------------------------
- <string name="document_default_location">Local de armazenamento padrão:</string>
+ <string name="document_default_location">"Os arquivos serão salvos em "</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -716,6 +770,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_dev
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">Modo %s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite_default_title"
+---------------------------------------------------------------------------------------
+ <string name="controls_favorite_default_title">Controles</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1097,6 +1157,24 @@ folder="all" application="SecurityCenter.apk" xml="" name="power_dialog_delete_d
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">Compartilhar sem metadados por padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">More as informações de localização das fotos compartilhadas</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Compartilhar sem informações de localização por padrão</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">Selecionar operadora</string>
@@ -1385,6 +1463,18 @@ folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_none"
+---------------------------------------------------------------------------------------
+<string name="smart_home_value_none">Nenhum</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_unknown"
+---------------------------------------------------------------------------------------
+<string name="smart_home_value_unknown">Desconhecido</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
 ---------------------------------------------------------------------------------------
  <string name="err_msg_pending_value">Estimando o custo…</string>
@@ -1409,12 +1499,6 @@ folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
----------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">Definir como app de Telefone padrão</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_negative"
 ---------------------------------------------------------------------------------------
  <string name="change_default_dialer_dialog_negative">Cancelar</string>
@@ -1424,6 +1508,18 @@ folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_warning_message"
 ---------------------------------------------------------------------------------------
  <string name="change_default_dialer_warning_message">O app %s poderá fazer e controlar todos os aspectos de chamadas telefônicas. Somente apps em que você confie devem ser definidos como o app padrão de telefonia.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_affirmative">Definir como padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_affirmative">Definir como padrão</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -19,6 +19,8 @@ all Settings.apk strings.xml notification_sound_default
 all Settings.apk strings.xml wallpaper_settings_summary_default
 all Bluetooth.apk strings.xml bt_sm_2_1_default
 all Bluetooth.apk strings.xml status_no_sd_card_default
+all Bluetooth.apk strings.xml switch_audio_device_default
+all Bluetooth.apk strings.xml switch_audio_device_default_summary
 all Browser.apk strings.xml download_dialog_file_length_default_txt
 all Browser.apk strings.xml mw_color_picker_value
 all Calendar.apk arrays.xml default_reminder_later_time_labels
@@ -83,6 +85,10 @@ all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
 all Health.apk strings.xml user_invalid_value
 all Health.apk strings.xml value_error_correct
+all MiDrive.apk strings.xml cloud_storage_default_title
+all MiDrive.apk strings.xml exception_default
+all MiDrive.apk strings.xml setting_default_download_dir
+all MiDrive.apk strings.xml setting_default_download_dir_title
 all MiGalleryLockscreen.apk strings.xml system_default
 all MiLauncherGlobal.apk arrays.xml cell_layout_size_values
 all MiLauncherGlobal.apk arrays.xml cell_layout_size_values
@@ -115,6 +121,7 @@ all MiShare.apk strings.xml default_device_name
 all MiuiAccessibility.apk strings.xml preference_value_create_shortcut
 all MiuiAccessibility.apk strings.xml preference_value_has_shortcut
 all MiuiAod.apk strings.xml signature_default_content
+all MiuiBluetooth.apk strings.xml audio_relay_default_device_name
 all MiuiBluetooth.apk strings.xml connected_via_network_scorer_default
 all MiuiBluetooth.apk strings.xml launch_defaults_none
 all MiuiBluetooth.apk strings.xml launch_defaults_some
@@ -174,6 +181,7 @@ all MiuiSystemUI.apk strings.xml notification_header_default_channel
 all MiuiSystemUI.apk strings.xml quick_settings_cast_device_default_description
 all MiuiSystemUI.apk strings.xml quick_settings_cast_device_default_name
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
+all MiuiSystemUIPlugin.apk strings.xml controls_favorite_default_title
 all MiuiVideoGlobal.apk strings.xml alert_dialog_download_default_title
 all MiuiVideoGlobal.apk strings.xml cast_notification_default_channel_name
 all MiuiVideoGlobal.apk strings.xml cast_tracks_chooser_dialog_default_track_name
@@ -279,6 +287,9 @@ all SecurityCenter.apk strings.xml app_manager_default_open_title
 all SecurityCenter.apk strings.xml app_manager_defaults_setting
 all SecurityCenter.apk strings.xml cpu_usage_app_bg_restrict_default
 all SecurityCenter.apk strings.xml cpu_usage_app_bg_restrict_default_short
+all SecurityCenter.apk strings.xml first_settings_default_camera_title
+all SecurityCenter.apk strings.xml first_settings_default_location_subtitle
+all SecurityCenter.apk strings.xml first_settings_default_location_title
 all SecurityCenter.apk strings.xml tc_diagnostic_fragment_default
 all SecurityCenter.apk strings.xml traffic_setting_fragment_default
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
@@ -292,6 +303,8 @@ all SecurityCoreAdd.apk strings.xml xspace_default_guide_notification_xspace_tit
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_dialog_title
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_label
 all Settings.apk arrays.xml default_vol_stream_entries
+all Settings.apk arrays.xml paper_color_values
+all Settings.apk arrays.xml paper_color_values
 all Settings.apk strings.xml accessibility_timeout_default
 all Settings.apk strings.xml account_dashboard_default_summary
 all Settings.apk strings.xml app_default_dashboard_title
@@ -340,6 +353,8 @@ all Settings.apk strings.xml usb_default_label
 all Settings.apk strings.xml wallpaper_settings_summary_default
 all Settings.apk strings.xml wifi_badging_thresholds_default
 all Settings.apk strings.xml zen_mode_custom_behavior_summary_default
+all Settings.apk strings.xml smart_home_value_none
+all Settings.apk strings.xml smart_home_value_unknown
 all Settings.apk strings.xml tether_limit_value_custom
 all Telecom.apk strings.xml change_default_call_screening_dialog_affirmative
 all Telecom.apk strings.xml change_default_call_screening_dialog_negative
@@ -355,6 +370,7 @@ all TeleService.apk strings.xml connected_via_network_scorer_default
 all TeleService.apk strings.xml default_preference_summary_domain_address
 all TeleService.apk strings.xml default_preference_summary_password
 all TeleService.apk strings.xml default_preference_summary_username
+all TeleService.apk strings.xml kddi_sim_lock_status_default_code
 all TeleService.apk strings.xml launch_defaults_some
 all TeleService.apk strings.xml msim_select_default_time_left
 all TeleService.apk strings.xml msim_setting_default_data

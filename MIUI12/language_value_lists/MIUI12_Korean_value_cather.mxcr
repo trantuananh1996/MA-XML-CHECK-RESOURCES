@@ -3,6 +3,8 @@ all Bluetooth.apk strings.xml map_defaultname
 all Bluetooth.apk strings.xml map_defaultnumber
 all Bluetooth.apk strings.xml bt_sm_2_1_default
 all Bluetooth.apk strings.xml status_no_sd_card_default
+all Bluetooth.apk strings.xml switch_audio_device_default
+all Bluetooth.apk strings.xml switch_audio_device_default_summary
 all Browser.apk strings.xml download_dialog_file_length_default_txt
 all Browser.apk strings.xml mw_js_dialog_title_default
 all Browser.apk strings.xml topic_content_default
@@ -26,6 +28,7 @@ all BugReport.apk strings.xml default_text_view
 all CABLService.apk strings.xml cabl_info_default
 all Calculator.apk strings.xml sin_mathematical_value
 all Calculator.apk strings.xml tan_mathematical_value
+all Calculator.apk strings.xml label_total_value
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
@@ -108,6 +111,7 @@ all MiSettings.apk strings.xml hsv_space_color_value
 all MiShare.apk strings.xml default_device_name
 all MiuiAod.apk strings.xml signature_default_content
 all miui.apk strings.xml security_share_subtitle_default
+all MiuiBluetooth.apk strings.xml audio_relay_default_device_name
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml pref_camera_photostyle_default
 all MiuiCamera.apk strings.xml pref_camera_focusmode_default
@@ -145,6 +149,7 @@ all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
 all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
 all MiuiScanner.apk strings.xml pref_camera_focusmode_default
 all MiuiScanner.apk strings.xml setting_default_function
+all MiuiScanner.apk strings.xml document_default_location
 all MiuiScanner.apk strings.xml language_value_danish
 all MiuiScanner.apk strings.xml language_value_dutch
 all MiuiScanner.apk strings.xml language_value_english
@@ -173,6 +178,13 @@ all MiuiSystemUI.apk strings.xml notification_header_default_channel
 all MiuiSystemUI.apk strings.xml quick_settings_cast_device_default_description
 all MiuiSystemUI.apk strings.xml quick_settings_cast_device_default_name
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
+all MiuiSystemUiPlugin.apk strings.xml controls_favorite_default_title
+all MiuiTelecomOverlay.apk strings.xml change_default_call_screening_dialog_affirmative
+all MiuiTelecomOverlay.apk strings.xml change_default_call_screening_dialog_negative
+all MiuiTelecomOverlay.apk strings.xml change_default_call_screening_dialog_title
+all MiuiTelecomOverlay.apk strings.xml change_default_call_screening_warning_message
+all MiuiTelecomOverlay.apk strings.xml change_default_call_screening_warning_message_for_disable_old_app
+all MiuiTelecomOverlay.apk strings.xml change_default_dialer_dialog_affirmative
 all MiuiVideo.apk strings.xml subtitle_padding_default_hint
 all MiuiVideo.apk strings.xml alert_dialog_download_default_title
 all MiuiVideo.apk strings.xml v_defaultsearch_name
@@ -298,6 +310,9 @@ all SecurityCenter.apk strings.xml app_manager_defaults_setting
 all SecurityCenter.apk strings.xml lucky_alarm_count_down_default
 all SecurityCenter.apk strings.xml tc_diagnostic_fragment_default
 all SecurityCenter.apk strings.xml traffic_setting_fragment_default
+all SecurityCenter.apk strings.xml first_settings_default_camera_title
+all SecurityCenter.apk strings.xml first_settings_default_location_subtitle
+all SecurityCenter.apk strings.xml first_settings_default_location_title
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
 all SecurityCoreAdd.apk strings.xml xspace_default_app_summary
 all SecurityCoreAdd.apk strings.xml space_name_default
@@ -309,6 +324,8 @@ all SecurityCoreAdd.apk strings.xml xspace_default_guide_notification_content
 all SecurityCoreAdd.apk strings.xml xspace_default_guide_notification_main_title
 all SecurityCoreAdd.apk strings.xml xspace_default_guide_notification_xspace_title
 all Settings.apk arrays.xml default_vol_stream_entries
+all Settings.apk arrays.xml paper_color_values
+all Settings.apk arrays.xml paper_color_values
 all Settings.apk strings.xml keywords_default_browser
 all Settings.apk strings.xml keywords_default_links
 all Settings.apk strings.xml keywords_default_payment_app
@@ -357,6 +374,15 @@ all Settings.apk strings.xml theme_customization_device_default
 all Settings.apk strings.xml zen_mode_custom_behavior_summary_default
 all Settings.apk strings.xml default_suppression_title
 all Settings.apk strings.xml default_keyboard
+all Settings.apk strings.xml accessibility_autoclick_default_title
+all Settings.apk strings.xml cached_apps_freezer_device_default
+all Settings.apk strings.xml default_digital_assistant_title
+all Settings.apk strings.xml graphics_driver_app_preference_default
+all Settings.apk strings.xml nfc_payment_update_default_label
+all Settings.apk strings.xml platform_compat_default_disabled_title
+all Settings.apk strings.xml platform_compat_default_enabled_title
+all Settings.apk strings.xml preference_summary_default_combination
+all Settings.apk strings.xml system_default_app_subtext
 all Settings.apk strings.xml tether_limit_value_custom
 all SoundRecorder.apk strings.xml err_msg_pending_value
 all SoundRecorder.apk strings.xml online_recognize_order_service_type_value
