@@ -384,6 +384,8 @@ all Settings.apk strings.xml platform_compat_default_enabled_title
 all Settings.apk strings.xml preference_summary_default_combination
 all Settings.apk strings.xml system_default_app_subtext
 all Settings.apk strings.xml tether_limit_value_custom
+all Settings.apk strings.xml smart_home_value_none
+all Settings.apk strings.xml smart_home_value_unknown
 all SoundRecorder.apk strings.xml err_msg_pending_value
 all SoundRecorder.apk strings.xml online_recognize_order_service_type_value
 all SoundRecorder.apk strings.xml online_recognize_order_unit_price_value
@@ -447,6 +449,7 @@ all Videos.apk strings.xml locale_default
 all Videos.apk strings.xml color_default
 all Videos.apk strings.xml edge_type_default
 all Weather.apk strings.xml information_manager_default_weather_bg
+all XiaomiAccount.apk strings.xml com_facebook_tooltip_default
 all XMRemoteController.apk strings.xml feedback_desc_default
 all YellowPage.apk strings.xml navigation_search_default_hint
 all Zman.apk strings.xml first_settings_default_camera_title

@@ -713,6 +713,12 @@ folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiShare.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Unknown device</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_create_shortcut"
 ---------------------------------------------------------------------------------------
  <string name="preference_value_create_shortcut">Creați</string>
@@ -1232,6 +1238,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_dev
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">Mod %s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite_default_title"
+---------------------------------------------------------------------------------------
+ <string name="controls_favorite_default_title">Controale</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1976,6 +1988,18 @@ folder="all" application="Settings.apk" xml="" name="wifi_badging_thresholds_def
 folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
 ---------------------------------------------------------------------------------------
  <string name="zen_mode_custom_behavior_summary_default">Utilizați setările implicite</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_none"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_none">Nimic</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_unknown"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_unknown">Necunoscut</string>
 
 
 ---------------------------------------------------------------------------------------

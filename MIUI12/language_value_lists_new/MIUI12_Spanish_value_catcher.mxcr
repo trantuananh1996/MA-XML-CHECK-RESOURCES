@@ -376,6 +376,8 @@ all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiAccessibility.apk strings.xml preference_value_create_shortcut
 all MiuiAccessibility.apk strings.xml preference_value_has_shortcut
 all MiuiAod.apk strings.xml signature_default_content
+all MiuiBluetooth.apk strings.xml launch_defaults_none
+all MiuiBluetooth.apk strings.xml launch_defaults_some
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
 all MiuiCamera.apk strings.xml custom_sound_default
@@ -426,6 +428,9 @@ all MiuiHome.apk strings.xml default_shortcut_title_10086
 all MiuiHome.apk strings.xml menu_default_screen_preview
 all MiuiHome.apk strings.xml launcher_search_bar_value_disable
 all MiuiHome.apk strings.xml launcher_search_bar_value_enable
+all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
+all MiuiPackageInstaller.apk strings.xml default_permission_description
+all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
 all MiuiScanner.apk strings.xml setting_default_function
 all MiuiScreenRecorder.apk arrays.xml screenrecorder_settings_resolution_values
 all MiuiScreenRecorder.apk arrays.xml screenrecorder_settings_resolution_values
