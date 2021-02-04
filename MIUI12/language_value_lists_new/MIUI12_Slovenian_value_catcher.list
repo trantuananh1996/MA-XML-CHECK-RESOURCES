@@ -203,6 +203,12 @@ folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="trust_certificate_validity_period_value"
+---------------------------------------------------------------------------------------
+ <string name="trust_certificate_validity_period_value">%1$s – %2$s</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="CellBroadcastReceiver.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
  <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
@@ -475,7 +481,7 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>Glava računa: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Naslov: Ulica, Stanovanje, Mesto, Država/Regija, Pokrajina, Poštna številka</item> <item>Prosim da pustite paket pred vrati. Hvala!</item> <item>"Počakajte minuto, takoj pridem."</item> <item>"Sem na sestanku. Pošljite SMS."</item> <item>"Zdaj ne morem govoriti. Pokličem nazaj."</item> <item>Hvala!</item> </string-array>
+ <string-array name="default_phrases"> <item>Glava računa: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data data_ fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Naslov: Ulica, Stanovanje, Mesto, Država/Regija, Pokrajina, Poštna številka</item> <item>Prosim da pustite paket pred vrati. Hvala!</item> <item>"Počakajte minuto, takoj pridem."</item> <item>"Sem na sestanku. Pošljite SMS."</item> <item>"Zdaj ne morem govoriti. Pokličem nazaj."</item> <item>Hvala!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -698,6 +704,12 @@ folder="all" application="MiRadio.apk" xml="" name="empty_view_default_text"
 folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 ---------------------------------------------------------------------------------------
  <string name="default_error_msg">Nekaj je bilo narobe!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mirror.apk" xml="" name="default_boss_terminal_name"
+---------------------------------------------------------------------------------------
+ <string name="default_boss_terminal_name">Mi Notebook</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1196,6 +1208,12 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="subtitle_padding_def
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="t_lv_subtitle_padding_default_hint">Prilagajanje podnapisov…</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="default_google_message_promo_content"
+---------------------------------------------------------------------------------------
+ <string name="default_google_message_promo_content">"Google sporočila ste nastavili kot privzeto aplikacijo za sporočanje. Dotaknite se \"Odpri\" da začnete pošiljati sporočila."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1721,6 +1739,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="bottom_func_guide_default_text"
+---------------------------------------------------------------------------------------
+ <string name="bottom_func_guide_default_text">Več storitev</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_restrict_default"
 ---------------------------------------------------------------------------------------
  <string name="cpu_usage_app_bg_restrict_default">Samod. (priporočeno)</string>
@@ -1841,6 +1865,12 @@ folder="all" application="Settings.apk" xml="" name="paper_color_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_autoclick_default_title"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_autoclick_default_title">Izklopljeno</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_timeout_default">Privzeto</string>
@@ -1871,6 +1901,12 @@ folder="all" application="Settings.apk" xml="" name="auto_brightness_summary_def
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Privzeto</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">Samodejno vzpostavljena povezava preko ponudnika ocenjevanja omrežij</string>
@@ -1895,6 +1931,12 @@ folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_digital_assistant_title"
+---------------------------------------------------------------------------------------
+ <string name="default_digital_assistant_title">Privzeta apl. digital. asistenta</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_for_calls"
 ---------------------------------------------------------------------------------------
  <string name="default_for_calls">Privzeto za klice</string>
@@ -1903,7 +1945,7 @@ folder="all" application="Settings.apk" xml="" name="default_for_calls"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
 ---------------------------------------------------------------------------------------
- <string name="default_for_calls_and_sms">Privzeto za klice in SMS-je</string>
+ <string name="default_for_calls_and_sms">Privzeto za klice in SMS-e</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1915,7 +1957,7 @@ folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_for_sms"
 ---------------------------------------------------------------------------------------
- <string name="default_for_sms">Privzeto za SMS-je</string>
+ <string name="default_for_sms">Privzeto za SMS-e</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2003,6 +2045,12 @@ folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="graphics_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="graphics_driver_app_preference_default">Privzeto</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="importance_default"
 ---------------------------------------------------------------------------------------
  <string name="importance_default">Privzeto</string>
@@ -2045,6 +2093,12 @@ folder="all" application="Settings.apk" xml="" name="modify_default_browser_mess
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="nfc_payment_update_default_label"
+---------------------------------------------------------------------------------------
+ <string name="nfc_payment_update_default_label">Posodobite privzeto aplikacijo za plačilo</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 ---------------------------------------------------------------------------------------
  <string name="notifi_importance_default">Predvajaj zvok.</string>
@@ -2075,6 +2129,18 @@ folder="all" application="Settings.apk" xml="" name="overlay_option_device_defau
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="platform_compat_default_disabled_title"
+---------------------------------------------------------------------------------------
+ <string name="platform_compat_default_disabled_title">Privzeto onemogočene spremembe</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="platform_compat_default_enabled_title"
+---------------------------------------------------------------------------------------
+ <string name="platform_compat_default_enabled_title">Privzeto omogočene spremembe</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="preference_summary_default_combination"
 ---------------------------------------------------------------------------------------
  <string name="preference_summary_default_combination">%1$s / %2$s</string>
@@ -2090,6 +2156,12 @@ folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
 folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
 ---------------------------------------------------------------------------------------
  <string name="slider_vocie_online_default">Nič</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="system_default_app_subtext"
+---------------------------------------------------------------------------------------
+ <string name="system_default_app_subtext">Sistemsko privzeto</string>
 
 
 ---------------------------------------------------------------------------------------

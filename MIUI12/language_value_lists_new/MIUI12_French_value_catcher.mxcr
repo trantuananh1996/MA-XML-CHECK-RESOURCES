@@ -237,6 +237,7 @@ all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
 all Health.apk strings.xml user_invalid_value
 all Health.apk strings.xml value_error_correct
+all ManagedProvisioning.apk strings.xml car_ui_toolbar_default_search_hint
 all MiDrive.apk strings.xml cloud_storage_default_title
 all MiDrive.apk strings.xml exception_default
 all MiDrive.apk strings.xml setting_default_download_dir
@@ -364,6 +365,7 @@ all PaymentService.apk strings.xml mibi_recharge_value_money_special_unit
 all PaymentService.apk strings.xml mibi_unit_value
 all PaymentService.apk strings.xml mibi_unit_value_redeemed
 all PaymentService.apk strings.xml mibi_unit_value_remained
+all PersonalAssistant.apk strings.xml agenda_default
 all PersonalAssistant.apk strings.xml display_weather_default
 all PersonalAssistant.apk strings.xml navigation_search_default_hint
 all PersonalAssistant.apk strings.xml notification_channel_default

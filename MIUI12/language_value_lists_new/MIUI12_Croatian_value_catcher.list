@@ -203,6 +203,12 @@ folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="trust_certificate_validity_period_value"
+---------------------------------------------------------------------------------------
+ <string name="trust_certificate_validity_period_value">%1$s – %2$s (neće se primoravati)</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="CellBroadcastReceiver.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
  <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
@@ -476,7 +482,7 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>Zaglavlje računa: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adresa: Ulica, Stan, Grad, Država/Regija, Pokrajina, Poštanski broj</item> <item>Molim vas, ostavite paket pred vratima. Hvala!</item> <item>"Pričekajte minutu, odmah se vraćam."</item> <item>"Na sastanku sam. Pošaljite SMS poruku."</item> <item>"Ne mogu sada razgovarati. Nazvat ću te što prije."</item> <item>Hvala!</item> </string-array>
+ <string-array name="default_phrases"> <item>Zaglavlje računa: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data data_ fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adresa: Ulica, Stan, Grad, Država/Regija, Pokrajina, Poštanski broj</item> <item>Molim vas, ostavite paket pred vratima. Hvala!</item> <item>"Pričekajte minutu, odmah se vraćam."</item> <item>"Na sastanku sam. Pošaljite SMS poruku."</item> <item>"Ne mogu sada razgovarati. Nazvat ću te što prije."</item> <item>Hvala!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -678,6 +684,12 @@ folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mirror.apk" xml="" name="default_boss_terminal_name"
+---------------------------------------------------------------------------------------
+ <string name="default_boss_terminal_name">Mi Notebook</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiSettings.apk" xml="" name="restore_default"
 ---------------------------------------------------------------------------------------
  <string name="restore_default">Vrati na zadane postavke</string>
@@ -717,6 +729,12 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 folder="all" application="MiuiBluetooth.apk" xml="" name="audio_relay_default_device_name"
 ---------------------------------------------------------------------------------------
  <string name="audio_relay_default_device_name">XiaoAi zvučnici</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Zadani uređaj</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -984,6 +1002,12 @@ folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Device default</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">Automatski povezan putem ocjenjivača mreže</string>
@@ -1010,7 +1034,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="keyguard_carrier_defaul
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Neke su zadane postavljene</string>
+ <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1053,6 +1077,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="notification_default_ch
 folder="all" application="MiuiSystemUI.apk" xml="" name="notification_header_default_channel"
 ---------------------------------------------------------------------------------------
  <string name="notification_header_default_channel">Obavijesti</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1173,6 +1203,12 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="subtitle_padding_def
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="t_lv_subtitle_padding_default_hint">Podešavanje titlova…</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="default_google_message_promo_content"
+---------------------------------------------------------------------------------------
+ <string name="default_google_message_promo_content">"Googleove poruke postavili ste kao zadanu aplikaciju za razmjenu poruka. Dodirnite \"Otvori\" za početak slanja poruka."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1692,6 +1728,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="bottom_func_guide_default_text"
+---------------------------------------------------------------------------------------
+ <string name="bottom_func_guide_default_text">Više značajki</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_restrict_default"
 ---------------------------------------------------------------------------------------
  <string name="cpu_usage_app_bg_restrict_default">Autom. (preporučeno)</string>
@@ -1812,6 +1854,12 @@ folder="all" application="Settings.apk" xml="" name="paper_color_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_autoclick_default_title"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_autoclick_default_title">Isključeno</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_timeout_default">Zadano</string>
@@ -1842,6 +1890,12 @@ folder="all" application="Settings.apk" xml="" name="auto_brightness_summary_def
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Device default</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">Automatski povezan putem ocjenjivača mreže</string>
@@ -1863,6 +1917,12 @@ folder="all" application="Settings.apk" xml="" name="default_calendar_app_title"
 folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
 ---------------------------------------------------------------------------------------
  <string name="default_contacts_app_title">Aplikacija Kontakti</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_digital_assistant_title"
+---------------------------------------------------------------------------------------
+ <string name="default_digital_assistant_title">Zadana apl. digital. asistenta</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1974,6 +2034,12 @@ folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="graphics_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="graphics_driver_app_preference_default">Zadano</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="importance_default"
 ---------------------------------------------------------------------------------------
  <string name="importance_default">Zadano</string>
@@ -2016,6 +2082,12 @@ folder="all" application="Settings.apk" xml="" name="modify_default_browser_mess
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="nfc_payment_update_default_label"
+---------------------------------------------------------------------------------------
+ <string name="nfc_payment_update_default_label">Update default payment app</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 ---------------------------------------------------------------------------------------
  <string name="notifi_importance_default">Reproduciraj zvuk</string>
@@ -2024,7 +2096,7 @@ folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="notification_channel_summary_default">Može zvoniti ili vibrirati na temelju postavki telefona</string>
+ <string name="notification_channel_summary_default">Privlači vašu pažnju zvučnim signalima ili vibracijama</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2046,6 +2118,18 @@ folder="all" application="Settings.apk" xml="" name="overlay_option_device_defau
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="platform_compat_default_disabled_title"
+---------------------------------------------------------------------------------------
+ <string name="platform_compat_default_disabled_title">Zadane onemogućene promjene</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="platform_compat_default_enabled_title"
+---------------------------------------------------------------------------------------
+ <string name="platform_compat_default_enabled_title">Zadane omogućene promjene</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="preference_summary_default_combination"
 ---------------------------------------------------------------------------------------
  <string name="preference_summary_default_combination">%1$s / %2$s</string>
@@ -2061,6 +2145,12 @@ folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
 folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
 ---------------------------------------------------------------------------------------
  <string name="slider_vocie_online_default">Ništa</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="system_default_app_subtext"
+---------------------------------------------------------------------------------------
+ <string name="system_default_app_subtext">Zadane postavke sustava</string>
 
 
 ---------------------------------------------------------------------------------------

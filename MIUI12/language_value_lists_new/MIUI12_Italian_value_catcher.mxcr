@@ -76,6 +76,7 @@ all Calendar.apk strings.xml pref_default_popup_alert_value
 all Calendar.apk strings.xml preferences_default_allday_reminder_default_value
 all Calendar.apk strings.xml preferences_default_reminder_default_value
 all Calendar.apk strings.xml preferences_default_reminder_later_time_default_value
+all Calendar.apk strings.xml trust_certificate_validity_period_value
 all CellBroadcastReceiver.apk arrays.xml alert_reminder_interval_active_values
 all CellBroadcastReceiver.apk arrays.xml alert_reminder_interval_values
 all CellBroadcastReceiver.apk arrays.xml alert_reminder_interval_active_values
@@ -221,8 +222,6 @@ all ManagedProvisioning.apk strings.xml car_ui_alert_dialog_default_button
 all ManagedProvisioning.apk strings.xml car_ui_toolbar_default_search_hint
 all MiDrive.apk strings.xml cloud_storage_default_title
 all MiDrive.apk strings.xml exception_default
-all MiDrive.apk strings.xml setting_default_download_dir
-all MiDrive.apk strings.xml setting_default_download_dir_title
 all MiGalleryLockscreen.apk strings.xml local_default_category
 all MiGalleryLockscreen.apk strings.xml system_default
 all MiMover.apk arrays.xml document_default_extensions
@@ -463,6 +462,7 @@ all Mms.apk arrays.xml rcs_quality_value
 all Mms.apk arrays.xml rf_value
 all Mms.apk arrays.xml switch_sdk_value
 all Mms.apk arrays.xml contact_values
+all Mms.apk strings.xml default_google_message_promo_content
 all Mms.apk strings.xml private_entry_default
 all Mms.apk strings.xml rcs_pref_default_sending_method
 all Mms.apk strings.xml rcs_pref_picture_message_default_quality
@@ -529,12 +529,17 @@ all SecurityCenter.apk strings.xml app_manager_default_close_summary
 all SecurityCenter.apk strings.xml app_manager_default_open_summary
 all SecurityCenter.apk strings.xml app_manager_default_open_title
 all SecurityCenter.apk strings.xml app_manager_defaults_setting
+all SecurityCenter.apk strings.xml ew_signature_default
 all SecurityCenter.apk strings.xml first_settings_default_camera_title
 all SecurityCenter.apk strings.xml first_settings_default_location_subtitle
 all SecurityCenter.apk strings.xml first_settings_default_location_title
 all SecurityCenter.apk strings.xml lucky_alarm_count_down_default
 all SecurityCenter.apk strings.xml traffic_setting_fragment_default
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
+all SecurityCenter.apk strings.xml ew_settings_choose_level_value_1
+all SecurityCenter.apk strings.xml ew_settings_choose_level_value_2
+all SecurityCenter.apk strings.xml ew_settings_choose_level_value_3
+all SecurityCenter.apk strings.xml ew_settings_choose_level_value_4
 all SecurityCoreAdd.apk strings.xml space_des_default
 all SecurityCoreAdd.apk strings.xml space_name_default
 all SecurityCoreAdd.apk strings.xml xspace_default_app_summary
@@ -837,6 +842,8 @@ all Settings.apk strings.xml input_method_selector_always_hide_value
 all Settings.apk strings.xml input_method_selector_always_show_value
 all Settings.apk strings.xml input_method_selector_show_automatically_value
 all Settings.apk strings.xml input_method_selector_visibility_default_value
+all Settings.apk strings.xml smart_home_value_none
+all Settings.apk strings.xml smart_home_value_unknown
 all Settings.apk strings.xml tether_limit_value_custom
 all SoundPicker.apk strings.xml alarm_sound_default
 all SoundPicker.apk strings.xml notification_sound_default

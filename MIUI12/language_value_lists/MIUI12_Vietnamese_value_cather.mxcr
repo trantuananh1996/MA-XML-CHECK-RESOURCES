@@ -45,6 +45,8 @@ all Calculator.apk strings.xml default_separator_text
 all Calculator.apk strings.xml default_text
 all Calculator.apk strings.xml relationship_default_separator_text
 all Calculator.apk strings.xml relationship_default_text
+all Calculator.apk strings.xml unit_data_default_data_0
+all Calculator.apk strings.xml unit_data_default_data_1
 all Calculator.apk strings.xml label_total_value
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml entryvalues_settings_debug
@@ -561,7 +563,13 @@ all SecurityCenter.apk strings.xml power_dialog_delete_dialog_cannot_delete_defa
 all SecurityCenter.apk strings.xml first_settings_default_camera_title
 all SecurityCenter.apk strings.xml first_settings_default_location_title
 all SecurityCenter.apk strings.xml first_settings_default_location_subtitle
+all SecurityCenter.apk strings.xml ew_signature_default
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
+all SecurityCenter.apk strings.xml ew_settings_choose_level_value_1
+all SecurityCenter.apk strings.xml ew_settings_choose_level_value_3
+all SecurityCenter.apk strings.xml ew_settings_choose_level_value_2
+all SecurityCenter.apk strings.xml ew_settings_choose_level_value_4
+all SecurityCenter.apk strings.xml fixed_traffic_value_by_month
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_label
 all SecurityCoreAdd.apk strings.xml xspace_default_app_title
 all SecurityCoreAdd.apk strings.xml xspace_default_app_summary

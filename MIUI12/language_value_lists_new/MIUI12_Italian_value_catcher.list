@@ -103,25 +103,25 @@ folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="default_separator_text"
 ---------------------------------------------------------------------------------------
- <string name="default_separator_text">的</string>
+ <string name="default_separator_text">di</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="default_text"
 ---------------------------------------------------------------------------------------
- <string name="default_text">我</string>
+ <string name="default_text">Io</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="relationship_default_separator_text"
 ---------------------------------------------------------------------------------------
- <string name="relationship_default_separator_text">的</string>
+ <string name="relationship_default_separator_text">di</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="relationship_default_text"
 ---------------------------------------------------------------------------------------
- <string name="relationship_default_text">我</string>
+ <string name="relationship_default_text">Io</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -464,6 +464,12 @@ folder="all" application="Calendar.apk" xml="" name="preferences_default_reminde
 folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_later_time_default_value"
 ---------------------------------------------------------------------------------------
  <string name="preferences_default_reminder_later_time_default_value">300000</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="trust_certificate_validity_period_value"
+---------------------------------------------------------------------------------------
+ <string name="trust_certificate_validity_period_value">%1$s – %2$s (will not be enforced)</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1231,7 +1237,7 @@ folder="all" application="framework-res.apk" xml="" name="config_misprovisionedB
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>Intestazione fattura: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Indirizzo: Via, Apt, Città, Paese/Regione, Provincia, Codice postale</item> <item>Si prega di lasciare il pacco davanti alla porta. Grazie!</item> <item>"Aspetta un minuto, torno subito."</item> <item>"Sono in riunione. Per favore, invia un messaggio."</item> <item>"Non posso parlare adesso. Ti richiamerò il prima possibile."</item> <item>Grazie!</item> </string-array>
+ <string-array name="default_phrases"> <item>Intestazione fattura: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data data_ fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Indirizzo: Via, Apt, Città, Paese/Regione, Provincia, Codice postale</item> <item>Si prega di lasciare il pacco davanti alla porta. Grazie!</item> <item>"Aspetta un minuto, torno subito."</item> <item>"Sono in riunione. Per favore, invia un messaggio."</item> <item>"Non posso parlare adesso. Ti richiamerò il prima possibile."</item> <item>Grazie!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1327,25 +1333,13 @@ folder="all" application="ManagedProvisioning.apk" xml="" name="car_ui_toolbar_d
 ---------------------------------------------------------------------------------------
 folder="all" application="MiDrive.apk" xml="" name="cloud_storage_default_title"
 ---------------------------------------------------------------------------------------
- <string name="cloud_storage_default_title">Cloud storage</string>
+ <string name="cloud_storage_default_title">Archiviazione Cloud</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiDrive.apk" xml="" name="exception_default"
 ---------------------------------------------------------------------------------------
- <string name="exception_default">A system error occurred. Wait a minute or two and try again.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir"
----------------------------------------------------------------------------------------
- <string name="setting_default_download_dir">Default download location</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir_title"
----------------------------------------------------------------------------------------
- <string name="setting_default_download_dir_title">Select default download location</string>
+ <string name="exception_default">Si è verificato un errore di sistema. Attendi un minuto o due e riprova.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1693,13 +1687,13 @@ folder="all" application="MiuiBluetooth.apk" xml="" name="window_animation_scale
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiBluetooth.apk" xml="" name="audio_relay_default_device_name"
 ---------------------------------------------------------------------------------------
- <string name="audio_relay_default_device_name">Mi AI Speaker</string>
+ <string name="audio_relay_default_device_name">Altoparlante Mi IA</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiBluetooth.apk" xml="" name="cached_apps_freezer_device_default"
 ---------------------------------------------------------------------------------------
- <string name="cached_apps_freezer_device_default">Device default</string>
+ <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2479,7 +2473,7 @@ folder="all" application="miuisystem.apk" xml="" name="mobile_operator_numeric_v
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="cached_apps_freezer_device_default"
 ---------------------------------------------------------------------------------------
- <string name="cached_apps_freezer_device_default">Device default</string>
+ <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2569,7 +2563,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite_default_title"
 ---------------------------------------------------------------------------------------
- <string name="controls_favorite_default_title">Controls</string>
+ <string name="controls_favorite_default_title">Controlli</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2581,7 +2575,7 @@ folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="quick_settings_ti
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_call_screening_dialog_affirmative">Set as default</string>
+ <string name="change_default_call_screening_dialog_affirmative">Imposta come Predefinita</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2611,7 +2605,7 @@ folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_ca
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">Set as default</string>
+ <string name="change_default_dialer_dialog_affirmative">Imposta come Predefinita</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2786,6 +2780,12 @@ folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 folder="all" application="Mms.apk" xml="" name="contact_values"
 ---------------------------------------------------------------------------------------
  <string-array name="contact_values"> <item>vnd.android.cursor.item/name</item> <item>vnd.android.cursor.item/nickname</item> <item>vnd.android.cursor.item/phone_v2</item> <item>vnd.android.cursor.item/email_v2</item> <item>vnd.android.cursor.item/organization</item> <item>vnd.android.cursor.item/im</item> <item>vnd.android.cursor.item/sip_address</item> <item>vnd.android.cursor.item/contact_event</item> <item>vnd.android.cursor.item/website</item> <item>vnd.android.cursor.item/postal-address_v2</item> <item>vnd.android.cursor.item/note</item> <item>vnd.android.cursor.item/relation</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="default_google_message_promo_content"
+---------------------------------------------------------------------------------------
+ <string name="default_google_message_promo_content">"Hai impostato l\'app messaggi di Google come applicazione di messaggistica predefinita. Premi \"Apri\" per usare l’app."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3185,21 +3185,27 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_signature_default"
+---------------------------------------------------------------------------------------
+ <string name="ew_signature_default">成都高新减灾研究所 大陆地震预警中心</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
 ---------------------------------------------------------------------------------------
- <string name="first_settings_default_camera_title">Share without metadata by default</string>
+ <string name="first_settings_default_camera_title">Condividi senza metadati come predefinito</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_subtitle"
 ---------------------------------------------------------------------------------------
- <string name="first_settings_default_location_subtitle">Remove location info from shared photos</string>
+ <string name="first_settings_default_location_subtitle">Rimuovi informazioni sulla posizione dalle foto condivise</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_title"
 ---------------------------------------------------------------------------------------
- <string name="first_settings_default_location_title">Share without location info by default</string>
+ <string name="first_settings_default_location_title">Condividi in modo predefinito senza informazioni sulla posizione</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3218,6 +3224,30 @@ folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragm
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">Seleziona operatore</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_1"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_1">" (Vibrazione in edifici alti come i grattacieli)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_2"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_2">" (Vibrazione)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_3"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_3">" (Forte vibrazione)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_4"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_4">" (Vibrazione intensa)"</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4705,7 +4735,7 @@ folder="all" application="Settings.apk" xml="" name="auto_brightness_summary_def
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="cached_apps_freezer_device_default"
 ---------------------------------------------------------------------------------------
- <string name="cached_apps_freezer_device_default">Device default</string>
+ <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4735,7 +4765,7 @@ folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_digital_assistant_title"
 ---------------------------------------------------------------------------------------
- <string name="default_digital_assistant_title">Default digital assistant app</string>
+ <string name="default_digital_assistant_title">App predefinita assistente</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4903,7 +4933,7 @@ folder="all" application="Settings.apk" xml="" name="modify_default_browser_mess
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="nfc_payment_update_default_label"
 ---------------------------------------------------------------------------------------
- <string name="nfc_payment_update_default_label">Update default payment app</string>
+ <string name="nfc_payment_update_default_label">Aggiorna app di pagamenti predefinita</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4939,13 +4969,13 @@ folder="all" application="Settings.apk" xml="" name="overlay_option_device_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="platform_compat_default_disabled_title"
 ---------------------------------------------------------------------------------------
- <string name="platform_compat_default_disabled_title">Default disabled changes</string>
+ <string name="platform_compat_default_disabled_title">Modifiche predefinite disabilitate</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="platform_compat_default_enabled_title"
 ---------------------------------------------------------------------------------------
- <string name="platform_compat_default_enabled_title">Default enabled changes</string>
+ <string name="platform_compat_default_enabled_title">Modifiche predefinite abilitate</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4969,7 +4999,7 @@ folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="system_default_app_subtext"
 ---------------------------------------------------------------------------------------
- <string name="system_default_app_subtext">System default</string>
+ <string name="system_default_app_subtext">Predefinito di sistema</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -5030,6 +5060,18 @@ folder="all" application="Settings.apk" xml="" name="input_method_selector_show_
 folder="all" application="Settings.apk" xml="" name="input_method_selector_visibility_default_value"
 ---------------------------------------------------------------------------------------
  <string name="input_method_selector_visibility_default_value">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_none"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_none">Nessuno</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_unknown"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_unknown">Sconosciuto</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -5389,7 +5431,7 @@ folder="all" application="Telecom.apk" xml="" name="window_animation_scale_value
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="cached_apps_freezer_device_default"
 ---------------------------------------------------------------------------------------
- <string name="cached_apps_freezer_device_default">Device default</string>
+ <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -6031,7 +6073,7 @@ folder="all" application="TeleService.apk" xml="" name="window_animation_scale_v
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="cached_apps_freezer_device_default"
 ---------------------------------------------------------------------------------------
- <string name="cached_apps_freezer_device_default">Device default</string>
+ <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -6043,7 +6085,7 @@ folder="all" application="TeleService.apk" xml="" name="connected_via_network_sc
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_carrier_mmi_msg_title"
 ---------------------------------------------------------------------------------------
- <string name="default_carrier_mmi_msg_title">Carrier Message</string>
+ <string name="default_carrier_mmi_msg_title">Messaggio Operatore</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -6199,7 +6241,7 @@ folder="all" application="Traceur.apk" xml="" name="overlay_display_devices_valu
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="cached_apps_freezer_device_default"
 ---------------------------------------------------------------------------------------
- <string name="cached_apps_freezer_device_default">Device default</string>
+ <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
 
 
 ---------------------------------------------------------------------------------------

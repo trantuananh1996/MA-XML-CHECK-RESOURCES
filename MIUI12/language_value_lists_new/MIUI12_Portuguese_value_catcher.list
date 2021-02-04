@@ -173,6 +173,12 @@ folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="trust_certificate_validity_period_value"
+---------------------------------------------------------------------------------------
+ <string name="trust_certificate_validity_period_value">%1$s – %2$s (não vai ser forçado)</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
 ---------------------------------------------------------------------------------------
  <string name="cloud_storage_default_title">Armazenamento Xiaomi Cloud</string>
@@ -289,7 +295,7 @@ folder="all" application="framework-res.apk" xml="" name="popup_window_default_t
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>Factura: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Endereço: Rua, Cidade, País/Região, Província, Código Postal</item> <item>Por favor, deixe o pacote à porta. Obrigado!</item> <item>Espere um minuto que eu já volto</item> <item>Estou numa reunião. Por favor, envie uma mensagem</item> <item>Não posso falar agora. Eu ligo-lhe o mais breve possível</item> <item>Obrigado!</item> </string-array>
+ <string-array name="default_phrases"> <item>Factura: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data data_ fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Endereço: Rua, Cidade, País/Região, Província, Código Postal</item> <item>Por favor, deixe o pacote à porta. Obrigado!</item> <item>Espere um minuto que eu já volto</item> <item>Estou numa reunião. Por favor, envie uma mensagem</item> <item>Não posso falar agora. Eu ligo-lhe o mais breve possível</item> <item>Obrigado!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -625,7 +631,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite_default_title"
 ---------------------------------------------------------------------------------------
- <string name="controls_favorite_default_title">Controls</string>
+ <string name="controls_favorite_default_title">Definições</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -677,6 +683,12 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_paddin
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="default_google_message_promo_content"
+---------------------------------------------------------------------------------------
+ <string name="default_google_message_promo_content">Definiu Mensagens da Google como a sua aplicação predefinida de mensagens. Toque \"Abrir\" para começar a escrever</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="private_entry_default"
 ---------------------------------------------------------------------------------------
  <string name="private_entry_default">Puxe para abrir pastas privadas</string>
@@ -704,6 +716,12 @@ folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
 folder="all" application="NotificationCenter.apk" xml="" name="default_list_type"
 ---------------------------------------------------------------------------------------
  <string name="default_list_type">Ordenar por hora recebida</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="agenda_default"
+---------------------------------------------------------------------------------------
+ <string name="agenda_default">Eventos do calendário</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -803,6 +821,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="bottom_func_guide_default_text"
+---------------------------------------------------------------------------------------
+ <string name="bottom_func_guide_default_text">Mais funcionalidades</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
 ---------------------------------------------------------------------------------------
  <string name="first_settings_default_camera_title">Partilhar sem metadados por defeito</string>
@@ -830,6 +854,30 @@ folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragm
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">Seleccionar operadora</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_1"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_1">" (Vibração em edifícios altos)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_2"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_2">" (Vibração)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_3"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_3">" (Vibração forte)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_4"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_4">" (Vibração muito forte)"</string>
 
 
 ---------------------------------------------------------------------------------------

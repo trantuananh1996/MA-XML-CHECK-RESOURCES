@@ -29,6 +29,7 @@ all Calendar.apk strings.xml preferences_alarm_default_event_title
 all Calendar.apk strings.xml preferences_alarms_default_event
 all Calendar.apk strings.xml pull_refresh_events_default
 all Calendar.apk strings.xml work_day_default_banner_title
+all Calendar.apk strings.xml trust_certificate_validity_period_value
 all Cit.apk strings.xml cit_tool_mbn_default_notfiy
 all Cit.apk strings.xml cit_tool_mbn_no_default_notfiy
 all Cit.apk strings.xml cit_tool_mbn_recovery_default
@@ -94,6 +95,7 @@ all MiRadio.apk strings.xml empty_view_default_text
 all MiRecycle.apk strings.xml default_error_msg
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
+all MiShare.apk strings.xml default_device_name
 all MiuiAccessibility.apk strings.xml preference_value_create_shortcut
 all MiuiAccessibility.apk strings.xml preference_value_has_shortcut
 all MiuiAod.apk strings.xml signature_default_content
@@ -199,6 +201,7 @@ all MiuiVideoGlobal.apk strings.xml subtitle_padding_default_hint
 all MiuiVideoGlobal.apk strings.xml t_lv_subtitle_padding_default_hint
 all MiuiVideoLeo.apk strings.xml defaults
 all MiuiVideoLeo.apk strings.xml notification_default_title
+all Mms.apk strings.xml default_google_message_promo_content
 all Mms.apk strings.xml private_entry_default
 all Mms.apk strings.xml rcs_pref_default_sending_method
 all Mms.apk strings.xml rcs_pref_picture_message_default_quality
@@ -260,6 +263,12 @@ all PermissionController.apk strings.xml default_permission_description
 all PermissionController.apk strings.xml no_default_apps
 all PermissionController.apk strings.xml request_role_current_default
 all PermissionController.apk strings.xml request_role_set_as_default
+all PersonalAssistant.apk strings.xml agenda_default
+all PersonalAssistant.apk strings.xml app_course_title_default
+all PersonalAssistant.apk strings.xml app_display_linkage_default
+all PersonalAssistant.apk strings.xml app_news_default_title
+all PersonalAssistant.apk strings.xml app_pa_setting_head_bg_img_default
+all PersonalAssistant.apk strings.xml app_pa_setting_head_info_default
 all PersonalAssistant.apk strings.xml display_weather_default
 all PersonalAssistant.apk strings.xml flybird_default_channel
 all PersonalAssistant.apk strings.xml flybird_default_channel_main
@@ -274,6 +283,7 @@ all Provision.apk strings.xml terms_of_use_lable_default_input_method_mint
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_facemoji
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_kika
 all SecurityAdd.apk strings.xml gb_gpu_resolution_default
+all SecurityCenter.apk strings.xml bottom_func_guide_default_text
 all SecurityCenter.apk strings.xml ad_btn_default_text
 all SecurityCenter.apk strings.xml app_manager_default_cleared
 all SecurityCenter.apk strings.xml app_manager_default_close_summary
@@ -282,6 +292,7 @@ all SecurityCenter.apk strings.xml app_manager_default_open_title
 all SecurityCenter.apk strings.xml app_manager_defaults_setting
 all SecurityCenter.apk strings.xml cpu_usage_app_bg_restrict_default
 all SecurityCenter.apk strings.xml cpu_usage_app_bg_restrict_default_short
+all SecurityCenter.apk strings.xml ew_signature_default
 all SecurityCenter.apk strings.xml first_settings_default_camera_title
 all SecurityCenter.apk strings.xml first_settings_default_location_subtitle
 all SecurityCenter.apk strings.xml first_settings_default_location_title
@@ -289,6 +300,10 @@ all SecurityCenter.apk strings.xml menu_text_power_percent_title_default
 all SecurityCenter.apk strings.xml tc_diagnostic_fragment_default
 all SecurityCenter.apk strings.xml traffic_setting_fragment_default
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
+all SecurityCenter.apk strings.xml ew_settings_choose_level_value_1
+all SecurityCenter.apk strings.xml ew_settings_choose_level_value_2
+all SecurityCenter.apk strings.xml ew_settings_choose_level_value_3
+all SecurityCenter.apk strings.xml ew_settings_choose_level_value_4
 all SecurityCoreAdd.apk strings.xml space_des_default
 all SecurityCoreAdd.apk strings.xml space_name_default
 all SecurityCoreAdd.apk strings.xml xspace_default_app_summary

@@ -185,6 +185,12 @@ folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="trust_certificate_validity_period_value"
+---------------------------------------------------------------------------------------
+ <string name="trust_certificate_validity_period_value">%1$s – %2$s (wird nicht erzwungen)</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="cit_tool_mbn_default_notfiy"
 ---------------------------------------------------------------------------------------
  <string name="cit_tool_mbn_default_notfiy">Standard-MBN</string>
@@ -451,7 +457,7 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>Rechnungskopf: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png GmbH</item> <item>Adresse: Straße, Wohnung, Stadt, Land/Region, Kreis, Postleitzahl</item> <item>Bitte lassen Sie das Paket an der Tür liegen. Danke!</item> <item>Einen Moment, ich bin gleich wieder da.</item> <item>Ich bin in einer Besprechung. Bitte senden Sie eine Textnachricht.</item> <item>Ich kann jetzt nicht reden. Ich rufe so schnell wie möglich zurück.</item> <item>Danke!</item> </string-array>
+ <string-array name="default_phrases"> <item>Rechnungskopf: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data data_ fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png GmbH</item> <item>Adresse: Straße, Wohnung, Stadt, Land/Region, Kreis, Postleitzahl</item> <item>Bitte lassen Sie das Paket an der Tür liegen. Danke!</item> <item>Einen Moment, ich bin gleich wieder da.</item> <item>Ich bin in einer Besprechung. Bitte senden Sie eine Textnachricht.</item> <item>Ich kann jetzt nicht reden. Ich rufe so schnell wie möglich zurück.</item> <item>Danke!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -572,6 +578,12 @@ folder="all" application="MiSettings.apk" xml="" name="restore_default"
 folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 ---------------------------------------------------------------------------------------
  <string name="hsv_space_color_value">Wert</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiShare.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Unbekanntes Gerät</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1205,6 +1217,12 @@ folder="all" application="MiuiVideoLeo.apk" xml="" name="notification_default_ti
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="default_google_message_promo_content"
+---------------------------------------------------------------------------------------
+ <string name="default_google_message_promo_content">Sie haben Messages von Google als Ihre Standard-Nachrichten-App festgelegt. Auf \"Öffnen\" tippen, um mit einer SMS zu beginnen.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="private_entry_default"
 ---------------------------------------------------------------------------------------
  <string name="private_entry_default">Runter schieben zum Öffnen privater Ordner</string>
@@ -1571,6 +1589,42 @@ folder="all" application="PermissionController.apk" xml="" name="request_role_se
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="agenda_default"
+---------------------------------------------------------------------------------------
+ <string name="agenda_default">Terminplaner</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_course_title_default"
+---------------------------------------------------------------------------------------
+ <string name="app_course_title_default">Stundenplan</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_display_linkage_default"
+---------------------------------------------------------------------------------------
+ <string name="app_display_linkage_default">Innovation für jedermann</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_news_default_title"
+---------------------------------------------------------------------------------------
+ <string name="app_news_default_title">Neuigkeiten</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_pa_setting_head_bg_img_default"
+---------------------------------------------------------------------------------------
+ <string name="app_pa_setting_head_bg_img_default">Nicht festgelegt</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_pa_setting_head_info_default"
+---------------------------------------------------------------------------------------
+ <string name="app_pa_setting_head_info_default">Leer</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
 ---------------------------------------------------------------------------------------
  <string name="display_weather_default">Tippen, um Wetterinfos zu erhalten</string>
@@ -1655,6 +1709,12 @@ folder="all" application="SecurityAdd.apk" xml="" name="gb_gpu_resolution_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="bottom_func_guide_default_text"
+---------------------------------------------------------------------------------------
+ <string name="bottom_func_guide_default_text">Weitere Funktionen</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
 ---------------------------------------------------------------------------------------
  <string name="ad_btn_default_text">Mehr erfahren</string>
@@ -1703,6 +1763,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_rest
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_signature_default"
+---------------------------------------------------------------------------------------
+ <string name="ew_signature_default">Chengdu High-Tech-Forschungsinstitut für Katastrophenvorsorge Kontinentales Erdbeben-Warnzentrum</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
 ---------------------------------------------------------------------------------------
  <string name="first_settings_default_camera_title">Teilen ohne Metadaten als Standard</string>
@@ -1742,6 +1808,30 @@ folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragm
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">Mobilfunkanbieter auswählen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_1"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_1">" (Erschütterungen in Hochhäusern)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_2"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_2">" (Erschütterung)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_3"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_3">" (Starke Erschütterung)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_4"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_4">" (Schwere Erschütterung)"</string>
 
 
 ---------------------------------------------------------------------------------------

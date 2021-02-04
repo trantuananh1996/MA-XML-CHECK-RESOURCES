@@ -395,6 +395,12 @@ folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mirror.apk" xml="" name="default_boss_terminal_name"
+---------------------------------------------------------------------------------------
+ <string name="default_boss_terminal_name">Mi Notebook</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiSettings.apk" xml="" name="restore_default"
 ---------------------------------------------------------------------------------------
  <string name="restore_default">Restaurar padrões</string>
@@ -1178,6 +1184,30 @@ folder="all" application="SecurityCenter.apk" xml="" name="first_settings_defaul
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">Selecionar operadora</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_1"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_1">" (Vibração em edifícios altos)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_2"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_2">" (Vibração)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_3"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_3">" (Vibração forte)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_4"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_4">" (Vibração severa)"</string>
 
 
 ---------------------------------------------------------------------------------------

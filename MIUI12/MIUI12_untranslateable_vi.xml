@@ -2602,4 +2602,17 @@
 	<item application="MiShare.apk" file="strings.xml" folder="all" name="xiaomi_poco_x3"/>
 	<item application="MiShare.apk" file="strings.xml" folder="all" name="xiaomi_10_ultra"/>
 	<item application="MiShare.apk" file="strings.xml" folder="all" name="xiaomi_poco_m2"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="vlog_speed_quarter"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="filter_movie_prosperousangle"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="vlog_speed_normal"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="vlog_speed_treble"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="vlog_filter_wangjiao"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="filter_movie_bbp"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="vlog_filter_bbp"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="filter_movie_to"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="filter_movie_latin"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="vlog_speed_half"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="filter_popular_blackred"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="vlog_speed_double"/>
+	<item application="MiuiGallery.apk" file="strings.xml" folder="all" name="vlog_filter_lading"/>
 </resources>

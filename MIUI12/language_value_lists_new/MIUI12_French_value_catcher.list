@@ -1387,7 +1387,7 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>En-tête de facture: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adresse: Rue, Apt, Ville, Pays / Région, Province, Code postal</item> <item>"S'il vous plaît laissez le paquet par la porte. Merci !"</item> <item>"Attends une minute, je serai de retour."</item> <item>"Je suis en réunion. S'il vous plaît envoyer un message texte."</item> <item>"Je ne peux pas parler maintenant. Je vous rappelle dès que possible."</item> <item>Merci !</item> </string-array>
+ <string-array name="default_phrases"> <item>En-tête de facture: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data data_ fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adresse: Rue, Apt, Ville, Pays / Région, Province, Code postal</item> <item>"S'il vous plaît laissez le paquet par la porte. Merci !"</item> <item>"Attends une minute, je serai de retour."</item> <item>"Je suis en réunion. S'il vous plaît envoyer un message texte."</item> <item>"Je ne peux pas parler maintenant. Je vous rappelle dès que possible."</item> <item>Merci !</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1430,6 +1430,12 @@ folder="all" application="Health.apk" xml="" name="user_invalid_value"
 folder="all" application="Health.apk" xml="" name="value_error_correct"
 ---------------------------------------------------------------------------------------
  <string name="value_error_correct">Edit record</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="ManagedProvisioning.apk" xml="" name="car_ui_toolbar_default_search_hint"
+---------------------------------------------------------------------------------------
+ <string name="car_ui_toolbar_default_search_hint">Recherche…</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2192,6 +2198,12 @@ folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_redee
 folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_remained"
 ---------------------------------------------------------------------------------------
  <string name="mibi_unit_value_remained">%1$s Mi Coin remained</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="agenda_default"
+---------------------------------------------------------------------------------------
+ <string name="agenda_default">Événements du calendrier</string>
 
 
 ---------------------------------------------------------------------------------------

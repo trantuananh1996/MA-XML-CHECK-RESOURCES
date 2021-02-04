@@ -101,6 +101,18 @@ folder="all" application="Calculator.apk" xml="" name="unit_data_default_currenc
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_data_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_data_0">mb</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_data_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_data_1">kb</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_temperature_0"
 ---------------------------------------------------------------------------------------
  <string name="unit_data_default_temperature_0">C</string>
@@ -218,6 +230,12 @@ folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default
 folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
 ---------------------------------------------------------------------------------------
  <string name="work_day_default_banner_title">Să aveți o zi productivă la servici!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="trust_certificate_validity_period_value"
+---------------------------------------------------------------------------------------
+ <string name="trust_certificate_validity_period_value">%1$s – %2$s (nu va fi pus în aplicare)</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -374,6 +392,12 @@ folder="all" application="EasterEgg.apk" xml="" name="default_cat_name"
 folder="all" application="EasterEgg.apk" xml="" name="default_tile_name"
 ---------------------------------------------------------------------------------------
  <string name="default_tile_name">\????</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="alphabet_chars2"
+---------------------------------------------------------------------------------------
+ <string-array name="alphabet_chars2"> <item>A</item> <item>B</item> <item>C</item> <item>D</item> <item>E</item> <item>F</item> <item>G</item> <item>H</item> <item>I</item> <item>J</item> <item>K</item> <item>L</item> <item>M</item> <item>N</item> <item>O</item> <item>P</item> <item>Q</item> <item>R</item> <item>S</item> <item>T</item> <item>U</item> <item>V</item> <item>W</item> <item>X</item> <item>Y</item> <item>Z</item> <item>\#</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -535,7 +559,7 @@ folder="all" application="framework-res.apk" xml="" name="default_audio_route_na
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="default_browser"
 ---------------------------------------------------------------------------------------
- <string name="default_browser"/>
+ <string name="default_browser" />
 
 
 ---------------------------------------------------------------------------------------
@@ -559,7 +583,7 @@ folder="all" application="framework-res.apk" xml="" name="etws_primary_default_m
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_others"
 ---------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_others"/>
+ <string name="etws_primary_default_message_others" />
 
 
 ---------------------------------------------------------------------------------------
@@ -613,7 +637,7 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>Antetul facturii: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adresă: Stradă, Ap., Oraș, Țară/Regiune, Provincie, Cod poștal</item> <item>Vă rog să lăsați pachetul lângă ușă. Mulțumesc!</item> <item>Așteaptă puțin, mă întorc imediat.</item> <item>Sunt într-o ședință. Vă rog să-mi trimiteți mesaj.</item> <item>Nu pot vorbi acum. Revin cu un telefon imediat.</item> <item>Mulțumesc!</item> </string-array>
+ <string-array name="default_phrases"> <item>Antetul facturii: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data data_ fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adresă: Stradă, Ap., Oraș, Țară/Regiune, Provincie, Cod poștal</item> <item>Vă rog să lăsați pachetul lângă ușă. Mulțumesc!</item> <item>Așteaptă puțin, mă întorc imediat.</item> <item>Sunt într-o ședință. Vă rog să-mi trimiteți mesaj.</item> <item>Nu pot vorbi acum. Revin cu un telefon imediat.</item> <item>Mulțumesc!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -701,6 +725,24 @@ folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mirror.apk" xml="" name="buffer_size_values"
+---------------------------------------------------------------------------------------
+ <array name="buffer_size_values"> <item>@null</item> <item>64 Kb</item> <item>128 Kb</item> <item>256 Kb</item> <item>512 Kb</item> <item>1 Mb</item> </array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mirror.apk" xml="" name="buffer_size_values"
+---------------------------------------------------------------------------------------
+ <array name="buffer_size_values"> <item>@null</item> <item>64 Kb</item> <item>128 Kb</item> <item>256 Kb</item> <item>512 Kb</item> <item>1 Mb</item> </array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mirror.apk" xml="" name="default_boss_terminal_name"
+---------------------------------------------------------------------------------------
+ <string name="default_boss_terminal_name">Mi Notebook</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiSettings.apk" xml="" name="restore_default"
 ---------------------------------------------------------------------------------------
  <string name="restore_default">Restaurați setările implicite</string>
@@ -715,7 +757,7 @@ folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiShare.apk" xml="" name="default_device_name"
 ---------------------------------------------------------------------------------------
- <string name="default_device_name">Unknown device</string>
+ <string name="default_device_name">Dispozitiv necunoscut</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1249,7 +1291,7 @@ folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="quick_settings_tiles_default"
 ---------------------------------------------------------------------------------------
- <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,freeformhang,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,custom(com.google.android.gms/.nearby.sharing.SharingTileService),screenbutton,wirelesspower,nfc,edit</string>
+ <string name="quick_settings_tiles_default">vowifi1,vowifi2,celulă,wi-fi,lanternă,mut,captură de ecran,bt,iluminare automată,avion,blocare ecran,gps,rotire,scaner,mod hârtie,noapte,mod silențios,economisire acumulator,ultra economisire acumulator,personalizat(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),personalizat(com.milink.service/com.milink.ui.service.MiLinkTileService),personalizat(com.miui.mishare.connectivity/.tile.MiShareTileService),mod energie,freeformhang,personalizat(com.miui.screenrecorder/.service.QuickService),vibrație,hotspot,sincronizare,personalizat(com.google.android.gms/.nearby.sharing.SharingTileService),butoane ecran,putere wireless,nfc,editare</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1352,6 +1394,12 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="subtitle_padding_def
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="t_lv_subtitle_padding_default_hint">Se ajustează subtitrări</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="default_google_message_promo_content"
+---------------------------------------------------------------------------------------
+ <string name="default_google_message_promo_content">Ați setat Mesageria Google ca aplicație de mesagerie implicită. Atingeți \"Deschideți\" pentru a începe să trimiteți mesaje text.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1583,6 +1631,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="bottom_func_guide_default_text"
+---------------------------------------------------------------------------------------
+ <string name="bottom_func_guide_default_text">Mai multe caracteristici</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
 ---------------------------------------------------------------------------------------
  <string name="first_settings_default_camera_title">Partajați în mod implicit fără metadate</string>
@@ -1616,6 +1670,30 @@ folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragm
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">Selectați operatorul</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_1"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_1">" (Vibrații în clădirile înalte)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_2"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_2">" (Vibrații)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_3"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_3">" (Vibrații puternice)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_4"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_4">" (Vibrații severe)"</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1867,7 +1945,7 @@ folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="help_uri_default"
 ---------------------------------------------------------------------------------------
- <string name="help_uri_default"/>
+ <string name="help_uri_default" />
 
 
 ---------------------------------------------------------------------------------------
@@ -2101,19 +2179,19 @@ folder="all" application="TeleService.apk" xml="" name="connected_via_network_sc
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_domain_address"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_domain_address">&lt;Nesetat&gt;</string>
+ <string name="default_preference_summary_domain_address">&lt;Nesetat></string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_password"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_password">&lt;Nesetat&gt;</string>
+ <string name="default_preference_summary_password">&lt;Nesetat></string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_username"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_username">&lt;Nesetat&gt;</string>
+ <string name="default_preference_summary_username">&lt;Nesetat></string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2137,7 +2215,7 @@ folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="msim_select_default_time_left"
 ---------------------------------------------------------------------------------------
- <string name="msim_select_default_time_left">(%ds)</string>
+ <string name="msim_select_default_time_left">(%d s)</string>
 
 
 ---------------------------------------------------------------------------------------

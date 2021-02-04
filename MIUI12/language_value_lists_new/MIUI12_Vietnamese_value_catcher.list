@@ -281,6 +281,18 @@ folder="all" application="Calculator.apk" xml="" name="relationship_default_text
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_data_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_data_0">MB</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_data_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_data_1">KB</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="label_total_value"
 ---------------------------------------------------------------------------------------
  <string name="label_total_value">Tổng giá trị</string>
@@ -1477,7 +1489,7 @@ folder="all" application="framework-res.apk" xml="" name="biometric_dialog_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>Tiêu đề hóa đơn: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Địa chỉ: Đường, Căn hộ, Thành phố, Quốc gia/Vùng, Tỉnh, Mã bưu chính</item> <item>Vui lòng đặt gói hàng ngoài cửa. Cảm ơn!</item> <item>"Chờ chút, tôi sẽ quay lại ngay."</item> <item>"Tôi đang họp. Vui lòng gửi tin nhắn văn bản."</item> <item>"Bây giờ tôi không thể nói chuyện. Tôi sẽ gọi lại cho bạn sớm nhất có thể."</item> <item>Cảm ơn!</item> </string-array>
+ <string-array name="default_phrases"> <item>Tiêu đề hóa đơn: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data data_ fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Địa chỉ: Đường, Căn hộ, Thành phố, Quốc gia/Vùng, Tỉnh, Mã bưu chính</item> <item>Vui lòng đặt gói hàng ngoài cửa. Cảm ơn!</item> <item>"Chờ chút, tôi sẽ quay lại ngay."</item> <item>"Tôi đang họp. Vui lòng gửi tin nhắn văn bản."</item> <item>"Bây giờ tôi không thể nói chuyện. Tôi sẽ gọi lại cho bạn sớm nhất có thể."</item> <item>Cảm ơn!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -3377,9 +3389,45 @@ folder="all" application="SecurityCenter.apk" xml="" name="first_settings_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_signature_default"
+---------------------------------------------------------------------------------------
+ <string name="ew_signature_default">Viện nghiên cứu giảm nhẹ thiên tai công nghệ cao Thành Đô Trung tâm cảnh báo động đất lục địa</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">Chọn nhà cung cấp</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_1"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_1">" (Rung động trong các tòa nhà cao tầng)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_3"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_3">" (Rung lắc mạnh)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_2"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_2">" (Rung)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_4"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_4">" (Rung lắc nghiêm trọng)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="fixed_traffic_value_by_month"
+---------------------------------------------------------------------------------------
+ <string name="fixed_traffic_value_by_month">Giới hạn lưu lượng cố định hàng tháng</string>
 
 
 ---------------------------------------------------------------------------------------

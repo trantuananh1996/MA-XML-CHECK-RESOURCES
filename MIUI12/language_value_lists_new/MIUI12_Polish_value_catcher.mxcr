@@ -36,6 +36,7 @@ all Calendar.apk strings.xml miuix_search_recommendation_default_title
 all Calendar.apk strings.xml preferences_alarms_default_event
 all Calendar.apk strings.xml pull_refresh_events_default
 all Calendar.apk strings.xml work_day_default_banner_title
+all Calendar.apk strings.xml trust_certificate_validity_period_value
 all CloudService.apk strings.xml cloud_storage_default_title
 all Contacts.apk strings.xml bind_simcard_default
 all Contacts.apk strings.xml contacts_default_notification_channel
@@ -89,6 +90,7 @@ all Mipay.apk strings.xml mipay_nfc_shop_name_default
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiRecycle.apk strings.xml default_error_msg
+all Mirror.apk strings.xml default_boss_terminal_name
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiAccessibility.apk strings.xml preference_value_create_shortcut
@@ -163,6 +165,7 @@ all MiuiVideo.apk strings.xml language_default
 all MiuiVideo.apk strings.xml toast_screen_text_default
 all MiuiVideoLeo.apk strings.xml defaults
 all Mms.apk strings.xml private_entry_default
+all Mms.apk strings.xml default_google_message_promo_content
 all MtkTeleService.apk arrays.xml clir_display_values
 all MtkTeleService.apk arrays.xml clir_display_values
 all MtkTeleService.apk strings.xml areacode_set_default
@@ -273,6 +276,7 @@ all SecurityCenter.apk strings.xml traffic_setting_fragment_default
 all SecurityCenter.apk strings.xml first_settings_default_camera_title
 all SecurityCenter.apk strings.xml first_settings_default_location_subtitle
 all SecurityCenter.apk strings.xml first_settings_default_location_title
+all SecurityCenter.apk strings.xml bottom_func_guide_default_text
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
 all SecurityCoreAdd.apk strings.xml space_des_default
 all SecurityCoreAdd.apk strings.xml space_name_default
